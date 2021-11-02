@@ -13,12 +13,41 @@
 
 ## <a name="A"> </a>A
 
-- Company : [AltSchoolAfrica](https://altschoolafrica.com/)
+* Company : [AltSchoolAfrica](https://altschoolafrica.com/)
 
-- Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](https://twitter.com/hackSultan)
+  - Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](https://twitter.com/hackSultan)
 
-- Industry: Tech Education
+  - Industry: Tech Education
 
+Company: [AutochekAfrica](https://www.autochek.africa/ng)
+
+Founder: @etopty
+
+Industry: Automobile/Auto-Tech 
+
+Company: [abokiafrica](https://aboki.africa/)
+ 
+Founders: [@femicodes]() & [@kingidee]()
+ 
+Industry: Fintech
+
+Company: [afriktrip](https://afriktrip.com/)
+ 
+Founder: @mr_adesal
+ 
+Industry: Travels and Tours
+
+Company: [anafricanfuture](https://www.future.africa/)
+
+Founder: @iaboyeji
+
+Industry: VC
+
+Company: [abeg_app](https://abeg.app/profile/abegstore)
+
+Founder: @dare___a
+
+Industry: Fintech
 
 ## <a name="B"> </a>B
 
@@ -28,590 +57,458 @@
 
   - Industry: Business Banking
 
+* Company: [BanklyNG](https://www.bankly.ng/)
+ 
+  - Founders: Fredrick Adams x Tomilola Adriana
+
+  - Industry: Digital Wealth (Fintech)
+
+* Company: [buildwithbloc](https://www.blochq.io/)
+ 
+Founder : [@pyjama_ceo](https://twitter.com/pyjama_ceo)
+ 
+Industry: fintech
+
+Company:  [Bridgerafrica](http://app.bridger.africa/)
+ 
+Founder: [@JSBabasanmi]()
+ 
+Industry: Export and Export financing
+
+Company: [buysafehouse](https://www.buysafehouse.com/)
+
+Founder: [@SeunKOlajide]()
+
+Industry: Real Estate
+
+Company: [bukableco](https://www.bukable.co/)
+
+Founders: @enyosam_
+
+Industry: Freelance, Tech learning & Outsourcing
+
 ## <a name="C"> </a>C
 
-- Company :[CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
+- Company: [CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
  
   - Founder: [@chizom_](https://twitter.com/chizom_)
  
-- Industry: Tech Education
+  - Industry: Tech Education
+
+* Company: [Cowrywise](https://cowrywise.com/)
+
+  - Founders: Razaq Ahmed x Edward Popoola
+
+  - Industry: Digital Wealth (Fintech)
+
+## <a name="D"> </a>D
+
+* Company: [DecagonIns](https://decagonhq.com/)
+ 
+   - Founder: [@ChikaNwobi]()
+ 
+   - Industry: Tech learning & outsourcing 
+
+* Company: [DarumNg](https://darum.ng/)
+ 
+  - Founders: They are not on Twitter (@OlaideOlaniyi_M)
+
+  - Industry: Logistics
+
+ ## <a name="E"> </a>E
+
+* Company: [EjaraApp](https://www.ejara.io/)
+
+  - Founders: [@chakaneld](https://twitter.com/chakaneld)
+
+  - Industry: Fintech
+
+* Company: [ecoSokoni](https://www.ecosokoni.co.ke/)
+ 
+  - Founders : [@MHANDISI_IAN](https://twitter.com/MHANDISI_IAN)
+ 
+  - Industry : Agriculture
+
+* Company: [EGMarkets](http://access.eagleglobalmarkets.com/)
+ 
+  - Founder: Gbite Oduneye
+
+  - Industry: Financial Derivatives
+
+ ## <a name="F"> </a>F
+
+* Company: [FlyingDoctorsIC](http://fdinvestmentcompany.com/)
+ 
+  - Founder : [@NaijaFlyingDr](https://twitter.com/NaijaFlyingDr)
+
+  - Industry: healthcare
+
+
+  Company: [FamasiAfrica](https://www.famasi.africa/plans-and-pricing/)
+ 
+Founders: @justsay_didi x @alfaruqstories
+ 
+Industry: Digital pharmacy
+
+Company: [Farmed_NG](facebook.com/FarmedForte/
+ 
+Founders : @jay_can_do × @27kJamal × @edidiongmekong
+
+Industry : AgroTech
+
+Company: [FirstCheckHQ](https://www.firstcheck.africa/)
+
+Founders: [@ElohoGM]() x [@OdunEweniyi]()
+
+Industry: VC
 
 ## <a name="G"> </a>G
 
 - Company: [getBumpa](https://getbumpa.com/)
 
-- Founders : [@tushgeek](https://twitter.com/tushgeek) + [@TeeJaY_Codes](https://twitter.com/TeeJaY_Codes)
+   - Founders : [@tushgeek](https://twitter.com/tushgeek) + [@TeeJaY_Codes](https://twitter.com/TeeJaY_Codes)
 
-- Industry : E-commerce Founders
+  - Industry : E-commerce Founders
 
 - Company: [getequity](https://www.getequity.io/)
  
-- Founders: [@bigbrutha_](https://twitter.com/bigbrutha_) and [@WilliamOkafor](https://twitter.com/WilliamOkafor)
+  - Founders: [@bigbrutha_](https://twitter.com/bigbrutha_) and [@WilliamOkafor](https://twitter.com/WilliamOkafor)
  
-- Industry: Startup Financing
+  - Industry: Startup Financing
+
+* Company: [grazacng](https://www.grazac.com.ng/)
+
+  - Founder: @AdeleyeVictor_
+
+  - Industry: Tech Ed.
+
+* Company : [Geotopup](https://geotopup.com/)
+
+  - Founder : [@ejilolahmed](https://twitter.com/ejilolahmed)
+
+  - Industry : Fintech
 
 ## <a name="H"> </a>H
 
 - Company: [helicarrierinc](https://helicarrier.studio/)
  
-- Founders: [@ireaderinokun](https://twitter.com/ireaderinokun) + [@timigod](https://twitter.com/timigod) + [@alephile](https://twitter.com/alephile)
+  - Founders: [@ireaderinokun](https://twitter.com/ireaderinokun) + [@timigod](https://twitter.com/timigod) + [@alephile](https://twitter.com/alephile)
  
-- Industry: Web3
+  - Industry: Web3
+
+* Company: [hytchafrica](https://hytch.africa/)
+
+  - Founder: @thislaolu
+
+  - Industry: Shared commuting.
 
 ## <a name="I"> </a>I
 
 - Company: [ifluxdotapp](https://iflux.app/)
 
-- Founder: [@ifluxdotapp](https://twitter.com/ifluxdotapp)
+  - Founder: [@ifluxdotapp](https://twitter.com/ifluxdotapp)
 
-- ndustry: payment infrastructure
+  - Industry: payment infrastructure
+
+## <a name="K"> </a>K
+
+* Company: [kudabank](https://kudabank.com/)
+
+  - Founder: @Babsogundeyi
+
+  - Industry: Fintech 
+
+* Company: [Kudi](https://kudi.com/marketplace/)
+
+  - Founder: @waleyinks co founder: Pelumi
+
+  - Industry: Agency Banking/Digital banking
+
+* Company: [kudibar](https://kudibar.com/)
+ 
+   - Founder: @codebasher_
+ 
+   - Industry: Event ticketing platform
+
+* Company: [Kashbase](https://kashbase.com/)
+
+  - Founder: @TheMideOlayinka
+ 
+  - Industry: Savings infrastructure
 
 ## <a name="L"> </a>L
 
 - Company: [LemonadeFinance](https://www.lemonade.finance/)
  
-- Founder: [@ridwan_olalere](https://twitter.com/ridwan_olalere)
+  - Founder: [@ridwan_olalere](https://twitter.com/ridwan_olalere)
  
-- Industry: FinTech
-
-## <a name="P"> </a>P
-
-- Company: [PiggyBankNG](https://www.piggyvest.com/)
- 
-- Founders : [@OdunEweniyi](https://twitter.com/OdunEweniyi) Etal 
-
-- ndustry: Savings infrastructure
-
+  - Industry: FinTech
 
 ## <a name="S"> </a>S
 
 - Company: [SwiftFinanceApp](https://www.swiftfinance.app/)
  
-- Founders: [@dammieololade](https://twitter.com/dammieololade) + [@adeileri](https://twitter.com/adeileri) + [@Anani_oluwatobi](https://twitter.com/Anani_oluwatobi)
+  - Founders: [@dammieololade](https://twitter.com/dammieololade) + [@adeileri](https://twitter.com/adeileri) + [@Anani_oluwatobi](https://twitter.com/Anani_oluwatobi)
  
-- Industries: SME Banking
+  - Industries: SME Banking
 
 
 ## <a name="T"> </a>T
 
-- Company: [theflutterwave](https://www.flutterwave.com/us/)
+* Company: [theflutterwave](https://www.flutterwave.com/us/)
  
-- Founders : [@TechProd_Arch](https://twitter.com/TechProd_Arch) + [@iaboyeji](https://twitter.com/iaboyeji)
+  - Founders : [@TechProd_Arch](https://twitter.com/TechProd_Arch) + [@iaboyeji](https://twitter.com/iaboyeji)
  
-- Industry : Payment infrastructure 
+  - Industry : Payment infrastructure 
 
 
-- Company : [TalentQL](https://talentql.com/)
+* Company : [TalentQL](https://talentql.com/)
  
-- Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) and [@hackSultan](https://twitter.com/hackSultan)
+  - Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) and [@hackSultan](https://twitter.com/hackSultan)
  
-- Industry : Tech Recruitment
+  - Industry : Tech Recruitment
 
 
-- Company: [Timely Advisory ]()
+* Company: [Timely Advisory ]()
 
-- Founders: [@ehindola](https://twitter.com/ehindola) and [@oladapoyusuf](https://twitter.com/oladapoyusuf)
+  - Founders: [@ehindola](https://twitter.com/ehindola) and [@oladapoyusuf](https://twitter.com/oladapoyusuf)
  
-- Industry: legal and finance advisory
+  - Industry: legal and finance advisory
 
 
-- Company: [TerragonGroup](https://terragongroup.com/)
+* Company: [TerragonGroup](https://terragongroup.com/)
  
-- Founder: [@Eloumeh](https://twitter.com/Eloumeh)
+  - Founder: [@Eloumeh](https://twitter.com/Eloumeh)
  
-- Industry: Data and Marketing technology
+  - Industry: Data and Marketing technology
+
+
+* Company: [ToffeeTribe](https://www.toffeetribe.com/)
+ 
+  - Founders : [@NgindaNganga](https://twitter.com/) + [@KarambuMathai](https://twitter.com/)
+ 
+  - Industry: Remote Work Directory
+
+* Company: [tradeDepotHQ](https://www.tradedepot.co/)
+
+  - Founder: [@kachizukanne](https://twitter.com/)
+
+  - Industry: Retail 
+
+* Company: [themoneyafrica](https://themoneyafrica.com/)
+ 
+  - Founder: [@tosinolaseinde](https://twitter.com/)
+ 
+  - Industry: Edutech
+
+* Company: [TreepzHQ]()
+ 
+  - Founders: [@onyekaakumah](https://twitter.com/) x [@johnnyena](https://twitter.com/) x [@darkshayy](https://twitter.com/) x [@john_shaibu](https://twitter.com/)
+ 
+  - Industry: Shared Mobility
+
+## <a name="P"> </a>P
+
+- Company: [PiggyBankNG](https://www.piggyvest.com/)
+ 
+  - Founders : [@OdunEweniyi](https://twitter.com/OdunEweniyi) Etal 
+
+  - Industry: Savings infrastructure
+
+* Company: [Patricia](https://www.mypatricia.co/)
+
+  - Founder: [@Fejizzy](https://twitter.com/Fejizzy)
+
+  - Industry: Fintech
+
+Company : [Pickmeupservice]()
+
+Founders: [@SkimaSax](https://twitter.com/SkimaSax) x [@AdewaleOretuga](https://twitter.com/AdewaleOretuga)
+
+Industry: logistics
+
+Company: [paystack](https://paystack.com/)
+ 
+Founders: [@shollsman])(https://twitter.com/) x [@0x](https://twitter.com/)
+ 
+Industry: Payment infrastructure
+
+Company: [PayPeckerHQ](https://paypecker.co/)
+ 
+Founder : [@docolumide](https://twitter.com/docolumide)
+ 
+Industry: E-commerce 
 
 ## <a name="Q"> </a>Q
 
-- Company: [QuabblyHQ](https://quabbly.com/)
+* Company: [QuabblyHQ](https://quabbly.com/)
  
-- Founders: 
+  - Founders: 
 [@theernestdavid](https://twitter.com/theernestdavid) + [@jamzig1](https://twitter.com/jamzig1)
  
-- Industry: Automation, No-Code
+  - Industry: Automation, No-Code
 
+## <a name="R"> </a>R
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-Company: 
-@ToffeeTribe
+* Company: [Risevest](https://rise.capital/)
  
-Founders : 
-@NgindaNganga
+  - Founders: [@eldivyn](https://twitter.com/eldivyn) x Bosun Olarenwaju x Tony Odiba
+
+  - Industry: Digital Wealth (Fintech)
+
+* Company: [ReelFruit](https://reelfruit.com/)
  
-@KarambuMathai
+  - Founder: [@AffiSupaStar](https://twitter.com/AffiSupaStar)
  
-Industry: Remote Work Directory
+  - Industry: agritech
 
+## <a name="X"> </a>X
 
-C: 
-@Risevest
+* Company: [xendfinance](https://xend.finance/)
  
-F: 
-@eldivyn
- x Bosun Olarenwaju x Tony Odiba
-I: Digital Wealth (Fintech)
-
-
-C: 
-@BanklyNG
+  - Founder: [@AronuUgochukwu](https://twitter.com/AronuUgochukwu)
  
-F: Fredrick Adams x Tomilola Adriana
-I: Digital Wealth (Fintech)
+  - Industry: DeFi
 
 
-C: 
-@cowrywise
-F: Razaq Ahmed x Edward Popoola
-I: Digital Wealth (Fintech)
 
 
-Company : 
-@Pickmeupservice
-Founders: 
-@SkimaSax
- and 
-@AdewaleOretuga
-Industry: logistics
 
+## <a name="W"> </a>W
 
-Company: 
-@EjaraApp
-Founders : 
-@chakaneld
-Industry : Fintech
-
-Company: 
-@ourpaydayHQ
+Company: [WellaHealth](https://www.wellahealth.com/)
  
-Founder: 
-@Favourori_
+Founders: [@docneto](https://twitter.com/docneto)
+ 
+Industry: Healthtech
+
+Company: [weare54gene](https://54gene.com/)
+
+Founder: @AbasiEneobong
+
+Industry: Health Tech
+
+## <a name="J"> </a>J
+
+Company: [jiggyvest](https://www.jiggyvest.com/)
+
+Founder: [@hachi](https://twitter.com/hachi)
+
+Industry: JiggyTech
+
+
+## <a name="U"> </a>U
+
+Company: [uLessonApp](https://ulesson.com/)
+ 
+Founder: [@SimShagaya](https://twitter.com/SimShagaya)
+ 
+Industry: Edutech
+
+Company: [unboxdgifts](https://www.unboxd.gifts/)
+ 
+Founder: [@mrtoluadesina]()
+
+Industry: Fintech
+
+## <a name="O"> </a>O
+
+Company: [ourpaydayHQ](https://usepayday.com/)
+ 
+Founder: [@Favourori_](https://twitter.com/Favourori_)
  
 Industry: Financial technology infrastructure
 
 
-Company: 
-@jiggyvest
-Founder: 
-@hachi
-Industry: JiggyTech
+Company: [onlinehubng](https://onlinehubng.com/) @myclassroomng
+
+Founder: @isholabaryor
+
+Industry: EdTech
 
 
-Company: 
-@PayPeckerHQ
+Company: [offmychest_app](https://omcmobile.app/)
  
-Founder : 
-@docolumide
- 
-Industry: e commerce 
-
-
-Company 
-@uLessonApp
- 
-Founder: 
-@SimShagaya
- 
-Industry: Edutech
-
-
-Company: 
-@FlyingDoctorsIC
- 
-Founder : 
-@NaijaFlyingDr
- 
-Industry: healthcare
-
-
-Company: 
-@ReelFruit
- 
-Founder: 
-@AffiSupaStar
- 
-Industry: agritech(
-
-
-  Company : 
-@geotopup
-Founder : 
-@ejilolahmed
-Industry : Fintech
-
-
-Company: 
-@WellaHealth
- 
-Founders: 
-@docneto
- 
-Industry: Healthtech
-
-Company: 
-@nguvuhealth
- 
-Founders: 
-@jfkoya
- 
-Industry: Healthtech
-
-
-Company: Patricia
-
-Founder:
-@Fejizzy
-
-Industry: Fintech
-
-
-Company: 
-@ecoSokoni
- 
-Founders : 
-@MHANDISI_IAN
- 
-Industry : Agriculture
-
-
-Company: 
-@xendfinance
- 
-Founder: 
-@AronuUgochukwu
- 
-Industry: DeFi
-
-
-Company: 
-@offmychest_app
- 
-Founders: 
-@davidobidu
-  & 
-@Mercee__
+Founders: [@davidobidu](https://twitter.com/davidobidu) x [@Mercee__](https://twitter.com/Mercee__)
  
 Industry: Healthcare & Social Networking
 
 
-
-Company- 
-@handypal_ng
+Company: [OurPassCo](https://www.ourpass.co/)
  
-Founder: 
-@alajabrownedola
- alaj
+Founders: @Mzter_sam http://et.al
+
+Industry: Payment infrastructure
+
+
+## <a name="N"> </a>N
+
+
+Company: [nguvuhealth](https://www.nguvuhealth.com/)
+ 
+Founders: [@jfkoya](https://twitter.com/jfkoya)
+ 
+Industry: Healthtech
+
+
+## <a name="H"> </a>H
+
+
+
+Company: [handypal_ng](http://www.hanypalng.com/)
+ 
+Founder: [@alajabrownedola](https://twitter.com/alajabrownedola) x [alaj](https://twitter.com/alaj)
+
 Industry: ArtisanTech
 
 
-Company: 
-@yourflexapp
+
+
+## <a name="Y"> </a>Y
+
+Company: [yourflexapp](https://flex.com.ng/)
  
-Founder: 
-@realsisititi
- & 
-@ekojournalist
- eko
-Industry:Funtech
+Founder: [@realsisititi](https://twitter.com/realsisititi) x [@ekojournalist](https://twitter.com/ekojornalist)
+
+Industry: Funtech
 
 
-Company : 
-@smartretailNG
-Founder : 
-@Ade_lekannnn
+## <a name="M"> </a>M
+
+Company : [smartretailNG](https://twitter.com/smartretailng)
+
+Founder : @Ade_lekannnn
+
 Industry : Retail & commerce
 
 
-Company: 
-@buildwithbloc
- 
-founder : 
-@pyjama_ceo
- 
-Industry: fintech
+Company: [myclassroomng]() 
 
-Company: 
-@MytruQ
-Founder: 
-@WilliamsFatayo
+Founder: @isholabaryor
+
+Industry: EdTech
+
+
+Company: [MytruQ](https://mytruq.com/)
+
+Founder: @WilliamsFatayo
+
 Industry: Logistics
 
 
-Company: 
-@SpireAfrica
-Founders: 
-@madebycharles
- and ...
+## <a name="S"> </a>S
+
+
+Company: [SpireAfrica](https://www.spire.africa/)
+
+Founders: @madebycharles
+
 Industry: Customer Experience (feedback)
 
 
-Company: 
-@abeg_app
-Founder: 
-@dare___a
-Industry: Fintech
-
-
-Company: 
-@AutochekAfrica
-Founder: 
-@etopty
-Industry: Automobile/Auto-Tech 
-
-Company: 
-@tradeDepotHQ
-Founder: 
-@kachizukanne
-Industry: Retail 
-
-
-
-Company: 
-@kudabank
-Founder: 
-@Babsogundeyi
-Industry: Fintech 
-
-
-
-Company: 
-@weare54gene
-Founder: 
-@AbasiEneobong
-Industry: Health Tech
-
-Company: 
-@anafricanfuture
-Founder: 
-@iaboyeji
-Industry: VC
-
-
-Company: 
-@buysafehouse
-Founder: 
-@SeunKOlajide
-Industry: Real Estate
-
-Company: 
-@FirstCheckHQ
-Founders: 
-@ElohoGM
- and 
-@OdunEweniyi
-Industry: VC
-
-
-Company: 
-@Bridgerafrica
+Company: [SoochNigeria](m.facebook.com/soochnigeria)
  
-Founder: 
-@JSBabasanmi
- 
-Industry: Export and Export financing
-
-
-Company: 
-@abokiafrica
- 
-Founders: 
-@femicodes
- & 
-@kingidee
- 
-Industry: Fintech
-
-Company: 
-@DecagonIns
- 
-Founder: 
-@ChikaNwobi
- 
-Industry: Tech learning & outsourcing 
-
-Company: 
-@unboxdgifts
- 
-Founder: 
-@mrtoluadesina
-Industry: Fintech
-
-
-Company: 
-@TreepzHQ
- 
-Founders: 
-@onyekaakumah
- 
-@johnnyena
- 
-@darkshayy
- 
-@john_shaibu
- 
-Industry: Shared Mobility
-
-
-Company: 
-@grazacng
-Founder: 
-@AdeleyeVictor_
- 
-Industry: Tech Ed.
-
-Company: 
-@afriktrip
- 
-Founder: 
-@mr_adesal
- 
-Industry: Travels and Tours
-
-
-Company: 
-@DarumNg
- 
-Founders: They are not on Twitter (
-@OlaideOlaniyi_M
- )
-Industry: Logistics
-
-
-Company: 
-@bukableco
-Founders: 
-@enyosam_
-Industry: Freelance, Tech learning & Outsourcing
-
-
-
-Company: 
-@kudibar
- 
-Founder: 
-@codebasher_
- 
-Industry: Event ticketing platform
-
-
-Company: 
-@OurPassCo
- 
-Founders: 
-@Mzter_sam
- http://et.al
-Industry: Payment infrastructure
-
-Company: 
-@hytchafrica
-Founder: 
-@thislaolu
-Industry: Shared commuting.
-
-
-Company: 
-@FamasiAfrica
- 
-Founders: 
-@justsay_didi
- 
-@alfaruqstories
- 
-Industry: digital pharmacy
-
-
-Company: 
-@EGMarkets
- 
-Founder: Gbite Oduneye
-Industry: Financial Derivatives
-
-
-Company: 
-@SoochNigeria
- 
-Founder: 
-@jay_can_do
+Founder: @jay_can_do
  
 Industry : Beverage/Food Processing
-
-
-Company: Kudi
-Founder: 
-@waleyinks
- co founder: Pelumi
-Industry: Agency Banking/Digital banking
-
-
-Company: 
-@onlinehubng
-, 
-@myclassroomng
-Founder: 
-@isholabaryor
-Industry: #EdTech
-
-
-Company: 
-@Farmed_NG
- 
-Founders : 
-@jay_can_do
- × 
-@27kJamal
-× 
-@edidiongmekong
-Industry : AgroTech
-
-
-Company: Kashbase
-Founder: 
-@TheMideOlayinka
- 
-Industry: Savings infrastructure
-
-
-Company: 
-@themoneyafrica
- 
-Founder: 
-@tosinolaseinde
- 
-Industry: Edutech
-
-
-Company: 
-@paystack
- 
-Founders: 
-@shollsman
- 
-@0x
- 
-Industry: Payment infrastructure -->
 
