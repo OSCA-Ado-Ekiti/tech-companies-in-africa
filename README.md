@@ -19,6 +19,15 @@ Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](htt
 Industry: Tech Education
 
 
+## <a name="B"> </a>B
+
+Company: [brassbanking](https://www.trybrass.com/)
+
+Founder: [akindolu](https://twitter.com/akindolu)
+
+Industry: Business Banking
+
+
 ## <a name="P"> </a>P
 
 Company: [PiggyBankNG](https://twitter.com/PiggyBankNG)
