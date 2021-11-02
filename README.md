@@ -1,4 +1,4 @@
-# List-of-tech-companies-in-Africa
+# List of Tech Companies in Africa
 
 Company: [@theflutterwave](https://twitter.com/theflutterwave)
  
