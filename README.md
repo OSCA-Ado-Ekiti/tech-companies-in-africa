@@ -13,6 +13,13 @@
 
 ## <a name="A"> </a>A
 
+Company : [Acadar](https://acadar.com/)
+
+Founder: [@OnyimeStan](https://twitter.com/OnyimeStan)
+
+Industry: Edu Tech
+
+
 Company : [AltSchoolAfrica](https://altschoolafrica.com/)
 
 Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](https://twitter.com/hackSultan)
@@ -27,6 +34,13 @@ Company: [brassbanking](https://www.trybrass.com/)
 Founder: [akindolu](https://twitter.com/akindolu)
 
 Industry: Business Banking
+
+## <a name="N"> </a>N
+Company : [Neviwi](https://neviwi.com/)
+
+Founder: [@OnyimeStan](https://twitter.com/OnyimeStan) + [@Chinemife](https://twitter.com/chinemife)
+
+Industry: Ecommerce
 
 
 ## <a name="P"> </a>P
