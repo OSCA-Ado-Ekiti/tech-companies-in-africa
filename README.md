@@ -40,7 +40,7 @@
 
   - Founder: [@iaboyeji](https://twitter.com/iaboyeji)
 
-  - Industry: VC'
+  - Industry: VC
 
 * Company : [Acadar](https://acadar.com/)
 
@@ -53,6 +53,12 @@
   - Founder: [@dare___a](https://twitter.com/dare___a)
 
   - Industry: FinTech
+
+* Company: [Africastalking](https://africastalking.com/)
+
+  - Founders: [@sgikandi](https://twitter.com/sgikandi) +  Eston Kimani
+
+  - Industry: Mobile Communications Solutions
 
 ## <a name="B"> </a>B
 
@@ -106,6 +112,18 @@
 
   - Industry: Digital Wealth (Fintech)
 
+* Company: [Cellulant](https://cellulant.io/)
+
+  - Founders: [@KenNjorogeCG](https://twitter.com/KenNjorogeCG) + [@BolajiAkinboro](https://twitter.com/BolajiAkinboro)
+
+  - Industry: Financial Services
+
+* Company: [CraftSiliconKE](https://www.craftsilicon.com/)
+
+  - Founder: [@KBudhabhatti](https://twitter.com/KBudhabhatti)
+
+  - Industry: Financial Services
+
 ## <a name="D"> </a>D
 
 * Company: [DecagonIns](https://decagonhq.com/)
@@ -120,6 +138,12 @@
 
   - Industry: Logistics
 
+* Company: [devdex_software](https://devdexsoftware.com/)
+ 
+  - Founders : [@NanaOBosompem](https://twitter.com/NanaBosompem)
+ 
+  - Industry : Health
+
  ## <a name="E"> </a>E
 
 * Company: [EjaraApp](https://www.ejara.io/)
@@ -132,13 +156,25 @@
  
   - Founders : [@MHANDISI_IAN](https://twitter.com/MHANDISI_IAN)
  
-  - Industry : Agriculture
+  - Industry : Agro Tech
 
 * Company: [EGMarkets](http://access.eagleglobalmarkets.com/)
  
   - Founder: Gbite Oduneye
 
   - Industry: Financial Derivatives
+
+* Company: [ErrandLr](https://errandlr.com/)
+ 
+Founder: [@jide_tade](https://twitter.com/jide_tade)
+
+Industry: Logistics
+
+* Company: [EnvisageHub](https://envisagehub.disha.page/)
+ 
+  - Founder: [@HaomaWorgwu](https://twitter.com/HaomaWorgwu)
+ 
+  - Industry: Edutech
 
  ## <a name="F"> </a>F
 
@@ -151,31 +187,43 @@
 
 * Company: [FamasiAfrica](https://www.famasi.africa/plans-and-pricing/)
  
-  - Founders: @justsay_didi x @alfaruqstories
+  - Founders: [@justsay_didi](https://twitter.com/justsay_didi) x [@alfaruqstories](https://twitter.com/alfaruqstories)
  
   - Industry: Digital pharmacy
 
 * Company: [Farmed_NG](https://facebook.com/FarmedForte/)
  
-  - Founders : @jay_can_do × @27kJamal × @edidiongmekong
+  - Founders : [@jay_can_do](https://twitter.com/jay_can_do) × [@27kJamal](https://twitter.com/27kJamal) × [@edidiongmekong](https://twitter.com/edidiongmekong)
 
   - Industry : AgroTech
 
 * Company: [FirstCheckHQ](https://www.firstcheck.africa/)
 
-  - Founders: [@ElohoGM]() x [@OdunEweniyi]()
+  - Founders: [@ElohoGM](https://twitter.com/ElohoGM) x [@OdunEweniyi](https://twitter.com/OdunEweniyi)
 
   - Industry: VC
 
+* Company: [FourthCanvas](https://africachallengerbrands.com/)
+
+  - Founder: [@victorfatanmi](https://twitter.com/victorfatanmi)
+
+  - Industry: PR/Marketing/Brand strategy
+
+* Company: [frainDev](https://frain.dev/)
+ 
+  - Founders: [@subomiOluwalana](https://twitter.com/subomiOluwalana) + [@emmanuelaina_](https://twitter.com/emmanuelaina_)
+ 
+  - Industry: Developer Tools
+
 ## <a name="G"> </a>G
 
-- Company: [getBumpa](https://getbumpa.com/)
+* Company: [getBumpa](https://getbumpa.com/)
 
    - Founders : [@tushgeek](https://twitter.com/tushgeek) + [@TeeJaY_Codes](https://twitter.com/TeeJaY_Codes)
 
   - Industry : E-commerce Founders
 
-- Company: [getequity](https://www.getequity.io/)
+* Company: [getequity](https://www.getequity.io/)
  
   - Founders: [@bigbrutha_](https://twitter.com/bigbrutha_) and [@WilliamOkafor](https://twitter.com/WilliamOkafor)
  
@@ -193,6 +241,12 @@
 
   - Industry : Fintech
 
+* Company: [getdisha](https://disha.page/)
+ 
+  - Founder: [@evansakanno](https://twitter.com/evansakanno)
+
+  - Industry: Media
+
 ## <a name="H"> </a>H
 
 - Company: [helicarrierinc](https://helicarrier.studio/)
@@ -209,9 +263,15 @@
 
 * Company: [handypal_ng](http://www.hanypalng.com/)
  
-  - Founder: [@alajabrownedola](https://twitter.com/alajabrownedola) x [alaj](https://twitter.com/alaj)
+  - Founder: [@alajabrownedola](https://twitter.com/alajabrownedola)
 
   - Industry: ArtisanTech
+
+Company: [HerconomybyAGS](https://linktr.ee/Herconomy)
+ 
+  - Founder: [@ifedurosinmiE](https://twitter.com/ifedurosinmiE)
+ 
+  - Industry: Female Tech Empowerment + Fintech
 
 ## <a name="I"> </a>I
 
@@ -223,7 +283,7 @@
 
 ## <a name="J"> </a>J
 
-* Company: [jiggyvest](https://www.jiggyvest.com/)
+* Company: [Jiggyvest](https://www.jiggyvest.com/)
 
   - Founder: [@hachi](https://twitter.com/hachi)
 
@@ -231,7 +291,7 @@
 
 ## <a name="K"> </a>K
 
-* Company: [kudabank](https://kudabank.com/)
+* Company: [Kudabank](https://kudabank.com/)
 
   - Founder: [@Babsogundeyi](https://twitter.com/Babsogundeyi)
 
@@ -243,7 +303,7 @@
 
   - Industry: Agency Banking/Digital banking
 
-* Company: [kudibar](https://kudibar.com/)
+* Company: [Kudibar](https://kudibar.com/)
  
    - Founder: [@codebasher_](https://twitter.com/codebasher_)
  
@@ -254,6 +314,12 @@
   - Founder: [@TheMideOlayinka](https://twitter.com/TheMideOlayinka)
  
   - Industry: Savings infrastructure
+
+* Company: [Kudisms](https://kudisms.net/)
+ 
+  - Founder: [@MeduguOS](https://twitter.com/MeduguOS)
+ 
+  - Industry: Mobile Communication
 
 ## <a name="L"> </a>L
 
@@ -324,7 +390,7 @@
 
 * Company: [OurPassCo](https://www.ourpass.co/)
  
-  - Founders: [@Mzter_sam](https://twitter.com/) http://et.al
+  - Founders: [@Mzter_sam](https://twitter.com/Mzter_sam)
 
   - Industry: Payment infrastructure
   
@@ -332,7 +398,7 @@
 
 - Company: [PiggyBankNG](https://www.piggyvest.com/)
  
-  - Founders : [@OdunEweniyi](https://twitter.com/OdunEweniyi) Etal 
+  - Founders : [@OdunEweniyi](https://twitter.com/OdunEweniyi)
 
   - Industry: Savings infrastructure
 
@@ -358,7 +424,13 @@
  
   - Founder : [@docolumide](https://twitter.com/docolumide)
  
-  - Industry: E-commerce 
+  - Industry: E-commerce
+
+* Company : [payercoins](https://www.payercoins.com/)
+
+  - Founder : [@AdeleyeVictor_](https://twitter.com/AdeleyeVictor_)
+ 
+  - Industry : Crypto Payment Infrastructure/Web3
 
 ## <a name="Q"> </a>Q
 
@@ -383,6 +455,12 @@
  
   - Industry: AgroTech
 
+* Company: [Rosehood Technology Risk Consulting Group](http://Techrisk.co.ke)
+
+  - Founders: [@mikerosy](https://twitter.com/mikerosy) + [@RosyRomike](https://twitter.com/RosyRomike)
+
+  - Industry: Technology Risk & Consulting
+
 ## <a name="S"> </a>S
 
 * Company: [SwiftFinanceApp](https://www.swiftfinance.app/)
@@ -403,6 +481,18 @@
  
   - Industry : Beverage/Food Processing
 
+* Company: [safeboda](https://safeboda.com/ug/)
+
+  - Founder: [@Babajiide](https://twitter.com/Babajiide)
+ 
+  - Industry: Transportation
+
+* Company: [shecluded](https://shecluded.com/)
+ 
+  - Founder: [@ifyhopee](https://twitter.com/ifyhopee)
+ 
+  - Industry: Fintech + Female Tech Empowerment
+
 ## <a name="T"> </a>T
 
 * Company: [Theflutterwave](https://www.flutterwave.com/us/)
@@ -411,13 +501,17 @@
  
   - Industry : Payment infrastructure 
 
+* Company: [spatialnodehq](https://spatialnode.net/home)
+ 
+  - Founder: [@jeafreezy](https://twitter.com/jeafreezy)
+ 
+  - Industry: Professional Networking, community, Social Media (micro blogging)
 
 * Company : [TalentQL](https://talentql.com/)
  
   - Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](https://twitter.com/hackSultan)
  
   - Industry : Tech Recruitment
-
 
 * Company: [Timely Advisory]()
 
@@ -451,12 +545,18 @@
  
   - Industry: Tech Education
 
-* Company: [TreepzHQ]()
+* Company: [TreepzHQ](https://linktr.ee/PlentyWaka)
  
   - Founders: [@onyekaakumah](https://twitter.com/onyekaakumah) x [@johnnyena](https://twitter.com/johnnyena) x [@darkshayy](https://twitter.com/darkshayy) x [@john_shaibu](https://twitter.com/john_shaibu)
  
   - Industry: Shared Mobility
 
+Company: [Tech4DevHQ](https://linktr.ee/tech4dev)
+ 
+  - Founders: [@diwuraoladepo](https://twitter.com/diwuraoladepo) + [@JoelOgunsola](https://twitter.com/JoelOgunsola)
+ 
+  - Industry: Tech NGO
+  
 ## <a name="U"> </a>U
 
 * Company: [uLessonApp](https://ulesson.com/)
