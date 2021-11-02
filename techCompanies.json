@@ -1,4 +1,13 @@
 {
+  "Acadar": [
+    {
+      "Company": "@acadar",
+
+      "Founders": "@onyimestan",
+
+      "Industry": "Edu tech"
+    }
+  ],
   "FlutterWave": [
     {
       "Company": "@theflutterwave",
@@ -7,5 +16,15 @@
 
       "Industry": "Payment infrastructure"
     }
-  ]
+  ],
+  "Neviwi": [
+    {
+      "Company": "@neviwi",
+
+      "Founders": "@onyimestan + @chinemife",
+
+      "Industry": "Ecommerce"
+    }
+  ],
+  
 }

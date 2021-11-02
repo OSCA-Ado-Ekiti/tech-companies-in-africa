@@ -48,6 +48,12 @@
   - Founder: @dare___a
 
   - Industry: Fintech
+  
+* Company : [Acadar](https://acadar.com/)
+
+  - Founder: [@OnyimeStan](https://twitter.com/OnyimeStan)
+
+  - Industry: Edu Tech
 
 ## <a name="B"> </a>B
 
@@ -287,6 +293,12 @@
   - Founders: [@jfkoya](https://twitter.com/jfkoya)
  
   - Industry: Healthtech
+
+* Company : [Neviwi](https://neviwi.com/)
+
+  - Founder: [@OnyimeStan](https://twitter.com/OnyimeStan) + [@Chinemife](https://twitter.com/chinemife)
+
+  - Industry: Ecommerce
 
 ## <a name="O"> </a>O
 
