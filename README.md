@@ -30,7 +30,7 @@ Industry: Business Banking
 
 ## <a name="P"> </a>P
 
-Company: [PiggyBankNG](https://twitter.com/PiggyBankNG)
+Company: [PiggyBankNG](https://www.piggyvest.com/)
  
 Founders : [@OdunEweniyi](https://twitter.com/OdunEweniyi) Etal 
 
@@ -39,14 +39,14 @@ Industry: Savings infrastructure
 
 ## <a name="T"> </a>T
 
-Company: [theflutterwave](https://twitter.com/theflutterwave)
+Company: [theflutterwave](https://www.flutterwave.com/us/)
  
 Founders : [@TechProd_Arch](https://twitter.com/TechProd_Arch) + [@iaboyeji](https://twitter.com/iaboyeji)
  
 Industry : Payment infrastructure 
 
 
-Company : [TalentQL](https://twitter.com/TalentQL)
+Company : [TalentQL](https://talentql.com/)
  
 Founder: [@AdewaleYusuf_](https://twitter.com/AdewaleYusuf_) and [@hackSultan](https://twitter.com/hackSultan)
  
