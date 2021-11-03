@@ -166,9 +166,9 @@
 
 * Company: [ErrandLr](https://errandlr.com/)
  
-Founder: [@jide_tade](https://twitter.com/jide_tade)
+  - Founder: [@jide_tade](https://twitter.com/jide_tade)
 
-Industry: Logistics
+  - Industry: Logistics
 
 * Company: [EnvisageHub](https://envisagehub.disha.page/)
  
@@ -267,7 +267,7 @@ Industry: Logistics
 
   - Industry: ArtisanTech
 
-Company: [HerconomybyAGS](https://linktr.ee/Herconomy)
+* Company: [HerconomybyAGS](https://linktr.ee/Herconomy)
  
   - Founder: [@ifedurosinmiE](https://twitter.com/ifedurosinmiE)
  
@@ -275,7 +275,7 @@ Company: [HerconomybyAGS](https://linktr.ee/Herconomy)
 
 ## <a name="I"> </a>I
 
-- Company: [ifluxdotapp](https://iflux.app/)
+* Company: [ifluxdotapp](https://iflux.app/)
 
   - Founder: [@ifluxdotapp](https://twitter.com/ifluxdotapp)
 
@@ -519,7 +519,6 @@ Company: [HerconomybyAGS](https://linktr.ee/Herconomy)
  
   - Industry: Legal and finance advisory
 
-
 * Company: [TerragonGroup](https://terragongroup.com/)
  
   - Founder: [@Eloumeh](https://twitter.com/Eloumeh)
@@ -551,7 +550,7 @@ Company: [HerconomybyAGS](https://linktr.ee/Herconomy)
  
   - Industry: Shared Mobility
 
-Company: [Tech4DevHQ](https://linktr.ee/tech4dev)
+* Company: [Tech4DevHQ](https://linktr.ee/tech4dev)
  
   - Founders: [@diwuraoladepo](https://twitter.com/diwuraoladepo) + [@JoelOgunsola](https://twitter.com/JoelOgunsola)
  
@@ -570,7 +569,6 @@ Company: [Tech4DevHQ](https://linktr.ee/tech4dev)
   - Founder: [@mrtoluadesina](https://twitter.com/mrtoluadesina)
 
   - Industry: FinTech
-
 
 ## <a name="W"> </a>W
 
