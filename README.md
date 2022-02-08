@@ -289,6 +289,12 @@
 
   - Industry: JiggyTech
 
+* Company: [JastTech](https://www.jast-tech.com/)
+
+  - Founder: [@CoucoSeth](https://twitter.com/JastTech)
+
+  - Industry: Mobile and Web apps service provider
+
 ## <a name="K"> </a>K
 
 * Company: [Kudabank](https://kudabank.com/)
