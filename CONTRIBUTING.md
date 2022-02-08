@@ -27,7 +27,7 @@ This process here should be able to guide you on how to contribute effectively t
   ```
 - Make the original repo the remote upstream (at upstream)
   ```
-  git remote add upstream https://github.com/OSCA-Ado-Ekiti/List-of-tech-companies-in-Africa.git
+  git remote add upstream https://github.com/OSCA-Ado-Ekiti/tech-companies-in-africa.git
   ```
 - To confirm the remote upstream/origin
 
@@ -56,7 +56,8 @@ This process here should be able to guide you on how to contribute effectively t
   git push origin your-branch-name
   ```
 
-Make your Pull request from that branch of your repo to the develop branch of this repo and wait for it to be merged.
+Make your Pull request to OSCA-Ado-Ekiti/tech-companies-in-africa
+ main branch and wait for it to be merged.
 
 Write good commit messages, this is very important, so people reviewing can know what your fix, feature e.t.c. is doing.
 Your PR should carry the story / task URL (instruction from above).
