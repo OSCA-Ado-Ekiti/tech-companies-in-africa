@@ -22,13 +22,7 @@
 
   - Founder: [@etopty](https://twitter.com/etopty)
 
-  - Industry: Automobile/Auto-Tech 
-
-* Company: [abokiafrica](https://aboki.africa/)
- 
-  - Founders: [@femicodes](https://twitter.com/femicodes) & [@kingidee](https://twitter.com/kingidee)
- 
-  - Industry: FinTech
+  - Industry: Automobile/Auto-Tech
 
 * Company: [afriktrip](https://afriktrip.com/)
  
@@ -246,6 +240,12 @@
   - Founder: [@evansakanno](https://twitter.com/evansakanno)
 
   - Industry: Media
+
+* Company: [Grey](https://grey.co/)
+ 
+  - Founders: [@femicodes](https://twitter.com/femicodes) & [@kingidee](https://twitter.com/kingidee)
+ 
+  - Industry: FinTech
 
 ## <a name="H"> </a>H
 
