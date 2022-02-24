@@ -26,15 +26,6 @@
       "Industry": "Automobile/Auto-Tech "
     }
   ],
-  "Abokiafrica": [
-    {
-      "Company": "@abokiafrica",
-
-      "Founders": "@femicodes + @kingidee",
-
-      "Industry": "FinTech"
-    }
-  ],
   "Anafricanfuture": [
     {
       "Company": "@anafricanfuture",
@@ -330,6 +321,15 @@
       "Founders": "@evansakanno",
 
       "Industry": "Media"
+    }
+  ],
+  "Grey": [
+    {
+      "Company": "@greyfinance",
+
+      "Founders": "@femicodes + @kingidee",
+
+      "Industry": "FinTech"
     }
   ],
   "Helicarrierinc": [
