@@ -71,6 +71,15 @@
       "Industry": "Mobile Communications Solutions"
     }
   ],
+  "Ac": [
+    {
+      "Company": "@Ace",
+
+      "Founders": "@ercineksin + @tundekehinde",
+
+      "Industry": "Mobile Communications Solutions"
+    }
+  ],
   "brassbanking": [
     {
       "Company": "@brassbanking",
@@ -287,6 +296,15 @@
       "Industry": "Developer Tools"
     }
   ],
+  "Flux Technology Africa": [
+    {
+      "Company": "@Fluxtechafrica",
+
+      "Founders": "@isokowalter",
+
+      "Industry": "Tech Consulting + Software Services"
+    }
+  ],
   "getBumpa": [
     {
       "Company": "@getBumpa",
@@ -429,6 +447,24 @@
       "Founders": "@MeduguOS",
 
       "Industry": "Mobile Communication"
+    }
+  ],
+  "Kobo360": [
+    {
+      "Company": "@Kobo360",
+
+      "Founders": "@ObiOzor + @IfeOyedeleII",
+
+      "Industry": "Logistics"
+    }
+  ],
+  "Kwik": [
+    {
+      "Company": "@Kwik",
+
+      "Founders": "@RomainPoirot-lellig",
+
+      "Industry": "Logistics"
     }
   ],
   "LemonadeFinance": [
