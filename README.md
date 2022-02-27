@@ -54,6 +54,12 @@
 
   - Industry: Mobile Communications Solutions
 
+* Company: [Ace](https://www.ace.ng/)
+
+  - Founders: [@ercineksin](https://pl.linkedin.com/in/ercineksin) +  [@tundekehinde](https://ng.linkedin.com/in/tunde-kehinde-048aa635)
+
+  - Industry: Logistics
+
 ## <a name="B"> </a>B
 
 * Company: [brassbanking](https://www.trybrass.com/)
@@ -117,6 +123,7 @@
   - Founder: [@KBudhabhatti](https://twitter.com/KBudhabhatti)
 
   - Industry: Financial Services
+
 
 ## <a name="D"> </a>D
 
@@ -209,6 +216,12 @@
  
   - Industry: Developer Tools
 
+* Company: [FluxTechAfrica](https://fluxtechafrica.com/)
+
+  - Founder: [@isokowalter](https://twitter.com/isokowalter)
+
+  - Industry: Tech Consulting + Software Services
+
 ## <a name="G"> </a>G
 
 * Company: [getBumpa](https://getbumpa.com/)
@@ -273,6 +286,12 @@
  
   - Industry: Female Tech Empowerment + Fintech
 
+* Company: [Halotechafrica](https://www.halotechafrica.com/)
+  
+  - Founder: [@robertyenji](https://gh.linkedin.com/in/yenjofficial)
+
+  - Industry: Software Services
+
 ## <a name="I"> </a>I
 
 * Company: [ifluxdotapp](https://iflux.app/)
@@ -327,6 +346,17 @@
  
   - Industry: Mobile Communication
 
+* Company: [Kobo360](https://www.kobo360.com/)
+ 
+  - Founder: [@ObiOzor](https://www.linkedin.com/in/obi-ozor) + [@IfeOyedeleII](https://www.linkedin.com/in/ife-oyedele-ii)
+ 
+  - Industry: Logistics
+
+* Company: [Kwik](https://kwik.delivery/)
+ 
+  - Founder: [@RomainPoirot-lellig](https://twitter.com/rplellig) 
+ 
+  - Industry: Logistics
 ## <a name="L"> </a>L
 
 * Company: [LemonadeFinance](https://www.lemonade.finance/)
