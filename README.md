@@ -606,9 +606,9 @@
 
   - Industry: FinTech
  
- * Company: [UrBizEdge](https://www.urbizedge.com/)
+* Company: [UrBizEdge](https://www.urbizedge.com/)
  
-  - Founder: [@SimShagaya](https://twitter.com/olafusimichael)
+  - Founder: [@MichealOlafusi](https://mvp.microsoft.com/en-us/PublicProfile/5000744)
  
   - Industry: Tech Education
 
