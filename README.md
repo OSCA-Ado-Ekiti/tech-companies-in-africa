@@ -605,6 +605,12 @@
   - Founder: [@mrtoluadesina](https://twitter.com/mrtoluadesina)
 
   - Industry: FinTech
+ 
+ * Company: [UrBizEdge](https://www.urbizedge.com/)
+ 
+  - Founder: [@SimShagaya](https://twitter.com/olafusimichael)
+ 
+  - Industry: Tech Education
 
 ## <a name="W"> </a>W
 
