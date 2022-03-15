@@ -28,7 +28,7 @@
  
   - Founder: [@mr_adesal](https://twitter.com/mr_adesal)
  
-  - Industry: Travels and Tours
+  - Industry: Travels and Tours 
 
 * Company: [anafricanfuture](https://www.future.africa/)
 
