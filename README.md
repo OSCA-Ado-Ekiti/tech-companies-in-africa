@@ -28,7 +28,7 @@
  
   - Founder: [@mr_adesal](https://twitter.com/mr_adesal)
  
-  - Industry: Travels and Tours
+  - Industry: Travels and Tours 
 
 * Company: [anafricanfuture](https://www.future.africa/)
 
@@ -605,6 +605,12 @@
   - Founder: [@mrtoluadesina](https://twitter.com/mrtoluadesina)
 
   - Industry: FinTech
+ 
+* Company: [UrBizEdge](https://www.urbizedge.com/)
+ 
+  - Founder: [@MichealOlafusi](https://mvp.microsoft.com/en-us/PublicProfile/5000744)
+ 
+  - Industry: Tech Education
 
 ## <a name="W"> </a>W
 
