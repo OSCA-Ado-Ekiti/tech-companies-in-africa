@@ -1,4 +1,3 @@
-.vscode
-README copy.md
+*.py
 *.ipynb
-# *.py
+.vscode
