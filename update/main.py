@@ -4,7 +4,7 @@ import json
 import os
 
 # %%
-filename = 'README copy.md'
+filename = '../README.md'
 file = open(filename, 'r')
 text = file.read()
 file.close()
@@ -66,8 +66,5 @@ encoder = json.encoder.JSONEncoder()
 bigData = encoder.encode(json_data)
 
 # dataFile = op
-if not os.path.exists('./update/'):
-    os.mkdir('./update')
-
-with open('./update/techCompanies.json', 'w') as dataFile:
+with open('techCompanies.json', 'w') as dataFile:
     dataFile.write(bigData)
