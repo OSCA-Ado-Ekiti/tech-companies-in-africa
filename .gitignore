@@ -1,1 +1,3 @@
-*.py
+.vscode
+README copy.md
+*.ipynb
