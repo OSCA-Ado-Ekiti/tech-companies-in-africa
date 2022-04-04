@@ -1,497 +1,775 @@
 {
-  "Acadar": [
-    {
-      "Company": "@acadar",
-
-      "Founders": "@onyimestan",
-
-      "Industry": "Tech Education"
-    }
-  ],
-  "AltSchoolAfrica": [
-    {
-      "Company": "@AltSchoolAfrica",
-
-      "Founders": "@AdewaleYusuf_ + @hackSultan",
-
-      "Industry": "Tech Education"
-    }
-  ],
-  "AutochekAfrica": [
-    {
-      "Company": "@AutochekAfrica",
-
-      "Founders": "@etopty",
-
-      "Industry": "Automobile/Auto-Tech "
-    }
-  ],
-  "Anafricanfuture": [
-    {
-      "Company": "@anafricanfuture",
-
-      "Founders": "@iaboyeji",
-
-      "Industry": "VC"
-    }
-  ],
-  "Afriktrip": [
-    {
-      "Company": "@afriktrip",
-
-      "Founders": "@mr_adesal",
-
-      "Industry": "Travels and Tours"
-    }
-  ],
-  "Abeg_app": [
-    {
-      "Company": "@abeg_app",
-
-      "Founders": "@dare___a",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "Africastalking": [
-    {
-      "Company": "@Africastalking",
-
-      "Founders": "@sgikandi + @Eston Kimani",
-
-      "Industry": "Mobile Communications Solutions"
-    }
-  ],
-  "Ac": [
-    {
-      "Company": "@Ace",
-
-      "Founders": "@ercineksin + @tundekehinde",
-
-      "Industry": "Mobile Communications Solutions"
-    }
-  ],
-  "brassbanking": [
-    {
-      "Company": "@brassbanking",
-
-      "Founders": "@akindolu",
-
-      "Industry": "Business Banking"
-    }
-  ],
-  "buildwithbloc": [
-    {
-      "Company": "@buildwithbloc",
-
-      "Founders": "@pyjama_ceo",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "BanklyNG": [
-    {
-      "Company": "@BanklyNG",
-
-      "Founders": "@Fredrick Adams + @Tomilola Adriana",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "Bridgerafrica": [
-    {
-      "Company": "@Bridgerafrica",
-
-      "Founders": "@JSBabasanmi]",
-
-      "Industry": "Export and Export financing"
-    }
-  ],
-  "buysafehouse": [
-    {
-      "Company": "@buysafehouse",
-
-      "Founders": "@SeunKOlajide",
-
-      "Industry": "Real Estate"
-    }
-  ],
-  "bukableco": [
-    {
-      "Company": "@bukableco",
-
-      "Founders": "@enyosam_",
-
-      "Industry": "Freelance, Tech learning & Outsourcing"
-    }
-  ],
-  "CHAfrica_Tech": [
-    {
-      "Company": "@CHAfrica_Tech",
-
-      "Founders": "@chizom_",
-
-      "Industry": "Tech Education"
-    }
-  ],
-  "Cellulant": [
-    {
-      "Company": "@Cellulant",
-
-      "Founders": "@KenNjorogeCG+ @BolajiAkinboro",
-
-      "Industry": "Financial Services"
-    }
-  ],
-  "Cowrywise": [
-    {
-      "Company": "@Cowrywise",
-
-      "Founders": "@Razaq Ahmed + @Edward Popoola",
-
-      "Industry": "FinTech  "
-    }
-  ],
-    "CraftSiliconKE": [
-    {
-      "Company": "@CraftSiliconKE",
-
-      "Founders": "@KBudhabhatti",
-
-      "Industry": " Financial Services"
-    }
-  ],
-  "DecagonIns": [
-    {
-      "Company": "@DecagonIns",
-
-      "Founders": "@ChikaNwobii",
-
-      "Industry": "Tech learning & outsourcing"
-    }
-  ],
-  "DarumNg": [
-    {
-      "Company": "@DarumNg",
-
-      "Founders": "@OlaideOlaniyi_M",
-
-      "Industry": "Logistics"
-    }
-  ],
-  "Devdex_software": [
-    {
-      "Company": "@devdex_software",
-
-      "Founders": "@NanaOBosompem",
-
-      "Industry": "Health"
-    }
-  ],
-  "EjaraApp": [
-    {
-      "Company": "@EjaraApp",
-
-      "Founders": "@chakaneld",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "ecoSokoni": [
-    {
-      "Company": "@ecoSokoni",
-
-      "Founders": "@MHANDISI_IAN",
-
-      "Industry": "Agro Tech"
-    }
-  ],
-  "EGMarkets": [
-    {
-      "Company": "@EGMarkets",
-
-      "Founders": "Gbite Oduneye",
-
-      "Industry": "Financial Derivatives"
-    }
-  ],
-  "ErrandLr": [
-    {
-      "Company": "@ErrandLr",
-
-      "Founders": "@jide_tade",
-
-      "Industry": "Logistics"
-    }
-  ],
-  "EnvisageHub": [
-    {
-      "Company": "@EnvisageHub",
-
-      "Founders": "@HaomaWorgwu",
-
-      "Industry": "EduTech"
-    }
-  ],
-  "FlyingDoctorsIC": [
-    {
-      "Company": "@FlyingDoctorsIC",
-
-      "Founders": "@NaijaFlyingDr",
-
-      "Industry": "Health Care"
-    }
-  ],
-  "FamasiAfrica": [
-    {
-      "Company": "@FamasiAfrica",
-
-      "Founders": "@justsay_didi + @alfaruqstories",
-
-      "Industry": "Digital pharmacy"
-    }
-  ],
-  "Farmed_NG": [
-    {
-      "Company": "@Farmed_NG",
-
-      "Founders": "@jay_can_do + @27kJamal + @edidiongmekong",
-
-      "Industry": "AgroTech"
-    }
-  ],
-  "FirstCheckHQ": [
-    {
-      "Company": "@FirstCheckHQ",
-
-      "Founders": "@ElohoGM + @OdunEweniy",
-
-      "Industry": "VC"
-    }
-  ],
-  "FourthCanvas": [
-    {
-      "Company": "@FourthCanvas",
-
-      "Founders": "@victorfatanmi",
-
-      "Industry": "PR/Marketing/Brand strategy"
-    }
-  ],
-  "frainDev": [
-    {
-      "Company": "@FrainDev",
-
-      "Founders": "@subomiOluwalana + @emmanuelaina_",
-
-      "Industry": "Developer Tools"
-    }
-  ],
-  "Flux Technology Africa": [
-    {
-      "Company": "@Fluxtechafrica",
-
-      "Founders": "@isokowalter",
-
-      "Industry": "Tech Consulting + Software Services"
-    }
-  ],
-  "getBumpa": [
-    {
-      "Company": "@getBumpa",
-
-      "Founders": "@tushgeek + @TeeJaY_Codes",
-
-      "Industry": "E-commerce Founders"
-    }
-  ],
-  "getequity": [
-    {
-      "Company": "@getequity",
-
-      "Founders": "@bigbrutha_ + @WilliamOkafor",
-
-      "Industry": "Startup Financing"
-    }
-  ],
-  "grazacng": [
-    {
-      "Company": "@grazacng",
-
-      "Founders": "@AdeleyeVictor_",
-
-      "Industry": "Tech Education"
-    }
-  ],
-  "Geotopup": [
-    {
-      "Company": "@Geotopup",
-
-      "Founders": "@ejilolahmed",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "Getdisha": [
-    {
-      "Company": "@getdisha",
-
-      "Founders": "@evansakanno",
-
-      "Industry": "Media"
-    }
-  ],
-  "Grey": [
-    {
-      "Company": "@greyfinance",
-
-      "Founders": "@femicodes + @kingidee",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "Helicarrierinc": [
-    {
-      "Company": "@helicarrierinc",
-
-      "Founders": "@ireaderinokun + @timigod + @alephile",
-
-      "Industry": "Web3"
-    }
-  ],
-  "Hytchafrica": [
-    {
-      "Company": "@hytchafrica",
-
-      "Founders": "@thislaolu",
-
-      "Industry": "Shared commuting"
-    }
-  ],
-  "handypal_ng": [
-    {
-      "Company": "@handypal_ng",
-
-      "Founders": "@alajabrownedola",
-
-      "Industry": "ArtisanTech"
-    }
-  ],
-  "HerconomybyAGS": [
-    {
-      "Company": "@HerconomybyAGS",
-
-      "Founders": "@ifedurosinmiE",
-
-      "Industry": "Female Tech Empowerment + Fintech"
-    }
-  ],
-  "ifluxdotapp": [
-    {
-      "Company": "@ifluxdotapp",
-
-      "Founders": "@ifluxdotapp",
-
-      "Industry": "Payment infrastructure"
-    }
-  ],
-  "jiggyvest": [
-    {
-      "Company": "@jiggyvest",
-
-      "Founders": "@hachi",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "Kudabank": [
-    {
-      "Company": "@Kudabank",
-
-      "Founders": "@Babsogundeyi",
-
-      "Industry": "FinTech/Digital banking"
-    }
-  ],
-  "Kudi": [
-    {
-      "Company": "@Kudi",
-
-      "Founders": "@waleyinks + Pelumi",
-
-      "Industry": "Agency Banking/Digital banking"
-    }
-  ],
-  "Kudibar": [
-    {
-      "Company": "@Kudibar",
-
-      "Founders": "@codebasher_",
-
-      "Industry": "Event ticketing platform"
-    }
-  ],
-  "Kashbase": [
-    {
-      "Company": "@Kashbase",
-
-      "Founders": "@TheMideOlayinka",
-
-      "Industry": "Payment infrastructure"
-    }
-  ],
-  "Kudisms": [
-    {
-      "Company": "@Kudisms",
-
-      "Founders": "@MeduguOS",
-
-      "Industry": "Mobile Communication"
-    }
-  ],
-  "Kobo360": [
-    {
-      "Company": "@Kobo360",
-
-      "Founders": "@ObiOzor + @IfeOyedeleII",
-
-      "Industry": "Logistics"
-    }
-  ],
-  "Kwik": [
-    {
-      "Company": "@Kwik",
-
-      "Founders": "@RomainPoirot-lellig",
-
-      "Industry": "Logistics"
-    }
-  ],
-  "LemonadeFinance": [
-    {
-      "Company": "@LemonadeFinance",
-
-      "Founders": "@ridwan_olalere",
-
-      "Industry": "FinTech"
-    }
-  ],
-  "smartretailNG": [
-    {
-      "Company": "@smartretailNG",
-
-      "Founders": "@Ade_lekannnn",
-
-      "Industry": "Retail & commerce"
-    }
-  ],
-  "Neviwi": [
-    {
-      "Company": "@neviwi",
-
-      "Founders": "@onyimestan + @chinemife",
-
-      "Industry": "Ecommerce"
-    }
-  ]
+  "AltSchoolAfrica": {
+    "Company": "@AltSchoolAfrica",
+    "Founders": [
+      "@AdewaleYusuf_",
+      "@hackSultan"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://altschoolafrica.com/"
+  },
+  "AutochekAfrica": {
+    "Company": "@AutochekAfrica",
+    "Founders": [
+      "@etopty"
+    ],
+    "Industry": "Automobile/Auto-Tech",
+    "Website": "https://www.autochek.africa/ng"
+  },
+  "afriktrip": {
+    "Company": "@afriktrip",
+    "Founders": [
+      "@mr_adesal"
+    ],
+    "Industry": "Travels and Tours",
+    "Website": "https://afriktrip.com/"
+  },
+  "anafricanfuture": {
+    "Company": "@anafricanfuture",
+    "Founders": [
+      "@iaboyeji"
+    ],
+    "Industry": "VC",
+    "Website": "https://www.future.africa/"
+  },
+  "Acadar": {
+    "Company": "@Acadar",
+    "Founders": [
+      "@OnyimeStan"
+    ],
+    "Industry": "Edu Tech",
+    "Website": "https://acadar.com/"
+  },
+  "abeg_app": {
+    "Company": "@abeg_app",
+    "Founders": [
+      "@dare___a"
+    ],
+    "Industry": "FinTech",
+    "Website": "https://abeg.app/profile/abegstore"
+  },
+  "Africastalking": {
+    "Company": "@Africastalking",
+    "Founders": [
+      "@sgikandi"
+    ],
+    "Industry": "Mobile Communications Solutions",
+    "Website": "https://africastalking.com/"
+  },
+  "Ace": {
+    "Company": "@Ace",
+    "Founders": [
+      "@ercineksin",
+      "@tundekehinde"
+    ],
+    "Industry": "Logistics",
+    "Website": "https://www.ace.ng/"
+  },
+  "brassbanking": {
+    "Company": "@brassbanking",
+    "Founders": [
+      "akindolu"
+    ],
+    "Industry": "Business Banking",
+    "Website": "https://www.trybrass.com/"
+  },
+  "BanklyNG": {
+    "Company": "@BanklyNG",
+    "Founders": [],
+    "Industry": "Digital Wealth (Fintech)",
+    "Website": "https://www.bankly.ng/"
+  },
+  "buildwithbloc": {
+    "Company": "@buildwithbloc",
+    "Founders": [
+      "@pyjama_ceo"
+    ],
+    "Industry": "Fintech",
+    "Website": "https://www.blochq.io/"
+  },
+  "Bridgerafrica": {
+    "Company": "@Bridgerafrica",
+    "Founders": [
+      "@JSBabasanmi"
+    ],
+    "Industry": "Export and Export financing",
+    "Website": "http://app.bridger.africa/"
+  },
+  "buysafehouse": {
+    "Company": "@buysafehouse",
+    "Founders": [
+      "@SeunKOlajide"
+    ],
+    "Industry": "Real Estate",
+    "Website": "https://www.buysafehouse.com/"
+  },
+  "bukableco": {
+    "Company": "@bukableco",
+    "Founders": [
+      "@enyosam_"
+    ],
+    "Industry": "Freelance, Tech learning & Outsourcing",
+    "Website": "https://www.bukable.co/"
+  },
+  "CHAfrica_Tech": {
+    "Company": "@CHAfrica_Tech",
+    "Founders": [
+      "@chizom_"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755"
+  },
+  "Cowrywise": {
+    "Company": "@Cowrywise",
+    "Founders": [],
+    "Industry": "Digital Wealth (Fintech)",
+    "Website": "https://cowrywise.com/"
+  },
+  "Cellulant": {
+    "Company": "@Cellulant",
+    "Founders": [
+      "@KenNjorogeCG",
+      "@BolajiAkinboro"
+    ],
+    "Industry": "Financial Services",
+    "Website": "https://cellulant.io/"
+  },
+  "CraftSiliconKE": {
+    "Company": "@CraftSiliconKE",
+    "Founders": [
+      "@KBudhabhatti"
+    ],
+    "Industry": "Financial Services",
+    "Website": "https://www.craftsilicon.com/"
+  },
+  "DecagonIns": {
+    "Company": "@DecagonIns",
+    "Founders": [
+      "@ChikaNwobi"
+    ],
+    "Industry": "Tech learning & outsourcing",
+    "Website": "https://decagonhq.com/"
+  },
+  "DarumNg": {
+    "Company": "@DarumNg",
+    "Founders": [],
+    "Industry": "Logistics",
+    "Website": "https://darum.ng/"
+  },
+  "devdex_software": {
+    "Company": "@devdex_software",
+    "Founders": [
+      "@NanaOBosompem"
+    ],
+    "Industry": "Health",
+    "Website": "https://devdexsoftware.com/"
+  },
+  "EjaraApp": {
+    "Company": "@EjaraApp",
+    "Founders": [
+      "@chakaneld"
+    ],
+    "Industry": "Fintech",
+    "Website": "https://www.ejara.io/"
+  },
+  "ecoSokoni": {
+    "Company": "@ecoSokoni",
+    "Founders": [
+      "@MHANDISI_IAN"
+    ],
+    "Industry": "Agro Tech",
+    "Website": "https://www.ecosokoni.co.ke/"
+  },
+  "EGMarkets": {
+    "Company": "@EGMarkets",
+    "Founders": [],
+    "Industry": "Financial Derivatives",
+    "Website": "http://access.eagleglobalmarkets.com/"
+  },
+  "ErrandLr": {
+    "Company": "@ErrandLr",
+    "Founders": [
+      "@jide_tade"
+    ],
+    "Industry": "Logistics",
+    "Website": "https://errandlr.com/"
+  },
+  "EnvisageHub": {
+    "Company": "@EnvisageHub",
+    "Founders": [
+      "@HaomaWorgwu"
+    ],
+    "Industry": "Edutech",
+    "Website": "https://envisagehub.disha.page/"
+  },
+  "FlyingDoctorsIC": {
+    "Company": "@FlyingDoctorsIC",
+    "Founders": [
+      "@NaijaFlyingDr"
+    ],
+    "Industry": "HealthCare",
+    "Website": "http://fdinvestmentcompany.com/"
+  },
+  "FamasiAfrica": {
+    "Company": "@FamasiAfrica",
+    "Founders": [
+      "@justsay_didi",
+      "@alfaruqstories"
+    ],
+    "Industry": "Digital pharmacy",
+    "Website": "https://www.famasi.africa/plans-and-pricing/"
+  },
+  "Farmed_NG": {
+    "Company": "@Farmed_NG",
+    "Founders": [
+      "@jay_can_do",
+      "@27kJamal",
+      "@edidiongmekong"
+    ],
+    "Industry": "AgroTech",
+    "Website": "https://facebook.com/FarmedForte/"
+  },
+  "FirstCheckHQ": {
+    "Company": "@FirstCheckHQ",
+    "Founders": [
+      "@ElohoGM",
+      "@OdunEweniyi"
+    ],
+    "Industry": "VC",
+    "Website": "https://www.firstcheck.africa/"
+  },
+  "FourthCanvas": {
+    "Company": "@FourthCanvas",
+    "Founders": [
+      "@victorfatanmi"
+    ],
+    "Industry": "PR/Marketing/Brand strategy",
+    "Website": "https://africachallengerbrands.com/"
+  },
+  "frainDev": {
+    "Company": "@frainDev",
+    "Founders": [
+      "@subomiOluwalana",
+      "@emmanuelaina_"
+    ],
+    "Industry": "Developer Tools",
+    "Website": "https://frain.dev/"
+  },
+  "FluxTechAfrica": {
+    "Company": "@FluxTechAfrica",
+    "Founders": [
+      "@isokowalter"
+    ],
+    "Industry": "Tech Consulting + Software Services",
+    "Website": "https://fluxtechafrica.com/"
+  },
+  "getBumpa": {
+    "Company": "@getBumpa",
+    "Founders": [
+      "@tushgeek",
+      "@TeeJaY_Codes"
+    ],
+    "Industry": "E-commerce Founders",
+    "Website": "https://getbumpa.com/"
+  },
+  "getequity": {
+    "Company": "@getequity",
+    "Founders": [
+      "@bigbrutha_",
+      "@WilliamOkafor"
+    ],
+    "Industry": "Startup Financing",
+    "Website": "https://www.getequity.io/"
+  },
+  "grazacng": {
+    "Company": "@grazacng",
+    "Founders": [
+      "@AdeleyeVictor_"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://www.grazac.com.ng/"
+  },
+  "Geotopup": {
+    "Company": "@Geotopup",
+    "Founders": [
+      "@ejilolahmed"
+    ],
+    "Industry": "Fintech",
+    "Website": "https://geotopup.com/"
+  },
+  "getdisha": {
+    "Company": "@getdisha",
+    "Founders": [
+      "@evansakanno"
+    ],
+    "Industry": "Media",
+    "Website": "https://disha.page/"
+  },
+  "Grey": {
+    "Company": "@Grey",
+    "Founders": [
+      "@femicodes",
+      "@kingidee"
+    ],
+    "Industry": "FinTech",
+    "Website": "https://grey.co/"
+  },
+  "hytchafrica": {
+    "Company": "@hytchafrica",
+    "Founders": [
+      "@thislaolu"
+    ],
+    "Industry": "Shared commuting.",
+    "Website": "https://hytch.africa/"
+  },
+  "handypal_ng": {
+    "Company": "@handypal_ng",
+    "Founders": [
+      "@alajabrownedola"
+    ],
+    "Industry": "ArtisanTech",
+    "Website": "http://www.hanypalng.com/"
+  },
+  "HerconomybyAGS": {
+    "Company": "@HerconomybyAGS",
+    "Founders": [
+      "@ifedurosinmiE"
+    ],
+    "Industry": "Female Tech Empowerment + Fintech",
+    "Website": "https://linktr.ee/Herconomy"
+  },
+  "Halotechafrica": {
+    "Company": "@Halotechafrica",
+    "Founders": [
+      "@robertyenji"
+    ],
+    "Industry": "Software Services",
+    "Website": "https://www.halotechafrica.com/"
+  },
+  "ifluxdotapp": {
+    "Company": "@ifluxdotapp",
+    "Founders": [
+      "@ifluxdotapp"
+    ],
+    "Industry": "Payment infrastructure",
+    "Website": "https://iflux.app/"
+  },
+  "Jiggyvest": {
+    "Company": "@Jiggyvest",
+    "Founders": [
+      "@hachi"
+    ],
+    "Industry": "JiggyTech",
+    "Website": "https://www.jiggyvest.com/"
+  },
+  "JastTech": {
+    "Company": "@JastTech",
+    "Founders": [
+      "@CoucoSeth"
+    ],
+    "Industry": "Mobile and Web apps service provider",
+    "Website": "https://www.jast-tech.com/"
+  },
+  "Kudabank": {
+    "Company": "@Kudabank",
+    "Founders": [
+      "@Babsogundeyi"
+    ],
+    "Industry": "Fintech",
+    "Website": "https://kudabank.com/"
+  },
+  "Kudi": {
+    "Company": "@Kudi",
+    "Founders": [
+      "@waleyinks"
+    ],
+    "Industry": "Agency Banking/Digital banking",
+    "Website": "https://kudi.com/marketplace/"
+  },
+  "Kudibar": {
+    "Company": "@Kudibar",
+    "Founders": [
+      "@codebasher_"
+    ],
+    "Industry": "Event ticketing platform",
+    "Website": "https://kudibar.com/"
+  },
+  "Kashbase": {
+    "Company": "@Kashbase",
+    "Founders": [
+      "@TheMideOlayinka"
+    ],
+    "Industry": "Savings infrastructure",
+    "Website": "https://kashbase.com/"
+  },
+  "Kudisms": {
+    "Company": "@Kudisms",
+    "Founders": [
+      "@MeduguOS"
+    ],
+    "Industry": "Mobile Communication",
+    "Website": "https://kudisms.net/"
+  },
+  "Kobo360": {
+    "Company": "@Kobo360",
+    "Founders": [
+      "@ObiOzor",
+      "@IfeOyedeleII"
+    ],
+    "Industry": "Logistics",
+    "Website": "https://www.kobo360.com/"
+  },
+  "Kwik": {
+    "Company": "@Kwik",
+    "Founders": [
+      "@RomainPoirot-lellig"
+    ],
+    "Industry": "Logistics",
+    "Website": "https://kwik.delivery/"
+  },
+  "LemonadeFinance": {
+    "Company": "@LemonadeFinance",
+    "Founders": [
+      "@ridwan_olalere"
+    ],
+    "Industry": "FinTech",
+    "Website": "https://www.lemonade.finance/"
+  },
+  "smartretailNG": {
+    "Company": "@smartretailNG",
+    "Founders": [
+      "@Ade_lekannnn"
+    ],
+    "Industry": "Retail & commerce",
+    "Website": "https://twitter.com/smartretailng"
+  },
+  "myclassroomng": {
+    "Company": "@myclassroomng",
+    "Founders": [
+      "@isholabaryor"
+    ],
+    "Industry": "Tech Education",
+    "Website": ""
+  },
+  "MytruQ": {
+    "Company": "@MytruQ",
+    "Founders": [
+      "@WilliamsFatayo"
+    ],
+    "Industry": "Logistics",
+    "Website": "https://mytruq.com/"
+  },
+  "nguvuhealth": {
+    "Company": "@nguvuhealth",
+    "Founders": [
+      "@jfkoya"
+    ],
+    "Industry": "Healthtech",
+    "Website": "https://www.nguvuhealth.com/"
+  },
+  "Neviwi": {
+    "Company": "@Neviwi",
+    "Founders": [
+      "@OnyimeStan",
+      "@Chinemife"
+    ],
+    "Industry": "Ecommerce",
+    "Website": "https://neviwi.com/"
+  },
+  "ourpaydayHQ": {
+    "Company": "@ourpaydayHQ",
+    "Founders": [
+      "@Favourori_"
+    ],
+    "Industry": "Financial technology infrastructure",
+    "Website": "https://usepayday.com/"
+  },
+  "onlinehubng": {
+    "Company": "@onlinehubng",
+    "Founders": [
+      "@isholabaryor"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://onlinehubng.com/"
+  },
+  "offmychest_app": {
+    "Company": "@offmychest_app",
+    "Founders": [
+      "@davidobidu",
+      "@Mercee__"
+    ],
+    "Industry": "Healthcare & Social Networking",
+    "Website": "https://omcmobile.app/"
+  },
+  "OurPassCo": {
+    "Company": "@OurPassCo",
+    "Founders": [
+      "@Mzter_sam"
+    ],
+    "Industry": "Payment infrastructure",
+    "Website": "https://www.ourpass.co/"
+  },
+  "Patricia": {
+    "Company": "@Patricia",
+    "Founders": [
+      "@Fejizzy"
+    ],
+    "Industry": "FinTech",
+    "Website": "https://www.mypatricia.co/"
+  },
+  "Pickmeupservice": {
+    "Company": "@Pickmeupservice",
+    "Founders": [
+      "@SkimaSax",
+      "@AdewaleOretuga"
+    ],
+    "Industry": "Logistics",
+    "Website": ""
+  },
+  "paystack": {
+    "Company": "@paystack",
+    "Founders": [
+      "@shollsman",
+      "@0x"
+    ],
+    "Industry": "Payment infrastructure",
+    "Website": "https://paystack.com/"
+  },
+  "PayPeckerHQ": {
+    "Company": "@PayPeckerHQ",
+    "Founders": [
+      "@docolumide"
+    ],
+    "Industry": "E-commerce",
+    "Website": "https://paypecker.co/"
+  },
+  "payercoins": {
+    "Company": "@payercoins",
+    "Founders": [
+      "@AdeleyeVictor_"
+    ],
+    "Industry": "Crypto Payment Infrastructure/Web3",
+    "Website": "https://www.payercoins.com/"
+  },
+  "QuabblyHQ": {
+    "Company": "@QuabblyHQ",
+    "Founders": [
+      "@theernestdavid",
+      "@jamzig1"
+    ],
+    "Industry": "Automation, No-Code",
+    "Website": "https://quabbly.com/"
+  },
+  "Risevest": {
+    "Company": "@Risevest",
+    "Founders": [
+      "@eldivyn"
+    ],
+    "Industry": "Digital Wealth (Fintech)",
+    "Website": "https://rise.capital/"
+  },
+  "ReelFruit": {
+    "Company": "@ReelFruit",
+    "Founders": [
+      "@AffiSupaStar"
+    ],
+    "Industry": "AgroTech",
+    "Website": "https://reelfruit.com/"
+  },
+  "Rosehood Technology Risk Consulting Group": {
+    "Company": "@Rosehood Technology Risk Consulting Group",
+    "Founders": [
+      "@mikerosy",
+      "@RosyRomike"
+    ],
+    "Industry": "Technology Risk & Consulting",
+    "Website": "http://Techrisk.co.ke"
+  },
+  "SwiftFinanceApp": {
+    "Company": "@SwiftFinanceApp",
+    "Founders": [
+      "@dammieololade",
+      "@adeileri",
+      "@Anani_oluwatobi"
+    ],
+    "Industry": "SME Banking",
+    "Website": "https://www.swiftfinance.app/"
+  },
+  "SpireAfrica": {
+    "Company": "@SpireAfrica",
+    "Founders": [
+      "@madebycharles"
+    ],
+    "Industry": "Customer Experience (feedback)",
+    "Website": "https://www.spire.africa/"
+  },
+  "SoochNigeria": {
+    "Company": "@SoochNigeria",
+    "Founders": [
+      "@jay_can_do"
+    ],
+    "Industry": "Beverage/Food Processing",
+    "Website": "https://m.facebook.com/soochnigeria"
+  },
+  "safeboda": {
+    "Company": "@safeboda",
+    "Founders": [
+      "@Babajiide"
+    ],
+    "Industry": "Transportation",
+    "Website": "https://safeboda.com/ug/"
+  },
+  "shecluded": {
+    "Company": "@shecluded",
+    "Founders": [
+      "@ifyhopee"
+    ],
+    "Industry": "Fintech + Female Tech Empowerment",
+    "Website": "https://shecluded.com/"
+  },
+  "Theflutterwave": {
+    "Company": "@Theflutterwave",
+    "Founders": [
+      "@TechProd_Arch",
+      "@iaboyeji"
+    ],
+    "Industry": "Payment infrastructure",
+    "Website": "https://www.flutterwave.com/us/"
+  },
+  "spatialnodehq": {
+    "Company": "@spatialnodehq",
+    "Founders": [
+      "@jeafreezy"
+    ],
+    "Industry": "Professional Networking, community, Social Media (micro blogging)",
+    "Website": "https://spatialnode.net/home"
+  },
+  "TalentQL": {
+    "Company": "@TalentQL",
+    "Founders": [
+      "@AdewaleYusuf_",
+      "@hackSultan"
+    ],
+    "Industry": "Tech Recruitment",
+    "Website": "https://talentql.com/"
+  },
+  "Timely Advisory": {
+    "Company": "@Timely Advisory",
+    "Founders": [
+      "@ehindola",
+      "@oladapoyusuf"
+    ],
+    "Industry": "Legal and finance advisory",
+    "Website": ""
+  },
+  "TerragonGroup": {
+    "Company": "@TerragonGroup",
+    "Founders": [
+      "@Eloumeh"
+    ],
+    "Industry": "Data and Marketing technology",
+    "Website": "https://terragongroup.com/"
+  },
+  "ToffeeTribe": {
+    "Company": "@ToffeeTribe",
+    "Founders": [
+      "@NgindaNganga",
+      "@KarambuMathai"
+    ],
+    "Industry": "Remote Work Directory",
+    "Website": "https://www.toffeetribe.com/"
+  },
+  "tradeDepotHQ": {
+    "Company": "@tradeDepotHQ",
+    "Founders": [
+      "@kachizukanne"
+    ],
+    "Industry": "Retail",
+    "Website": "https://www.tradedepot.co/"
+  },
+  "themoneyafrica": {
+    "Company": "@themoneyafrica",
+    "Founders": [
+      "@tosinolaseinde"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://themoneyafrica.com/"
+  },
+  "TreepzHQ": {
+    "Company": "@TreepzHQ",
+    "Founders": [
+      "@onyekaakumah",
+      "@johnnyena",
+      "@darkshayy",
+      "@john_shaibu"
+    ],
+    "Industry": "Shared Mobility",
+    "Website": "https://linktr.ee/PlentyWaka"
+  },
+  "Tech4DevHQ": {
+    "Company": "@Tech4DevHQ",
+    "Founders": [
+      "@diwuraoladepo",
+      "@JoelOgunsola"
+    ],
+    "Industry": "Tech NGO",
+    "Website": "https://linktr.ee/tech4dev"
+  },
+  "uLessonApp": {
+    "Company": "@uLessonApp",
+    "Founders": [
+      "@SimShagaya"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://ulesson.com/"
+  },
+  "unboxdgifts": {
+    "Company": "@unboxdgifts",
+    "Founders": [
+      "@mrtoluadesina"
+    ],
+    "Industry": "FinTech",
+    "Website": "https://www.unboxd.gifts/"
+  },
+  "UrBizEdge": {
+    "Company": "@UrBizEdge",
+    "Founders": [
+      "@MichealOlafusi"
+    ],
+    "Industry": "Tech Education",
+    "Website": "https://www.urbizedge.com/"
+  },
+  "WellaHealth": {
+    "Company": "@WellaHealth",
+    "Founders": [
+      "@docneto"
+    ],
+    "Industry": "Health Tech",
+    "Website": "https://www.wellahealth.com/"
+  },
+  "weare54gene": {
+    "Company": "@weare54gene",
+    "Founders": [
+      "@AbasiEneobong"
+    ],
+    "Industry": "Health Tech",
+    "Website": "https://54gene.com/"
+  },
+  "xendfinance": {
+    "Company": "@xendfinance",
+    "Founders": [
+      "@AronuUgochukwu"
+    ],
+    "Industry": "DeFi",
+    "Website": "https://xend.finance/"
+  },
+  "yourflexapp": {
+    "Company": "@yourflexapp",
+    "Founders": [
+      "@realsisititi",
+      "@ekojournalist"
+    ],
+    "Industry": "FunTech",
+    "Website": "https://flex.com.ng/"
+  }
 }
