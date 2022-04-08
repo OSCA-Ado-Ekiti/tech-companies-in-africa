@@ -52,15 +52,15 @@ h3 {
   bottom: 20px;
   right: 20px;
   border-radius: 5px;
-  background-color: hsl(0, 0%, 96%);
-  border: 1px solid hsl(0, 0%, 76%);
+  background-color: hsl(0, 0%, 100%);
+  border: 1px solid hsl(0, 0%, 86%);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .back-to-top:hover {
-  box-shadow: 0px 0px 2px hsl(0, 0%, 76%);
+  box-shadow: 0px 0px 2px hsl(0, 0%, 86%);
 }
 
 .back-to-top > img {
@@ -89,7 +89,8 @@ footer {
 /** header */
 header {
   text-align: center;
-  background-color: hsl(49, 100%, 78%);
+  background-color: #006d5b;
+  color: #eee;
   position: relative;
 }
 
@@ -156,7 +157,7 @@ main {
 .company-card {
   margin: 20px;
   padding: 20px;
-  background-color: hsl(0, 0%, 96%);
+  background-color: hsl(0, 0%, 100%);
   box-shadow: 2px 2px 5px #eee;
   border: 1px solid #eee;
   border-radius: 5px;
@@ -194,14 +195,14 @@ main {
 
 /** footer */
 footer {
-  background-color: hsl(49, 90%, 78%);
+  background-color: #006d5b;
+  color: #eee;
 }
 
 .footer-wrapper {
   padding: 20px;
   text-align: center;
   font-size: 0.9rem;
-  color: hsl(0, 0%, 36%);
 }
 
 .copyright {
@@ -220,7 +221,7 @@ footer {
 }
 
 .attribution > a {
-  color: hsl(0, 0%, 26%);
+  color: white;
 }
 
 .attribution > a:hover {
@@ -252,7 +253,7 @@ footer {
   header,
   main,
   footer {
-    padding: 0 40px;
+    padding: 0 20px;
   }
   .header-wrapper {
     padding: 40px 0;
@@ -260,14 +261,6 @@ footer {
 
   .companies-list {
     grid-template-columns: 1fr;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  header,
-  main,
-  footer {
-    padding: 0 20px;
   }
 }
 /*! Media Queries (Ebd)*/
