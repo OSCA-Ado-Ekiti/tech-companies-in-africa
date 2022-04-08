@@ -94,7 +94,7 @@ header {
   position: relative;
 }
 
-.contribute-link {
+a.contribute-link {
   position: absolute;
   right: 0;
   display: flex;
@@ -103,6 +103,7 @@ header {
   font-size: 0.8rem;
   padding: 0 5px;
   background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 26%);
 }
 
 .contribute-link > img {
