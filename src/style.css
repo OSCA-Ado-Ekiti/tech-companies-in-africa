@@ -1,0 +1,273 @@
+/*! Timonwa CSS Reset */
+/*! ===== Resets for all pages (Start) ===== */
+/** all elements */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/** any element that has part of its contents overflowing the body container, will have that part hidden on the screen */
+body {
+  overflow-x: hidden;
+}
+/** to ensure that when you click on an id link, the header will not cover the beginning of the content the id is pointing to */
+[id] {
+  scroll-margin-top: 5rem;
+}
+/** reset the link states to the page's main color and no decoration */
+a,
+a:link,
+a:hover,
+a:active,
+a:visited {
+  text-decoration: none;
+  color: currentColor;
+}
+/** remove bullets from list items and position them well */
+ul {
+  list-style: none;
+  list-style-position: unset;
+}
+/*! ===== Resets for all pages (End) ===== */
+
+/*! Main CSS (Start) */
+/** body */
+body {
+  background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 26%);
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Domine", serif;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 5px;
+  background-color: hsl(0, 0%, 96%);
+  border: 1px solid hsl(0, 0%, 76%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.back-to-top:hover {
+  box-shadow: 0px 0px 2px hsl(0, 0%, 76%);
+}
+
+.back-to-top > img {
+  width: 1rem;
+  height: 1rem;
+  margin: 0.5em;
+}
+
+header,
+main,
+aside,
+footer {
+  padding: 0 100px;
+}
+
+.header-wrapper,
+.main-wrapper,
+.aside-wrapper,
+.footer-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1440px;
+}
+
+/** header */
+header {
+  text-align: center;
+  background-color: hsl(49, 100%, 78%);
+  position: relative;
+}
+
+.contribute-link {
+  position: absolute;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.8rem;
+  padding: 0 5px;
+  background-color: hsl(0, 0%, 96%);
+}
+
+.contribute-link > img {
+  width: 1em;
+  height: 1em;
+  margin-right: 5px;
+}
+
+.header-wrapper {
+  padding: 60px 0;
+}
+
+.header-title {
+  text-transform: uppercase;
+}
+
+.header-subtitle {
+  margin-top: 20px;
+}
+
+.company-nav-links {
+  margin-top: 40px;
+}
+
+.company-nav-links > a:hover {
+  text-decoration: underline;
+}
+
+/** companies  */
+main {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.company-sections {
+  margin-bottom: 20px;
+}
+
+.section-id {
+  text-align: center;
+  font-size: 1rem;
+  width: max-content;
+  margin: 0 auto;
+  border-bottom: 2px solid hsl(49, 100%, 78%);
+}
+
+.companies-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.company-card {
+  margin: 20px;
+  padding: 20px;
+  background-color: hsl(0, 0%, 96%);
+  box-shadow: 2px 2px 5px #eee;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.company-card_name {
+  display: inline-block;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+
+.company-card_website:hover img {
+  width: 0.85em;
+  height: 0.85em;
+}
+
+.company-card_website > img {
+  width: 0.75em;
+  height: 0.75em;
+}
+
+.company-card > p {
+  color: hsl(0, 0%, 36%);
+}
+
+.company-card_founders > a,
+.company-card_twitter-handle > a {
+  color: hsl(197, 100%, 47%);
+}
+
+.company-card_founders > a:hover,
+.company-card_twitter-handle > a:hover {
+  color: hsl(197, 100%, 67%);
+}
+
+/** footer */
+footer {
+  background-color: hsl(49, 90%, 78%);
+}
+
+.footer-wrapper {
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: hsl(0, 0%, 36%);
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.copyright > img {
+  width: 1em;
+  height: 1em;
+  margin-right: 3px;
+}
+
+.attribution {
+  margin-top: 5px;
+}
+
+.attribution > a {
+  color: hsl(0, 0%, 26%);
+}
+
+.attribution > a:hover {
+  font-weight: bold;
+}
+/*! Main CSS (End)*/
+
+/*! Media Queries (Start)*/
+@media screen and (max-width: 1240px) {
+  header,
+  main,
+  footer {
+    padding: 0 80px;
+  }
+  .companies-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  header,
+  main,
+  footer {
+    padding: 0 60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header,
+  main,
+  footer {
+    padding: 0 40px;
+  }
+  .header-wrapper {
+    padding: 40px 0;
+  }
+
+  .companies-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  header,
+  main,
+  footer {
+    padding: 0 20px;
+  }
+}
+/*! Media Queries (Ebd)*/
