@@ -6,4 +6,4 @@
 //* function to automatically update copyright date
 let date = new Date().getFullYear();
 
-document.querySelector(".copywright-date").textContent = "copyright " + date;
+document.querySelector(".copyright-date").textContent = "copyright " + date;
