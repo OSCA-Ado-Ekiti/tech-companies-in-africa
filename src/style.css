@@ -89,8 +89,8 @@ footer {
 /** header */
 header {
   text-align: center;
-  background-color: #006d5b;
-  color: #eee;
+  background-color: #e31b23;
+  color: #fff;
   position: relative;
 }
 
@@ -100,10 +100,11 @@ a.contribute-link {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   padding: 0 5px;
   background-color: hsl(0, 0%, 96%);
   color: hsl(0, 0%, 26%);
+  border-radius: 0 0 0 3px;
 }
 
 .contribute-link > img {
@@ -147,7 +148,8 @@ main {
   font-size: 1rem;
   width: max-content;
   margin: 0 auto;
-  border-bottom: 2px solid #006d5b;
+  border-bottom: 2px solid #e31b23;
+  padding: 0 5px;
 }
 
 .companies-list {
@@ -196,8 +198,8 @@ main {
 
 /** footer */
 footer {
-  background-color: #006d5b;
-  color: #eee;
+  background-color: #e31b23;
+  color: #fff;
 }
 
 .footer-wrapper {
