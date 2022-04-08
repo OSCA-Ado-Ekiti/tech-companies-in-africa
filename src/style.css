@@ -148,6 +148,7 @@ main {
   width: max-content;
   margin: 0 auto;
   border-bottom: 2px solid #006d5b;
+  padding: 0 3px;
 }
 
 .companies-list {
