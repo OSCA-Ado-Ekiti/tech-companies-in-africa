@@ -57,7 +57,7 @@ This process here should be able to guide you on how to contribute effectively t
   ```
 
 Make your Pull request to OSCA-Ado-Ekiti/tech-companies-in-africa
- main branch and wait for it to be merged.
+main branch and wait for it to be merged.
 
 Write good commit messages, this is very important, so people reviewing can know what your fix, feature e.t.c. is doing.
 Your PR should carry the story / task URL (instruction from above).
