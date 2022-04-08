@@ -223,10 +223,11 @@ footer {
 
 .attribution > a {
   color: white;
+  font-weight: bold;
 }
 
 .attribution > a:hover {
-  font-weight: bold;
+  font-weight: normal;
 }
 /*! Main CSS (End)*/
 
