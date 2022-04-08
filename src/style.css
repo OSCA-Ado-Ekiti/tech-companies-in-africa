@@ -147,7 +147,7 @@ main {
   font-size: 1rem;
   width: max-content;
   margin: 0 auto;
-  border-bottom: 2px solid hsl(49, 100%, 78%);
+  border-bottom: 2px solid #006d5b;
 }
 
 .companies-list {
