@@ -101,7 +101,7 @@ a.contribute-link {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 0.8rem;
+  font-size:0.95rem;
   padding: 0 5px;
   background-color: hsl(0, 0%, 96%);
   color: hsl(0, 0%, 26%);
