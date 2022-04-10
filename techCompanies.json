@@ -1,720 +1,738 @@
 {
   "a": [
     {
-      "company-name": "Abeg",
-      "company-twitter-handle": "abeg_app",
-      "founders-twitter-handle": ["dare___a"],
+      "companyName": "Abeg",
+      "companyTwitterHandle": "abeg_app",
+      "foundersTwitterHandle": ["dare___a"],
       "industry": "FinTech",
       "website": "https://abeg.app/"
     },
     {
-      "company-name": "Acadar",
-      "company-twitter-handle": "Acadar",
-      "founders-twitter-handle": ["OnyimeStan"],
+      "companyName": "Acadar",
+      "companyTwitterHandle": "Acadar",
+      "foundersTwitterHandle": ["OnyimeStan"],
       "industry": "EduTech",
       "website": "https://acadar.com"
     },
     {
-      "company-name": "Ace",
-      "company-twitter-handle": "Ace",
-      "founders-twitter-handle": ["ercineksin", "tundekehinde"],
+      "companyName": "ACE (Africa Courier Express)",
+      "companyTwitterHandle": "Ace",
+      "foundersTwitterHandle": ["ercineksin", "tundekehinde"],
       "industry": "Logistics",
       "website": "https://www.ace.ng"
     },
     {
-      "company-name": "Africas Talking",
-      "company-twitter-handle": "Africastalking",
-      "founders-twitter-handle": ["sgikandi"],
+      "companyName": "Africa's Talking",
+      "companyTwitterHandle": "Africastalking",
+      "foundersTwitterHandle": ["sgikandi"],
       "industry": "Mobile Communications Solutions",
       "website": "https://africastalking.com"
     },
     {
-      "company-name": "Afriktrip",
-      "company-twitter-handle": "afriktrip",
-      "founders-twitter-handle": ["mr_adesal"],
+      "companyName": "Afriktrip",
+      "companyTwitterHandle": "afriktrip",
+      "foundersTwitterHandle": ["mr_adesal"],
       "industry": "Travels and Tours",
       "website": "https://afriktrip.com"
     },
     {
-      "company-name": "An African Future",
-      "company-twitter-handle": "anafricanfuture",
-      "founders-twitter-handle": ["iaboyeji"],
-      "industry": "VC",
-      "website": "https://www.future.africa"
-    },
-    {
-      "company-name": "AltSchool Africa",
-      "company-twitter-handle": "AltSchoolAfrica",
-      "founders-twitter-handle": ["AdewaleYusuf_", "hackSultan"],
+      "companyName": "AltSchool Africa",
+      "companyTwitterHandle": "AltSchoolAfrica",
+      "foundersTwitterHandle": ["AdewaleYusuf_", "hackSultan"],
       "industry": "EduTech",
       "website": "https://altschoolafrica.com"
     },
     {
-      "company-name": "Autochek Africa",
-      "company-twitter-handle": "AutochekAfrica",
-      "founders-twitter-handle": ["etopty"],
-      "industry": "Automobile/Auto-Tech",
+      "companyName": "Autochek",
+      "companyTwitterHandle": "AutochekAfrica",
+      "foundersTwitterHandle": ["etopty"],
+      "industry": "Automobile/AutoTech",
       "website": "https://www.autochek.africa/ng"
     }
   ],
+
   "b": [
     {
-      "company-name": "BanklyNG",
-      "company-twitter-handle": "BanklyNG",
-      "founders-twitter-handle": [],
+      "companyName": "Bankly",
+      "companyTwitterHandle": "BanklyNG",
+      "foundersTwitterHandle": [],
       "industry": "Digital Wealth (FinTech)",
       "website": "https://www.bankly.ng"
     },
     {
-      "company-name": "Brass",
-      "company-twitter-handle": "brassbanking",
-      "founders-twitter-handle": ["akindolu"],
+      "companyName": "Brass",
+      "companyTwitterHandle": "brassbanking",
+      "foundersTwitterHandle": ["akindolu"],
       "industry": "Business Banking",
       "website": "https://www.trybrass.com"
     },
     {
-      "company-name": "Bridger Africa",
-      "company-twitter-handle": "Bridgerafrica",
-      "founders-twitter-handle": ["JSBabasanmi"],
+      "companyName": "Bridger",
+      "foundersTwitterHandle": ["JSBabasanmi"],
       "industry": "Export and Export financing",
       "website": "http://app.bridger.africa"
     },
     {
-      "company-name": "Build with Bloc",
-      "company-twitter-handle": "buildwithbloc",
-      "founders-twitter-handle": ["pyjama_ceo"],
+      "companyName": "Bloc",
+      "companyTwitterHandle": "buildwithbloc",
+      "foundersTwitterHandle": ["pyjama_ceo"],
       "industry": "FinTech",
       "website": "https://www.blochq.io"
     },
     {
-      "company-name": "Bukableco",
-      "company-twitter-handle": "bukableco",
-      "founders-twitter-handle": ["enyosam_"],
+      "companyName": "Bukable",
+      "companyTwitterHandle": "bukableco",
+      "foundersTwitterHandle": ["enyosam_"],
       "industry": "Freelance, Tech learning & Outsourcing",
       "website": "https://www.bukable.co"
     },
     {
-      "company-name": "Buy Safe House",
-      "company-twitter-handle": "buysafehouse",
-      "founders-twitter-handle": ["SeunKOlajide"],
-      "industry": "Real Estate",
-      "website": "https://www.buysafehouse.com"
+      "companyName": "Bumpa",
+      "companyTwitterHandle": "getBumpa",
+      "foundersTwitterHandle": ["tushgeek", "TeeJaY_Codes"],
+      "industry": "E-commerce Founders",
+      "website": "https://getbumpa.com"
     }
   ],
+
   "c": [
     {
-      "company-name": "Cellulant",
-      "company-twitter-handle": "Cellulant",
-      "founders-twitter-handle": ["KenNjorogeCG", "BolajiAkinboro"],
+      "companyName": "Cellulant",
+      "companyTwitterHandle": "Cellulant",
+      "foundersTwitterHandle": ["KenNjorogeCG", "BolajiAkinboro"],
       "industry": "Financial Services",
       "website": "https://cellulant.io"
     },
     {
-      "company-name": "CHAfrica Tech",
-      "company-twitter-handle": "CHAfrica_Tech",
-      "founders-twitter-handle": ["chizom_"],
+      "companyName": "Code Hub Africa Tech",
+      "companyTwitterHandle": "CHAfrica_Tech",
+      "foundersTwitterHandle": ["chizom_"],
       "industry": "EduTech",
-      "website": "https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755"
+      "website": "https://codehubafrica.tech"
     },
     {
-      "company-name": "Cowrywise",
-      "company-twitter-handle": "Cowrywise",
-      "founders-twitter-handle": [],
+      "companyName": "Cowrywise",
+      "companyTwitterHandle": "Cowrywise",
+      "foundersTwitterHandle": [],
       "industry": "Digital Wealth (FinTech)",
       "website": "https://cowrywise.com"
     },
     {
-      "company-name": "Craft SiliconKE",
-      "company-twitter-handle": "CraftSiliconKE",
-      "founders-twitter-handle": ["KBudhabhatti"],
+      "companyName": "Craft Silicon",
+      "companyTwitterHandle": "CraftSiliconKE",
+      "foundersTwitterHandle": ["KBudhabhatti"],
       "industry": "Financial Services",
       "website": "https://www.craftsilicon.com"
     }
   ],
+
   "d": [
     {
-      "company-name": "DarumNg",
-      "company-twitter-handle": "DarumNg",
-      "founders-twitter-handle": [],
+      "companyName": "Darum",
+      "companyTwitterHandle": "DarumNg",
+      "foundersTwitterHandle": [],
       "industry": "Logistics",
       "website": "https://darum.ng"
     },
     {
-      "company-name": "Decagon",
-      "company-twitter-handle": "DecagonIns",
-      "founders-twitter-handle": ["ChikaNwobi"],
+      "companyName": "Decagon",
+      "companyTwitterHandle": "DecagonIns",
+      "foundersTwitterHandle": ["ChikaNwobi"],
       "industry": "Tech learning & outsourcing",
       "website": "https://decagonhq.com"
     },
     {
-      "company-name": "Devdex Software",
-      "company-twitter-handle": "devdex_software",
-      "founders-twitter-handle": ["NanaOBosompem"],
+      "companyName": "DevDex Software",
+      "companyTwitterHandle": "devdex_software",
+      "foundersTwitterHandle": ["NanaOBosompem"],
       "industry": "Health",
       "website": "https://devdexsoftware.com"
+    },
+    {
+      "companyName": "Disha",
+      "companyTwitterHandle": "getdisha",
+      "foundersTwitterHandle": ["evansakanno"],
+      "industry": "Media",
+      "website": "https://disha.page"
     }
   ],
+
   "e": [
     {
-      "company-name": "ecoSokoni",
-      "company-twitter-handle": "ecoSokoni",
-      "founders-twitter-handle": ["MHANDISI_IAN"],
+      "companyName": "EcoSokoni",
+      "companyTwitterHandle": "ecoSokoni",
+      "foundersTwitterHandle": ["MHANDISI_IAN"],
       "industry": "AgroTech",
       "website": "https://www.ecosokoni.co.ke"
     },
     {
-      "company-name": "EGMarkets",
-      "company-twitter-handle": "EGMarkets",
-      "founders-twitter-handle": [],
+      "companyName": "EGMarkets",
+      "companyTwitterHandle": "EGMarkets",
+      "foundersTwitterHandle": [],
       "industry": "Financial Derivatives",
       "website": "http://access.eagleglobalmarkets.com"
     },
     {
-      "company-name": "Ejara",
-      "company-twitter-handle": "EjaraApp",
-      "founders-twitter-handle": ["chakaneld"],
+      "companyName": "Ejara",
+      "companyTwitterHandle": "EjaraApp",
+      "foundersTwitterHandle": ["chakaneld"],
       "industry": "FinTech",
-      "Wwbsite": "https://www.ejara.io"
+      "website": "https://www.ejara.io"
     },
     {
-      "company-name": "ErrandLr",
-      "company-twitter-handle": "ErrandLr",
-      "founders-twitter-handle": ["jide_tade"],
+      "companyName": "Errandlr",
+      "companyTwitterHandle": "ErrandLr",
+      "foundersTwitterHandle": ["jide_tade"],
       "industry": "Logistics",
       "website": "https://errandlr.com"
     }
   ],
+
   "f": [
     {
-      "company-name": "Famasi Africa",
-      "company-twitter-handle": "FamasiAfrica",
-      "founders-twitter-handle": ["justsay_didi", "alfaruqstories"],
-      "Industry": "Digital pharmacy",
-      "Website": "https://www.famasi.africa/plans-and-pricing"
+      "companyName": "Famasi",
+      "companyTwitterHandle": "FamasiAfrica",
+      "foundersTwitterHandle": ["justsay_didi", "alfaruqstories"],
+      "industry": "Digital pharmacy",
+      "website": "https://www.famasi.africa"
     },
     {
-      "company-name": "Farmed NG",
-      "company-twitter-handle": "Farmed_NG",
-      "founders-twitter-handle": ["jay_can_do", "27kJamal", "edidiongmekong"],
-      "Industry": "AgroTech",
-      "Website": "https://facebook.com/FarmedForte"
+      "companyName": "Farmed",
+      "companyTwitterHandle": "Farmed_NG",
+      "foundersTwitterHandle": ["jay_can_do", "27kJamal", "edidiongmekong"],
+      "industry": "AgroTech",
+      "website": "https://facebook.com/FarmedForte"
     },
     {
-      "company-name": "FirstCheck",
-      "company-twitter-handle": "FirstCheckHQ",
-      "founders-twitter-handle": ["ElohoGM", "OdunEweniyi"],
-      "Industry": "VC",
-      "Website": "https://www.firstcheck.africa"
+      "companyName": "FirstCheck Africa",
+      "companyTwitterHandle": "FirstCheckHQ",
+      "foundersTwitterHandle": ["ElohoGM", "OdunEweniyi"],
+      "industry": "VC",
+      "website": "https://www.firstcheck.africa"
     },
     {
-      "company-name": "Flutterwave",
-      "company-twitter-handle": "Theflutterwave",
-      "founders-twitter-handle": ["TechProd_Arch", "iaboyeji"],
-      "Industry": "Payment infrastructure",
-      "Website": "https://www.flutterwave.com/us"
+      "companyName": "Flex",
+      "companyTwitterHandle": "yourflexapp",
+      "foundersTwitterHandle": ["realsisititi", "ekojournalist"],
+      "industry": "FunTech",
+      "website": "https://flex.com.ng"
     },
     {
-      "company-name": "FlyingDoctorsIC",
-      "company-twitter-handle": "FlyingDoctorsIC",
-      "founders-twitter-handle": ["NaijaFlyingDr"],
-      "Industry": "HealthCare",
-      "Website": "http://fdinvestmentcompany.com"
+      "companyName": "Flutterwave",
+      "companyTwitterHandle": "Theflutterwave",
+      "foundersTwitterHandle": ["TechProd_Arch", "iaboyeji"],
+      "industry": "Payment infrastructure",
+      "website": "https://www.flutterwave.com/us"
     },
     {
-      "company-name": "FluxTech Africa",
-      "company-twitter-handle": "FluxTechAfrica",
-      "founders-twitter-handle": ["isokowalter"],
-      "Industry": "Tech Consulting + Software Services",
-      "Website": "https://fluxtechafrica.com"
+      "companyName": "Flux",
+      "companyTwitterHandle": "ifluxdotapp",
+      "foundersTwitterHandle": ["ifluxdotapp"],
+      "industry": "Payment infrastructure",
+      "website": "https://iflux.app"
     },
     {
-      "company-name": "FourthCanvas",
-      "company-twitter-handle": "FourthCanvas",
-      "founders-twitter-handle": ["victorfatanmi"],
-      "Industry": "PR/Marketing/Brand strategy",
-      "Website": "https://africachallengerbrands.com"
+      "companyName": "Flying Doctors",
+      "companyTwitterHandle": "FlyingDoctorsIC",
+      "foundersTwitterHandle": ["NaijaFlyingDr"],
+      "industry": "HealthCare",
+      "website": "https://fdhic.com/"
     },
     {
-      "company-name": "Frain Dev",
-      "company-twitter-handle": "frainDev",
-      "founders-twitter-handle": ["subomiOluwalana", "emmanuelaina_"],
-      "Industry": "Developer Tools",
-      "Website": "https://frain.dev"
+      "companyName": "Flux Tech Africa",
+      "companyTwitterHandle": "FluxTechAfrica",
+      "foundersTwitterHandle": ["isokowalter"],
+      "industry": "Tech Consulting + Software Services",
+      "website": "https://fluxtechafrica.com"
+    },
+    {
+      "companyName": "FourthCanvas",
+      "companyTwitterHandle": "FourthCanvas",
+      "foundersTwitterHandle": ["victorfatanmi"],
+      "industry": "PR/Marketing/Brand strategy",
+      "website": "https://fourthcanvas.co/"
+    },
+    {
+      "companyName": "Frain",
+      "companyTwitterHandle": "frainDev",
+      "foundersTwitterHandle": ["subomiOluwalana", "emmanuelaina_"],
+      "industry": "Developer Tools",
+      "website": "https://frain.dev"
+    },
+    {
+      "companyName": "Future Africa",
+      "companyTwitterHandle": "anafricanfuture",
+      "foundersTwitterHandle": ["iaboyeji"],
+      "industry": "VC",
+      "website": "https://www.future.africa"
     }
   ],
+
   "g": [
     {
-      "company-name": "Geotopup",
-      "company-twitter-handle": "Geotopup",
-      "founders-twitter-handle": ["ejilolahmed"],
-      "Industry": "Fintech",
-      "Website": "https://geotopup.com"
+      "companyName": "Geotopup",
+      "companyTwitterHandle": "Geotopup",
+      "foundersTwitterHandle": ["ejilolahmed"],
+      "industry": "Fintech",
+      "website": "https://geotopup.com"
     },
     {
-      "company-name": "getBumpa",
-      "company-twitter-handle": "getBumpa",
-      "founders-twitter-handle": ["tushgeek", "TeeJaY_Codes"],
-      "Industry": "E-commerce Founders",
-      "Website": "https://getbumpa.com"
+      "companyName": "GetEquity",
+      "companyTwitterHandle": "getequity",
+      "foundersTwitterHandle": ["bigbrutha_", "WilliamOkafor"],
+      "industry": "Startup Financing",
+      "website": "https://www.getequity.io"
     },
     {
-      "company-name": "getdisha",
-      "company-twitter-handle": "getdisha",
-      "founders-twitter-handle": ["evansakanno"],
-      "Industry": "Media",
-      "Website": "https://disha.page"
+      "companyName": "Grazac",
+      "companyTwitterHandle": "grazacng",
+      "foundersTwitterHandle": ["AdeleyeVictor_"],
+      "industry": "Tech Education",
+      "website": "https://www.grazac.com.ng"
     },
     {
-      "company-name": "getequity",
-      "company-twitter-handle": "getequity",
-      "founders-twitter-handle": ["bigbrutha_", "WilliamOkafor"],
-      "Industry": "Startup Financing",
-      "Website": "https://www.getequity.io"
-    },
-    {
-      "company-name": "grazacng",
-      "company-twitter-handle": "grazacng",
-      "founders-twitter-handle": ["AdeleyeVictor_"],
-      "Industry": "Tech Education",
-      "Website": "https://www.grazac.com.ng"
-    },
-    {
-      "company-name": "Grey",
-      "company-twitter-handle": "Grey",
-      "founders-twitter-handle": ["femicodes", "kingidee"],
-      "Industry": "FinTech",
-      "Website": "https://grey.co"
+      "companyName": "Grey",
+      "companyTwitterHandle": "Grey",
+      "foundersTwitterHandle": ["femicodes", "kingidee"],
+      "industry": "FinTech",
+      "website": "https://grey.co"
     }
   ],
+
   "h": [
     {
-      "company-name": "Halotechafrica",
-      "company-twitter-handle": "Halotechafrica",
-      "founders-twitter-handle": ["robertyenji"],
-      "Industry": "Software Services",
-      "Website": "https://www.halotechafrica.com"
+      "companyName": "Halotech Africa",
+      "companyTwitterHandle": "Halotechafrica",
+      "foundersTwitterHandle": ["robertyenji"],
+      "industry": "Software Services",
+      "website": "https://www.halotechafrica.com"
     },
     {
-      "company-name": "handypal_ng",
-      "company-twitter-handle": "handypal_ng",
-      "founders-twitter-handle": ["alajabrownedola"],
-      "Industry": "ArtisanTech",
-      "Website": "http://www.hanypalng.com"
+      "companyName": "Handypal",
+      "companyTwitterHandle": "handypal_ng",
+      "foundersTwitterHandle": ["alajabrownedola"],
+      "industry": "ArtisanTech",
+      "website": "http://www.hanypalng.com"
     },
     {
-      "company-name": "HerconomybyAGS",
-      "company-twitter-handle": "HerconomybyAGS",
-      "founders-twitter-handle": ["ifedurosinmiE"],
-      "Industry": "Female Tech Empowerment + Fintech",
-      "Website": "https://linktr.ee/Herconomy"
+      "companyName": "Herconomy",
+      "companyTwitterHandle": "HerconomybyAGS",
+      "foundersTwitterHandle": ["ifedurosinmiE"],
+      "industry": "Female Tech Empowerment + Fintech",
+      "website": "https://linktr.ee/Herconomy"
     },
     {
-      "company-name": "hytchafrica",
-      "company-twitter-handle": "hytchafrica",
-      "founders-twitter-handle": ["thislaolu"],
-      "Industry": "Shared commuting.",
-      "Website": "https://hytch.africa"
+      "companyName": "Hytch",
+      "companyTwitterHandle": "hytchafrica",
+      "foundersTwitterHandle": ["thislaolu"],
+      "industry": "Shared commuting.",
+      "website": "https://hytch.africa"
     }
   ],
-  "i": [
-    {
-      "company-name": "ifluxdotapp",
-      "company-twitter-handle": "ifluxdotapp",
-      "founders-twitter-handle": ["ifluxdotapp"],
-      "Industry": "Payment infrastructure",
-      "Website": "https://iflux.app"
-    }
-  ],
+
+  "i": [],
+
   "j": [
     {
-      "company-name": "JastTech",
-      "company-twitter-handle": "JastTech",
-      "founders-twitter-handle": ["CoucoSeth"],
-      "Industry": "Mobile and Web apps service provider",
-      "Website": "https://www.jast-tech.com"
+      "companyName": "Jast Tech",
+      "companyTwitterHandle": "JastTech",
+      "foundersTwitterHandle": ["CoucoSeth"],
+      "industry": "Mobile and Web apps service provider",
+      "website": "https://www.jast-tech.com"
     },
     {
-      "company-name": "Jiggyvest",
-      "company-twitter-handle": "Jiggyvest",
-      "founders-twitter-handle": ["hachi"],
-      "Industry": "JiggyTech",
-      "Website": "https://www.jiggyvest.com"
+      "companyName": "Jiggyvest",
+      "companyTwitterHandle": "Jiggyvest",
+      "foundersTwitterHandle": ["hachi"],
+      "industry": "JiggyTech",
+      "website": "https://www.jiggyvest.com"
     }
   ],
+
   "k": [
     {
-      "company-name": "Kashbase",
-      "company-twitter-handle": "Kashbase",
-      "founders-twitter-handle": ["TheMideOlayinka"],
-      "Industry": "Savings infrastructure",
-      "Website": "https://kashbase.com"
+      "companyName": "Kashbase",
+      "companyTwitterHandle": "Kashbase",
+      "foundersTwitterHandle": ["TheMideOlayinka"],
+      "industry": "Savings infrastructure",
+      "website": "https://kashbase.com"
     },
     {
-      "company-name": "Kobo360",
-      "company-twitter-handle": "Kobo360",
-      "founders-twitter-handle": ["ObiOzor", "IfeOyedeleII"],
-      "Industry": "Logistics",
-      "Website": "https://www.kobo360.com"
+      "companyName": "Kloud Commerce",
+      "companyTwitterHandle": "KloudCommerceHQ",
+      "foundersTwitterHandle": ["docolumide"],
+      "industry": "E-commerce",
+      "website": "https://www.kloudcommerce.co/"
     },
     {
-      "company-name": "Kudabank",
-      "company-twitter-handle": "Kudabank",
-      "founders-twitter-handle": ["Babsogundeyi"],
-      "Industry": "Fintech",
-      "Website": "https://kudabank.com"
+      "companyName": "Kobo360",
+      "companyTwitterHandle": "Kobo360",
+      "foundersTwitterHandle": ["ObiOzor", "IfeOyedeleII"],
+      "industry": "Logistics",
+      "website": "https://www.kobo360.com"
     },
     {
-      "company-name": "Kudi",
-      "company-twitter-handle": "Kudi",
-      "founders-twitter-handle": ["waleyinks"],
-      "Industry": "Agency Banking/Digital banking",
-      "Website": "https://kudi.com/marketplace"
+      "companyName": "Kuda Bank",
+      "companyTwitterHandle": "Kudabank",
+      "foundersTwitterHandle": ["Babsogundeyi"],
+      "industry": "Fintech",
+      "website": "https://kuda.com"
     },
     {
-      "company-name": "Kudibar",
-      "company-twitter-handle": "Kudibar",
-      "founders-twitter-handle": ["codebasher_"],
-      "Industry": "Event ticketing platform",
-      "Website": "https://kudibar.com"
+      "companyName": "Kudi",
+      "companyTwitterHandle": "Kudi",
+      "foundersTwitterHandle": ["waleyinks"],
+      "industry": "Agency Banking/Digital banking",
+      "website": "https://kudi.com/marketplace"
     },
     {
-      "company-name": "Kudisms",
-      "company-twitter-handle": "Kudisms",
-      "founders-twitter-handle": ["MeduguOS"],
-      "Industry": "Mobile Communication",
-      "Website": "https://kudisms.net"
+      "companyName": "Kudibar",
+      "companyTwitterHandle": "Kudibar",
+      "foundersTwitterHandle": ["codebasher_"],
+      "industry": "Event ticketing platform",
+      "website": "https://kudibar.com"
     },
     {
-      "company-name": "Kwik",
-      "company-twitter-handle": "Kwik",
-      "founders-twitter-handle": ["RomainPoirot-lellig"],
-      "Industry": "Logistics",
-      "Website": "https://kwik.delivery"
+      "companyName": "Kudi SMS",
+      "companyTwitterHandle": "Kudisms",
+      "foundersTwitterHandle": ["MeduguOS"],
+      "industry": "Mobile Communication",
+      "website": "https://kudisms.net"
+    },
+    {
+      "companyName": "Kwik",
+      "companyTwitterHandle": "Kwik",
+      "foundersTwitterHandle": ["RomainPoirot-lellig"],
+      "industry": "Logistics",
+      "website": "https://kwik.delivery"
     }
   ],
+
   "l": [
     {
-      "company-name": "LemonadeFinance",
-      "company-twitter-handle": "LemonadeFinance",
-      "founders-twitter-handle": ["ridwan_olalere"],
-      "Industry": "FinTech",
-      "Website": "https://www.lemonade.finance"
+      "companyName": "Lemonade Finance",
+      "companyTwitterHandle": "LemonadeFinance",
+      "foundersTwitterHandle": ["ridwan_olalere"],
+      "industry": "FinTech",
+      "website": "https://www.lemonade.finance"
     }
   ],
+
   "m": [
     {
-      "company-name": "myclassroomng",
-      "company-twitter-handle": "myclassroomng",
-      "founders-twitter-handle": ["isholabaryor"],
-      "Industry": "Tech Education",
-      "Website": ""
-    },
-    {
-      "company-name": "MytruQ",
-      "company-twitter-handle": "MytruQ",
-      "founders-twitter-handle": ["WilliamsFatayo"],
-      "Industry": "Logistics",
-      "Website": "https://mytruq.com"
+      "companyName": "myclassroomng",
+      "companyTwitterHandle": "myclassroomng",
+      "foundersTwitterHandle": ["isholabaryor"],
+      "industry": "Tech Education",
+      "website": ""
     }
   ],
+
   "n": [
     {
-      "company-name": "Neviwi",
-      "company-twitter-handle": "Neviwi",
-      "founders-twitter-handle": ["OnyimeStan", "Chinemife"],
-      "Industry": "Ecommerce",
-      "Website": "https://neviwi.com"
+      "companyName": "Neviwi",
+      "companyTwitterHandle": "Neviwi",
+      "foundersTwitterHandle": ["OnyimeStan", "Chinemife"],
+      "industry": "Ecommerce",
+      "website": "https://neviwi.com"
     },
 
     {
-      "company-name": "nguvuhealth",
-      "company-twitter-handle": "nguvuhealth",
-      "founders-twitter-handle": ["jfkoya"],
-      "Industry": "Healthtech",
-      "Website": "https://www.nguvuhealth.com"
+      "companyName": "Nguvu Health",
+      "companyTwitterHandle": "nguvuhealth",
+      "foundersTwitterHandle": ["jfkoya"],
+      "industry": "Healthtech",
+      "website": "https://www.nguvuhealth.com"
     }
   ],
+
   "o": [
     {
-      "company-name": "offmychest_app",
-      "company-twitter-handle": "offmychest_app",
-      "founders-twitter-handle": ["davidobidu", "Mercee__"],
-      "Industry": "Healthcare & Social Networking",
-      "Website": "https://omcmobile.app"
+      "companyName": "Off My Chest",
+      "companyTwitterHandle": "offmychest_app",
+      "foundersTwitterHandle": ["davidobidu", "Mercee__"],
+      "industry": "Healthcare & Social Networking",
+      "website": "https://omcmobile.app"
     },
     {
-      "company-name": "onlinehubng",
-      "company-twitter-handle": "onlinehubng",
-      "founders-twitter-handle": ["isholabaryor"],
-      "Industry": "Tech Education",
-      "Website": "https://onlinehubng.com"
+      "companyName": "Onlinehubng",
+      "companyTwitterHandle": "onlinehubng",
+      "foundersTwitterHandle": ["isholabaryor"],
+      "industry": "Tech Education",
+      "website": "https://onlinehubng.com"
     },
     {
-      "company-name": "Opay",
-      "company-twitter-handle": "opay",
-      "founders-twitter-handle": ["Favourori_"],
-      "Industry": "Financial technology infrastructure",
-      "Website": "https://opay.com"
+      "companyName": "Opay",
+      "companyTwitterHandle": "opay",
+      "foundersTwitterHandle": ["Favourori_"],
+      "industry": "Financial technology infrastructure",
+      "website": "https://opayweb.com/"
     },
     {
-      "company-name": "ourpaydayHQ",
-      "company-twitter-handle": "ourpaydayHQ",
-      "founders-twitter-handle": ["Favourori_"],
-      "Industry": "Financial technology infrastructure",
-      "Website": "https://usepayday.com"
+      "companyName": "Payday",
+      "companyTwitterHandle": "ourpaydayHQ",
+      "foundersTwitterHandle": ["Favourori_"],
+      "industry": "Financial technology infrastructure",
+      "website": "https://usepayday.com"
     },
     {
-      "company-name": "OurPassCo",
-      "company-twitter-handle": "OurPassCo",
-      "founders-twitter-handle": ["Mzter_sam"],
-      "Industry": "Payment infrastructure",
-      "Website": "https://www.ourpass.co"
+      "companyName": "OurPass",
+      "companyTwitterHandle": "OurPassCo",
+      "foundersTwitterHandle": ["Mzter_sam"],
+      "industry": "Payment infrastructure",
+      "website": "https://www.ourpass.co"
     }
   ],
+
   "p": [
     {
-      "company-name": "Patricia",
-      "company-twitter-handle": "Patricia",
-      "founders-twitter-handle": ["Fejizzy"],
-      "Industry": "FinTech",
-      "Website": "https://www.mypatricia.co"
+      "companyName": "Patricia",
+      "companyTwitterHandle": "Patricia",
+      "foundersTwitterHandle": ["Fejizzy"],
+      "industry": "FinTech",
+      "website": "https://www.mypatricia.co"
     },
     {
-      "company-name": "payercoins",
-      "company-twitter-handle": "payercoins",
-      "founders-twitter-handle": ["AdeleyeVictor_"],
-      "Industry": "Crypto Payment Infrastructure/Web3",
-      "Website": "https://www.payercoins.com"
+      "companyName": "Payercoins",
+      "companyTwitterHandle": "payercoins",
+      "foundersTwitterHandle": ["AdeleyeVictor_"],
+      "industry": "Crypto Payment Infrastructure/Web3",
+      "website": "https://www.payercoins.com"
     },
     {
-      "company-name": "PayPeckerHQ",
-      "company-twitter-handle": "PayPeckerHQ",
-      "founders-twitter-handle": ["docolumide"],
-      "Industry": "E-commerce",
-      "Website": "https://paypecker.co"
+      "companyName": "Paystack",
+      "companyTwitterHandle": "paystack",
+      "foundersTwitterHandle": ["shollsman", "0x"],
+      "industry": "Payment infrastructure",
+      "website": "https://paystack.com"
     },
     {
-      "company-name": "Paystack",
-      "company-twitter-handle": "paystack",
-      "founders-twitter-handle": ["shollsman", "0x"],
-      "Industry": "Payment infrastructure",
-      "Website": "https://paystack.com"
-    },
-    {
-      "company-name": "Pickmeupservice",
-      "company-twitter-handle": "Pickmeupservice",
-      "founders-twitter-handle": ["SkimaSax", "AdewaleOretuga"],
-      "Industry": "Logistics",
-      "Website": ""
+      "companyName": "Pick me up service",
+      "companyTwitterHandle": "Pickmeupservice",
+      "foundersTwitterHandle": ["SkimaSax", "AdewaleOretuga"],
+      "industry": "Logistics",
+      "website": "http://pickmeup.com.ng"
     }
   ],
+
   "q": [
     {
-      "company-name": "QuabblyHQ",
-      "company-twitter-handle": "QuabblyHQ",
-      "founders-twitter-handle": ["theernestdavid", "jamzig1"],
-      "Industry": "Automation, No-Code",
-      "Website": "https://quabbly.com"
+      "companyName": "Quabbly",
+      "companyTwitterHandle": "QuabblyHQ",
+      "foundersTwitterHandle": ["theernestdavid", "jamzig1"],
+      "industry": "Automation, No-Code",
+      "website": "https://quabbly.com"
     }
   ],
+
   "r": [
     {
-      "company-name": "ReelFruit",
-      "company-twitter-handle": "ReelFruit",
-      "founders-twitter-handle": ["AffiSupaStar"],
-      "Industry": "AgroTech",
-      "Website": "https://reelfruit.com"
+      "companyName": "ReelFruit",
+      "companyTwitterHandle": "ReelFruit",
+      "foundersTwitterHandle": ["AffiSupaStar"],
+      "industry": "AgroTech",
+      "website": "https://reelfruit.com"
     },
     {
-      "company-name": "Risevest",
-      "company-twitter-handle": "Risevest",
-      "founders-twitter-handle": ["eldivyn"],
-      "Industry": "Digital Wealth (Fintech)",
-      "Website": "https://rise.capital"
+      "companyName": "Rise",
+      "companyTwitterHandle": "Risevest",
+      "foundersTwitterHandle": ["eldivyn"],
+      "industry": "Digital Wealth (Fintech)",
+      "website": "https://rise.capital"
     },
     {
-      "company-name": "Rosehood Technology Risk Consulting Group",
-      "company-twitter-handle": "Rosehood Technology Risk Consulting Group",
-      "founders-twitter-handle": ["mikerosy", "RosyRomike"],
-      "Industry": "Technology Risk & Consulting",
-      "Website": "http://Techrisk.co.ke"
+      "companyName": "Rosehood Technology Risk Consulting",
+      "companyTwitterHandle": "Rosehood Technology Risk Consulting Group",
+      "foundersTwitterHandle": ["mikerosy", "RosyRomike"],
+      "industry": "Technology Risk & Consulting",
+      "website": "http://Techrisk.co.ke"
     }
   ],
+
   "s": [
     {
-      "company-name": "safeboda",
-      "company-twitter-handle": "safeboda",
-      "founders-twitter-handle": ["Babajiide"],
-      "Industry": "Transportation",
-      "Website": "https://safeboda.com/ug"
+      "companyName": "aSfeboda",
+      "companyTwitterHandle": "safeboda",
+      "foundersTwitterHandle": ["Babajiide"],
+      "industry": "Transportation",
+      "website": "https://safeboda.com/ug"
     },
     {
-      "company-name": "shecluded",
-      "company-twitter-handle": "shecluded",
-      "founders-twitter-handle": ["ifyhopee"],
-      "Industry": "Fintech + Female Tech Empowerment",
-      "Website": "https://shecluded.com"
+      "companyName": "Safe House",
+      "companyTwitterHandle": "buysafehouse",
+      "foundersTwitterHandle": ["SeunKOlajide"],
+      "industry": "Real Estate",
+      "website": "https://www.buysafehouse.com"
     },
     {
-      "company-name": "smartretailNG",
-      "company-twitter-handle": "smartretailNG",
-      "founders-twitter-handle": ["Ade_lekannnn"],
-      "Industry": "Retail & commerce",
-      "Website": "https://twitter.com/smartretailng"
+      "companyName": "Shecluded",
+      "companyTwitterHandle": "shecluded",
+      "foundersTwitterHandle": ["ifyhopee"],
+      "industry": "Fintech + Female Tech Empowerment",
+      "website": "https://shecluded.com"
     },
     {
-      "company-name": "SoochNigeria",
-      "company-twitter-handle": "SoochNigeria",
-      "founders-twitter-handle": ["jay_can_do"],
-      "Industry": "Beverage/Food Processing",
-      "Website": "https://m.facebook.com/soochnigeria"
+      "companyName": "Smartretail",
+      "companyTwitterHandle": "smartretailNG",
+      "foundersTwitterHandle": ["Ade_lekannnn"],
+      "industry": "Retail & commerce",
+      "website": "https://twitter.com/smartretailng"
     },
     {
-      "company-name": "spatialnodehq",
-      "company-twitter-handle": "spatialnodehq",
-      "founders-twitter-handle": ["jeafreezy"],
-      "Industry": "Professional Networking, community, Social Media (micro blogging)",
-      "Website": "https://spatialnode.net/home"
+      "companyName": "Sooch Nigeria",
+      "companyTwitterHandle": "SoochNigeria",
+      "foundersTwitterHandle": ["jay_can_do"],
+      "industry": "Beverage/Food Processing",
+      "website": "https://m.facebook.com/soochnigeria"
     },
     {
-      "company-name": "SpireAfrica",
-      "company-twitter-handle": "SpireAfrica",
-      "founders-twitter-handle": ["madebycharles"],
-      "Industry": "Customer Experience (feedback)",
-      "Website": "https://www.spire.africa"
+      "companyName": "Spatialnode",
+      "companyTwitterHandle": "spatialnodehq",
+      "foundersTwitterHandle": ["jeafreezy"],
+      "industry": "Professional Networking, community, Social Media (micro blogging)",
+      "website": "https://spatialnode.net/home"
     },
     {
-      "company-name": "SwiftFinanceApp",
-      "company-twitter-handle": "SwiftFinanceApp",
-      "founders-twitter-handle": [
-        "dammieololade",
-        "adeileri",
-        "Anani_oluwatobi"
-      ],
-      "Industry": "SME Banking",
-      "Website": "https://www.swiftfinance.app"
+      "companyName": "Spire Africa",
+      "companyTwitterHandle": "SpireAfrica",
+      "foundersTwitterHandle": ["madebycharles"],
+      "industry": "Customer Experience (feedback)",
+      "website": "https://www.getspire.io/"
+    },
+    {
+      "companyName": "Swift Finance",
+      "companyTwitterHandle": "SwiftFinanceApp",
+      "foundersTwitterHandle": ["dammieololade", "adeileri", "Anani_oluwatobi"],
+      "industry": "SME Banking",
+      "website": "https://www.swiftfinance.app"
     }
   ],
+
   "t": [
     {
-      "company-name": "TalentQL",
-      "company-twitter-handle": "TalentQL",
-      "founders-twitter-handle": ["AdewaleYusuf_", "hackSultan"],
-      "Industry": "Tech Recruitment",
-      "Website": "https://talentql.com"
+      "companyName": "TalentQL",
+      "companyTwitterHandle": "TalentQL",
+      "foundersTwitterHandle": ["AdewaleYusuf_", "hackSultan"],
+      "industry": "Tech Recruitment",
+      "website": "https://talentql.com"
     },
     {
-      "company-name": "Tech4DevHQ",
-      "company-twitter-handle": "Tech4DevHQ",
-      "founders-twitter-handle": ["diwuraoladepo", "JoelOgunsola"],
-      "Industry": "Tech NGO",
-      "Website": "https://linktr.ee/tech4dev"
+      "companyName": "Tech4Dev",
+      "companyTwitterHandle": "Tech4DevHQ",
+      "foundersTwitterHandle": ["diwuraoladepo", "JoelOgunsola"],
+      "industry": "Tech NGO",
+      "website": "https://linktr.ee/tech4dev"
     },
     {
-      "company-name": "TerragonGroup",
-      "company-twitter-handle": "TerragonGroup",
-      "founders-twitter-handle": ["Eloumeh"],
-      "Industry": "Data and Marketing technology",
-      "Website": "https://terragongroup.com"
+      "companyName": "Terragon Group",
+      "companyTwitterHandle": "TerragonGroup",
+      "foundersTwitterHandle": ["Eloumeh"],
+      "industry": "Data and Marketing technology",
+      "website": "https://terragongroup.com"
     },
     {
-      "company-name": "themoneyafrica",
-      "company-twitter-handle": "themoneyafrica",
-      "founders-twitter-handle": ["tosinolaseinde"],
-      "Industry": "Tech Education",
-      "Website": "https://themoneyafrica.com"
+      "companyName": "The Money Africa",
+      "companyTwitterHandle": "themoneyafrica",
+      "foundersTwitterHandle": ["tosinolaseinde"],
+      "industry": "Tech Education",
+      "website": "https://themoneyafrica.com"
     },
     {
-      "company-name": "Timely Advisory",
-      "company-twitter-handle": "Timely Advisory",
-      "founders-twitter-handle": ["ehindola", "oladapoyusuf"],
-      "Industry": "Legal and finance advisory",
-      "Website": ""
+      "companyName": "Timely Advisory",
+      "companyTwitterHandle": "Timely Advisory",
+      "foundersTwitterHandle": ["ehindola", "oladapoyusuf"],
+      "industry": "Legal and finance advisory",
+      "website": ""
     },
     {
-      "company-name": "ToffeeTribe",
-      "company-twitter-handle": "ToffeeTribe",
-      "founders-twitter-handle": ["NgindaNganga", "KarambuMathai"],
-      "Industry": "Remote Work Directory",
-      "Website": "https://www.toffeetribe.com"
+      "companyName": "ToffeeTribe",
+      "companyTwitterHandle": "ToffeeTribe",
+      "foundersTwitterHandle": ["NgindaNganga", "KarambuMathai"],
+      "industry": "Remote Work Directory",
+      "website": "https://www.toffeetribe.com"
     },
     {
-      "company-name": "tradeDepotHQ",
-      "company-twitter-handle": "tradeDepotHQ",
-      "founders-twitter-handle": ["kachizukanne"],
-      "Industry": "Retail",
-      "Website": "https://www.tradedepot.co"
+      "companyName": "Trade Depot",
+      "companyTwitterHandle": "tradeDepotHQ",
+      "foundersTwitterHandle": ["kachizukanne"],
+      "industry": "Retail",
+      "website": "https://www.tradedepot.co"
     },
     {
-      "company-name": "TreepzHQ",
-      "company-twitter-handle": "TreepzHQ",
-      "founders-twitter-handle": [
+      "companyName": "Treepz",
+      "companyTwitterHandle": "TreepzHQ",
+      "foundersTwitterHandle": [
         "onyekaakumah",
         "johnnyena",
         "darkshayy",
         "john_shaibu"
       ],
-      "Industry": "Shared Mobility",
-      "Website": "https://linktr.ee/PlentyWaka"
+      "industry": "Shared Mobility",
+      "website": "https://linktr.ee/PlentyWaka"
+    },
+    {
+      "companyName": "TruQ",
+      "companyTwitterHandle": "MytruQ",
+      "foundersTwitterHandle": ["WilliamsFatayo"],
+      "industry": "Logistics",
+      "website": "https://mytruq.com"
     }
   ],
+
   "u": [
     {
-      "company-name": "uLessonApp",
-      "company-twitter-handle": "uLessonApp",
-      "founders-twitter-handle": ["SimShagaya"],
-      "Industry": "Tech Education",
-      "Website": "https://ulesson.com"
+      "companyName": "uLesson",
+      "companyTwitterHandle": "uLessonApp",
+      "foundersTwitterHandle": ["SimShagaya"],
+      "industry": "Tech Education",
+      "website": "https://ulesson.com"
     },
     {
-      "company-name": "unboxdgifts",
-      "company-twitter-handle": "unboxdgifts",
-      "founders-twitter-handle": ["mrtoluadesina"],
-      "Industry": "FinTech",
-      "Website": "https://www.unboxd.gifts"
+      "companyName": "Unboxd",
+      "companyTwitterHandle": "unboxdgifts",
+      "foundersTwitterHandle": ["mrtoluadesina"],
+      "industry": "FinTech",
+      "website": "https://www.unboxd.gifts"
     },
     {
-      "company-name": "UrBizEdge",
-      "company-twitter-handle": "UrBizEdge",
-      "founders-twitter-handle": ["MichealOlafusi"],
-      "Industry": "Tech Education",
-      "Website": "https://www.urbizedge.com"
+      "companyName": "UrBizEdge",
+      "companyTwitterHandle": "UrBizEdge",
+      "foundersTwitterHandle": ["MichealOlafusi"],
+      "industry": "Tech Education",
+      "website": "https://www.urbizedge.com"
     }
   ],
+
   "v": [],
   "w": [
     {
-      "company-name": "weare54gene",
-      "company-twitter-handle": "weare54gene",
-      "founders-twitter-handle": ["AbasiEneobong"],
-      "Industry": "Health Tech",
-      "Website": "https://54gene.com"
-    },
-    {
-      "company-name": "WellaHealth",
-      "company-twitter-handle": "WellaHealth",
-      "founders-twitter-handle": ["docneto"],
-      "Industry": "Health Tech",
-      "Website": "https://www.wellahealth.com"
+      "companyName": "WellaHealth",
+      "companyTwitterHandle": "WellaHealth",
+      "foundersTwitterHandle": ["docneto"],
+      "industry": "Health Tech",
+      "website": "https://www.wellahealth.com"
     }
   ],
+
   "x": [
     {
-      "company-name": "xendfinance",
-      "company-twitter-handle": "xendfinance",
-      "founders-twitter-handle": ["AronuUgochukwu"],
-      "Industry": "DeFi",
-      "Website": "https://xend.finance"
+      "companyName": "Xend Finance",
+      "companyTwitterHandle": "xendfinance",
+      "foundersTwitterHandle": ["AronuUgochukwu"],
+      "industry": "DeFi",
+      "website": "https://xend.finance"
     }
   ],
-  "y": [
+
+  "y": [],
+  "z": [],
+  "*": [
     {
-      "company-name": "yourflexapp",
-      "company-twitter-handle": "yourflexapp",
-      "founders-twitter-handle": ["realsisititi", "ekojournalist"],
-      "Industry": "FunTech",
-      "Website": "https://flex.com.ng"
+      "companyName": "54gene",
+      "companyTwitterHandle": "weare54gene",
+      "foundersTwitterHandle": ["AbasiEneobong"],
+      "industry": "Health Tech",
+      "website": "https://54gene.com"
     }
-  ],
-  "z": []
+  ]
 }

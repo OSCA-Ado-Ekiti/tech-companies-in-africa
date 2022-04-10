@@ -5,11 +5,11 @@ window.addEventListener("DOMContentLoaded", function () {
   displaySections(techCompanies);
 });
 
-//! projects card
+//* main wrapper that will hold all the sections
 const mainWrapper = document.querySelector(".main-wrapper");
 
 function displaySections(techCompanies) {
-  //* individual card
+  //* sections to display
   for (var techCompanySection of techCompanies) {
     var companySection = document.createElement("section");
     companySection.className = "company-sections";

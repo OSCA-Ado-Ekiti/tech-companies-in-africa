@@ -176,13 +176,14 @@ main {
 }
 
 .company-card_website:hover img {
-  width: 0.85em;
-  height: 0.85em;
+  width: 1em;
+  height: 1em;
 }
 
 .company-card_website > img {
-  width: 0.75em;
-  height: 0.75em;
+  width: 0.8em;
+  height: 0.8em;
+  margin-left: 5px;
 }
 
 .company-card > p {
