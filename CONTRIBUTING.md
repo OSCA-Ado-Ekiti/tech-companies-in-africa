@@ -2,9 +2,11 @@
 
 ## LIST OF TECH COMPANIES IN AFRICA
 
-Please before you push your codes to the repository make sure you pull from the repository, so the changes that have been made can be reflected on your local machine, for us to avoid merge conflicts use the git command line
+- Please before you push your codes to the repository make sure you pull from the repository, so the changes that have been made can be reflected on your local machine, for us to avoid merge conflicts use the git command line
 
     git pull upstream main
+
+- Any company details added to the readme.md should also be added to the [techCompanies.json](https://github.com/Timonwa/tech-companies-in-africa/blob/main/techCompanies.json) and [techCompanies.js](https://github.com/Timonwa/tech-companies-in-africa/tree/main/src/techCompanies.js) in the `src` folder. 
 
 # Developers guide.
 

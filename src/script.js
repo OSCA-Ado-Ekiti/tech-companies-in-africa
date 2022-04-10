@@ -1,4 +1,4 @@
-import { techCompanies } from "../techCompanies.js";
+import { techCompanies } from "./techCompanies.js";
 
 //! content to show when page loads
 window.addEventListener("DOMContentLoaded", function () {
