@@ -97,14 +97,15 @@ header {
 
 a.contribute-link {
   position: absolute;
-  right: 0;
+  right: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size:0.95rem;
-  padding: 0 5px;
+  font-size: 1rem;
+  padding: 0 10px;
   background-color: hsl(0, 0%, 96%);
   color: hsl(0, 0%, 26%);
+  border-radius: 0 0 5px 5px;
 }
 
 .contribute-link > img {
@@ -118,15 +119,16 @@ a.contribute-link {
 }
 
 .header-title {
-  /* text-transform: uppercase; */
+  font-family: "Poppins", sans-serif;
 }
-
 .header-subtitle {
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .company-nav-links {
-  margin-top: 40px;
+  margin-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .company-nav-links > a:hover {
@@ -145,6 +147,7 @@ main {
 
 .section-id {
   text-align: center;
+  text-transform: capitalize;
   font-size: 1rem;
   width: max-content;
   margin: 0 auto;
