@@ -1,0 +1,274 @@
+/*! Timonwa CSS Reset */
+/*! ===== Resets for all pages (Start) ===== */
+/** all elements */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/** any element that has part of its contents overflowing the body container, will have that part hidden on the screen */
+body {
+  overflow-x: hidden;
+}
+/** to ensure that when you click on an id link, the header will not cover the beginning of the content the id is pointing to */
+[id] {
+  scroll-margin-top: 5rem;
+}
+/** reset the link states to the page's main color and no decoration */
+a,
+a:link,
+a:hover,
+a:active,
+a:visited {
+  text-decoration: none;
+  color: currentColor;
+}
+/** remove bullets from list items and position them well */
+ul {
+  list-style: none;
+  list-style-position: unset;
+}
+/*! ===== Resets for all pages (End) ===== */
+
+/*! Main CSS (Start) */
+/** body */
+body {
+  background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 26%);
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Domine", serif;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 5px;
+  background-color: hsl(0, 0%, 100%);
+  border: 1px solid hsl(0, 0%, 86%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.back-to-top:hover {
+  box-shadow: 0px 0px 2px hsl(0, 0%, 86%);
+}
+
+.back-to-top > img {
+  width: 1rem;
+  height: 1rem;
+  margin: 0.5em;
+}
+
+header,
+main,
+aside,
+footer {
+  padding: 0 100px;
+}
+
+.header-wrapper,
+.main-wrapper,
+.aside-wrapper,
+.footer-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1440px;
+}
+
+/** header */
+header {
+  text-align: center;
+  background-color: #006d5b;
+  color: #eee;
+  position: relative;
+}
+
+a.contribute-link {
+  position: absolute;
+  right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  padding: 0 10px;
+  background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 26%);
+  border-radius: 0 0 5px 5px;
+}
+
+.contribute-link > img {
+  width: 1em;
+  height: 1em;
+  margin-right: 5px;
+}
+
+.header-wrapper {
+  padding: 60px 0;
+}
+
+.header-title {
+  font-family: "Poppins", sans-serif;
+}
+.header-subtitle {
+  margin-top: 30px;
+}
+
+.company-nav-links {
+  margin-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.company-nav-links > a:hover {
+  text-decoration: underline;
+}
+
+/** companies  */
+main {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.company-sections {
+  margin-bottom: 20px;
+}
+
+.section-id {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 1rem;
+  width: max-content;
+  margin: 0 auto;
+  border-bottom: 2px solid #006d5b;
+  padding: 0 3px;
+}
+
+.companies-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.company-card {
+  margin: 10px;
+  padding: 20px;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 2px 2px 5px #eee;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.company-card_name {
+  display: inline-block;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+
+.company-card_website:hover img {
+  width: 1em;
+  height: 1em;
+}
+
+.company-card_website > img {
+  width: 0.8em;
+  height: 0.8em;
+  margin-left: 5px;
+}
+
+.company-card > p {
+  color: hsl(0, 0%, 36%);
+}
+
+.company-card_founders > a,
+.company-card_twitter-handle > a {
+  color: hsl(197, 100%, 47%);
+}
+
+.company-card_founders > a:hover,
+.company-card_twitter-handle > a:hover {
+  color: hsl(197, 100%, 67%);
+}
+
+/** footer */
+footer {
+  background-color: #006d5b;
+  color: #eee;
+}
+
+.footer-wrapper {
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.copyright > img {
+  width: 1em;
+  height: 1em;
+  margin-right: 3px;
+}
+
+.attribution {
+  margin-top: 5px;
+}
+
+.attribution > a {
+  color: white;
+  font-weight: bold;
+}
+
+.attribution > a:hover {
+  font-weight: normal;
+}
+/*! Main CSS (End)*/
+
+/*! Media Queries (Start)*/
+@media screen and (max-width: 1240px) {
+  header,
+  main,
+  footer {
+    padding: 0 80px;
+  }
+  .companies-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  header,
+  main,
+  footer {
+    padding: 0 60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header,
+  main,
+  footer {
+    padding: 0 20px;
+  }
+  .header-wrapper {
+    padding: 40px 0;
+  }
+
+  .companies-list {
+    grid-template-columns: 1fr;
+  }
+}
+/*! Media Queries (Ebd)*/
