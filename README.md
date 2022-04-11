@@ -508,17 +508,23 @@
 
   - Industry : Beverage/Food Processing
 
-- Company: [safeboda](https://safeboda.com/ug/)
+- Company: [Safeboda](https://safeboda.com/ug/)
 
   - Founder: [@Babajiide](https://twitter.com/Babajiide)
 
   - Industry: Transportation
 
-- Company: [shecluded](https://shecluded.com/)
+- Company: [Shecluded](https://shecluded.com/)
 
   - Founder: [@ifyhopee](https://twitter.com/ifyhopee)
 
   - Industry: Fintech + Female Tech Empowerment
+
+- Company: [Stickerkeen](https://stickerkeen.com/)
+
+  - Founders: [@saintmalik_](https://twitter.com/saintmalik_)
+
+  - Industry: Merchandise/Swags
 
 ## <a name="T"> </a>T
 
