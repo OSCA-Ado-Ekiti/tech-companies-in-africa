@@ -524,7 +524,7 @@
 
   - Founders: [@saintmalik_](https://twitter.com/saintmalik_)
 
-  - Industry: Merchandise/Swags
+  - Industry: Promotional Product Management
 
 ## <a name="T"> </a>T
 
