@@ -645,6 +645,13 @@ export const techCompanies = [
         industry: "SME Banking",
         website: "https://www.swiftfinance.app",
       },
+      {
+        companyName: "Stickerkeen",
+        companyTwitterHandle: "stickerkeen",
+        foundersTwitterHandle: ["saintmalik_"],
+        industry: "Merchandise/Swags",
+        website: "https://stickerkeen.com",
+      },
     ],
   },
   {
