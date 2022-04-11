@@ -649,7 +649,7 @@ export const techCompanies = [
         companyName: "Stickerkeen",
         companyTwitterHandle: "stickerkeen",
         foundersTwitterHandle: ["saintmalik_"],
-        industry: "Merchandise/Swags",
+        industry: "Promotional Product Management",
         website: "https://stickerkeen.com",
       },
     ],
