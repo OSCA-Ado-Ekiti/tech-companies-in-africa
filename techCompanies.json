@@ -486,6 +486,21 @@
 
   "p": [
     {
+      "companyName": "Pocket by Piggyvest",
+      "companyTwitterHandle": "@getpocketapp",
+      "foundersTwitterHandle": ["@OdunEweniyi"],
+      "industry": "FinTech",
+      "website": "https://pocketapp.com/"
+    },
+    {
+      "companyName": "Piggyvest",
+      "companyTwitterHandle": "@piggyBankNG",
+      "foundersTwitterHandle": ["@OdunEweniyi"],
+      "industry": "FinTech",
+      "website": "https://www.piggyvest.com/"
+    },
+    
+    {
       "companyName": "Patricia",
       "companyTwitterHandle": "Patricia",
       "foundersTwitterHandle": ["Fejizzy"],
