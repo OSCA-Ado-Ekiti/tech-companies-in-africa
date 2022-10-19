@@ -769,7 +769,15 @@
     }
   ],
 
-  "y": [],
+  "y": [
+      {
+      "companyName": "Yola",
+      "companyTwitterHandle": "Yola",
+      "foundersTwitterHandle": ["VinnyLingham"],
+      "industry": "e-commerce",
+      "website": "https://www.yola.com"
+    }
+  ],
   "z": [],
   "*": [
     {
