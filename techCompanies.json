@@ -746,7 +746,14 @@
       "foundersTwitterHandle": ["shameeljoosub"],
       "industry": "Digital/Financial Services",
       "website": "https://www.vodacom.com/",
-    }
+    },
+    {
+      "companyName": "Valr",
+      "companyTwitterHandle": "VALRdotcom",
+      "foundersTwitterHandle": ["farzamehsani"],
+      "industry": "Fintech",
+      "website": "https://www.valr.com/",
+      }
   ],
   
   "w": [
