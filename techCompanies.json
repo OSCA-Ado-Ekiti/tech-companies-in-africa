@@ -732,7 +732,16 @@
       "foundersTwitterHandle": ["OlutunjiOluwole"],
       "industry": "FinTech/Digital Economy",
       "website": "https://www verifyme.ng",
+    },
+    {
+      "companyName": "vodacom",
+      "companyTwitterHandle": "Vodacom",
+      "foundersTwitterHandle": ["shameeljoosub"],
+      "industry": "Digital/Financial Services",
+      "website": "https://www.vodacom.com/",
+    }
   ],
+  
   "w": [
     {
       "companyName": "WellaHealth",
