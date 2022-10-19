@@ -330,7 +330,15 @@
     }
   ],
 
-  "i": [],
+  "i": [
+  {
+      "companyName": "Interswitch",
+      "companyTwitterHandle": "InterswitchGRP",
+      "foundersTwitterHandle": ["mitchelelegbe", "charlesifedi"],
+      "industry": "Fintech",
+      "website": "https://www.interswitchgroup.com"
+    }
+  ],
 
   "j": [
     {
@@ -745,7 +753,7 @@
       "companyTwitterHandle": "Vodacom",
       "foundersTwitterHandle": ["shameeljoosub"],
       "industry": "Digital/Financial Services",
-      "website": "https://www.vodacom.com/",
+      "website": "https://www.vodacom
     }
     {
      "companyName": "VeendHQ",
@@ -753,7 +761,17 @@
      "foundersTwitterHandle": ["iolufemitalks"],
      "industry": "Fintech",
      "website": "https://veendhq.com/"
-    }
+    },
+
+
+   {
+      "companyName": "Valr",
+      "companyTwitterHandle": "VALRdotcom",
+      "foundersTwitterHandle": ["farzamehsani"],
+      "industry": "Fintech",
+      "website": "https://www.valr.com/",
+      }
+
   ],
   
   "w": [
@@ -777,7 +795,7 @@
   ],
 
   "y": [
-      {
+    {
       "companyName": "Yola",
       "companyTwitterHandle": "Yola",
       "foundersTwitterHandle": ["VinnyLingham"],
@@ -785,7 +803,24 @@
       "website": "https://www.yola.com"
     }
   ],
-  "z": [],
+  
+   "z": [
+   {
+      "companyName": "zando",
+      "companyTwitterHandle": "zando_co_za",
+      "foundersTwitterHandle": ["drgrantwbrown"],
+      "industry": "E-commerce",
+      "website": "https://www.zando.co.za"
+    },
+    {
+      "companyName": "zeepay",
+      "companyTwitterHandle": "myzeepay",
+      "foundersTwitterHandle": ["andrewretail"],
+      "industry": "Fintech",
+      "website": "https://myzeepay.com"
+    }
+  ],
+  
   "*": [
     {
       "companyName": "54gene",
