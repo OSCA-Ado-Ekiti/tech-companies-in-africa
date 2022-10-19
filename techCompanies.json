@@ -330,7 +330,15 @@
     }
   ],
 
-  "i": [],
+  "i": [
+  {
+      "companyName": "Interswitch",
+      "companyTwitterHandle": "InterswitchGRP",
+      "foundersTwitterHandle": ["mitchelelegbe", "charlesifedi"],
+      "industry": "Fintech",
+      "website": "https://www.interswitchgroup.com"
+    }
+  ],
 
   "j": [
     {
