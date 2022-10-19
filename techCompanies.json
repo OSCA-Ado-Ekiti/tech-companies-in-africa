@@ -770,7 +770,7 @@
   ],
 
   "y": [
-      {
+    {
       "companyName": "Yola",
       "companyTwitterHandle": "Yola",
       "foundersTwitterHandle": ["VinnyLingham"],
@@ -778,7 +778,24 @@
       "website": "https://www.yola.com"
     }
   ],
-  "z": [],
+  
+   "z": [
+   {
+      "companyName": "zando",
+      "companyTwitterHandle": "zando_co_za",
+      "foundersTwitterHandle": ["drgrantwbrown"],
+      "industry": "E-commerce",
+      "website": "https://www.zando.co.za"
+    },
+    {
+      "companyName": "zeepay",
+      "companyTwitterHandle": "myzeepay",
+      "foundersTwitterHandle": ["andrewretail"],
+      "industry": "Fintech",
+      "website": "https://myzeepay.com"
+    }
+  ],
+  
   "*": [
     {
       "companyName": "54gene",
