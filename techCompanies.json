@@ -731,7 +731,15 @@
       "companyTwitterHandle": "VMNigeria",
       "foundersTwitterHandle": ["OlutunjiOluwole"],
       "industry": "FinTech/Digital Economy",
-      "website": "https://www verifyme.ng",
+      "website": "https://www.verifyme.ng"
+    },
+    {
+      "companyName": "VBank",
+      "companyTwitterHandle": "vbankng",
+      "foundersTwitterHandle": ["Haruna Dalhatu Iya"],
+      "Industry": "Fintech",
+      "website": "https://www.vbank.com"
+    }
   ],
   "w": [
     {
