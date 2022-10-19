@@ -710,7 +710,14 @@
     }
   ],
 
-  "v": [],
+  "v": [
+    {
+      "companyName": "VerifyMe",
+      "companyTwitterHandle": "VMNigeria",
+      "foundersTwitterHandle": ["OlutunjiOluwole"],
+      "industry": "FinTech/Digital Economy",
+      "website": "https://www verifyme.ng",
+  ],
   "w": [
     {
       "companyName": "WellaHealth",
@@ -731,15 +738,7 @@
     }
   ],
 
-  "y": [
-    {
-      "companyName": "Yola",
-      "companyTwitterHandle": "Yola",
-      "foundersTwitterHandle": ["VinnyLingham"],
-      "industry": "e-commerce",
-      "website": "https://www.yola.com"
-    }
-  ],
+  "y": [],
   "z": [],
   "*": [
     {
