@@ -369,6 +369,13 @@
       "industry": "Technology",
       "website": "https://www.jobberman.com"
     }
+    { 
+      "companyName": "Jumia", 
+      "companyTwitterHandle": "JumiaNigeria", 
+      "foundersTwitterHandle": ["kofiafaedor"], 
+      "industry": "Logistics", 
+      "website": "https://jumia.com.ng/" 
+    }
   ],
 
   "k": [
