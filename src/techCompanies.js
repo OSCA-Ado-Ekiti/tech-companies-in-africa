@@ -45,6 +45,13 @@ export const techCompanies = [
         website: "https://altschoolafrica.com",
       },
       {
+        companyName: "Arnergy",
+        companyTwitterHandle: "arnergy",
+        foundersTwitterHandle: [""],
+        industry: "CleanTech",
+        website: "https://arnergy.com/",
+      },
+      {
         companyName: "Autochek",
         companyTwitterHandle: "AutochekAfrica",
         foundersTwitterHandle: ["etopty"],
