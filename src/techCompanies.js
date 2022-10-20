@@ -639,6 +639,13 @@ export const techCompanies = [
         website: "https://www.getspire.io/",
       },
       {
+        companyName: "SunFi",
+        companyTwitterHandle: "sunfi_hq",
+        foundersTwitterHandle: ["thomas_rotimi"],
+        industry: "Fintech, Energy",
+        website: "https://www.sunfi.co/",
+      },
+      {
         companyName: "Swift Finance",
         companyTwitterHandle: "SwiftFinanceApp",
         foundersTwitterHandle: ["dammieololade", "adeileri", "Anani_oluwatobi"],
