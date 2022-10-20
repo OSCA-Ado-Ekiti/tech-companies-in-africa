@@ -328,6 +328,13 @@
       "industry": "Female Tech Empowerment + Fintech",
       "website": "https://linktr.ee/Herconomy"
     },
+    { 
+       "companyName": "helium Health", 
+       "companyTwitterHandle": "HeliumHealth", 
+       "foundersTwitterHandle": ["ThisGokeBoySef"], 
+       "industry": "Payment/health care", 
+       "website": "https://heliumhealth.com/" 
+    },
     {
       "companyName": "Hytch",
       "companyTwitterHandle": "hytchafrica",
