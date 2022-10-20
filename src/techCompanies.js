@@ -45,6 +45,13 @@ export const techCompanies = [
         website: "https://altschoolafrica.com",
       },
       {
+        companyName: "Arnergy",
+        companyTwitterHandle: "arnergy",
+        foundersTwitterHandle: [""],
+        industry: "CleanTech",
+        website: "https://arnergy.com/",
+      },
+      {
         companyName: "Autochek",
         companyTwitterHandle: "AutochekAfrica",
         foundersTwitterHandle: ["etopty"],
@@ -757,6 +764,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["MichealOlafusi"],
         industry: "Tech Education",
         website: "https://www.urbizedge.com",
+      },
+      {
+        companyName: "utiva",
+        companyTwitterHandle: "utiva_io",
+        foundersTwitterHandle: ["eyieko1"],
+        industry: "Tech Education",
+        website: "https://www.utiva.io/",
       },
     ],
   },
