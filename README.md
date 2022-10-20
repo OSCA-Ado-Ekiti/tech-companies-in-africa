@@ -637,3 +637,11 @@
   - Founder: [@realsisititi](https://twitter.com/realsisititi) x [@ekojournalist](https://twitter.com/ekojornalist)
 
   - Industry: FunTech
+  
+  ## <a name="Z"> </a> Z
+  
+  -  Company: [Zoracom] (https://www.zoracom.com/)
+  
+  - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
+  
+  - Industry: FinTech
