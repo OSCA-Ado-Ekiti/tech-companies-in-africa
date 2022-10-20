@@ -765,6 +765,13 @@ export const techCompanies = [
         industry: "Tech Education",
         website: "https://www.urbizedge.com",
       },
+      {
+        companyName: "utiva",
+        companyTwitterHandle: "utiva_io",
+        foundersTwitterHandle: ["eyieko1"],
+        industry: "Tech Education",
+        website: "https://www.utiva.io/",
+      },
     ],
   },
   { name: "v", company: [] },
