@@ -48,6 +48,13 @@
       "foundersTwitterHandle": ["etopty"],
       "industry": "Automobile/AutoTech",
       "website": "https://www.autochek.africa/ng"
+    },
+    {
+      "companyName": "Andela",
+      "companyTwitterHandle": "Andela",
+      "foundersTwitterHandle": ["JeremyJ","sasschristina","nadayar"],
+      "industry": "Freelance/Programming",
+      "website": "https://andela.com"
     }
   ],
 
@@ -354,6 +361,13 @@
       "foundersTwitterHandle": ["hachi"],
       "industry": "JiggyTech",
       "website": "https://www.jiggyvest.com"
+    },
+    {
+      "companyName": "Jobberman",
+      "companyTwitterHandle": "jobbermandotcom",
+      "foundersTwitterHandle": ["LekanOlude"],
+      "industry": "Technology",
+      "website": "https://www.jobberman.com"
     }
   ],
 
@@ -433,6 +447,13 @@
       "foundersTwitterHandle": ["isholabaryor"],
       "industry": "Tech Education",
       "website": ""
+    },
+    {
+      "companyName": "Mtn Group",
+      "companyTwitterHandle": "MTNGroup",
+      "foundersTwitterHandle": ["RalphMupita"],
+      "industry": "telecommunication",
+      "website": "https://www.mtm.ng"
     }
   ],
 
@@ -569,6 +590,13 @@
       "foundersTwitterHandle": ["mikerosy", "RosyRomike"],
       "industry": "Technology Risk & Consulting",
       "website": "http://Techrisk.co.ke"
+    },
+    {
+      "companyName": "Releaf",
+      "companyTwitterHandle": "RealeafAfrica",
+      "foundersTwitterHandle": ["drragraj"],
+      "industry": "AgroTech,Automation",
+      "website": "https://releaf.africa"
     }
   ],
 
