@@ -335,6 +335,13 @@
       "industry": "Shared commuting.",
       "website": "https://hytch.africa"
     }
+    { 
+      "companyName": "helium Health",
+      "companyTwitterHandle": "HeliumHealth", 
+      "foundersTwitterHandle": ["ThisGokeBoySef"], 
+      "industry": "Payment/health care", 
+      "website": "https://heliumhealth.com/" 
+    },
   ],
 
   "i": [
