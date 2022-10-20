@@ -816,4 +816,17 @@ export const techCompanies = [
       },
     ],
   },
+  {
+
+  "companyName": "Zipline",
+
+  "companyTwitterHandle": "@zipline",
+
+  "foundersTwitterHandle": ["Keller Rinaudo"],
+
+  "industry": "logistics",
+
+  "website": "https://flyzipline.com"
+
+}
 ];
