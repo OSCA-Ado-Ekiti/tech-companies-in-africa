@@ -488,7 +488,7 @@
 
   - Industry: Technology Risk & Consulting
   
-  - Company: [Riskflow] (https://www.riskflow.com/)
+- Company: [Riskflow](https://www.riskflow.com/)
 
   - Founders: [@Riskflow](https://twitter.com/Riskflow)
 
