@@ -803,7 +803,18 @@ export const techCompanies = [
     name: "y",
     company: [],
   },
-  { name: "z", company: [] },
+  { 
+    name: "z", 
+    company: [
+      {
+        companyName: "Zipline",
+        companyTwitterHandle: "@zipline",
+        foundersTwitterHandle: ["Keller Rinaudo"],
+        industry: "logistics",
+        website: "https://flyzipline.com"
+    },
+   ],
+  },
   {
     name: "*",
     company: [
@@ -816,17 +827,4 @@ export const techCompanies = [
       },
     ],
   },
-  {
-
-  "companyName": "Zipline",
-
-  "companyTwitterHandle": "@zipline",
-
-  "foundersTwitterHandle": ["Keller Rinaudo"],
-
-  "industry": "logistics",
-
-  "website": "https://flyzipline.com"
-
-}
 ];
