@@ -328,6 +328,13 @@
       "industry": "Female Tech Empowerment + Fintech",
       "website": "https://linktr.ee/Herconomy"
     },
+    { 
+       "companyName": "helium Health", 
+       "companyTwitterHandle": "HeliumHealth", 
+       "foundersTwitterHandle": ["ThisGokeBoySef"], 
+       "industry": "Payment/health care", 
+       "website": "https://heliumhealth.com/" 
+    },
     {
       "companyName": "Hytch",
       "companyTwitterHandle": "hytchafrica",
@@ -335,6 +342,13 @@
       "industry": "Shared commuting.",
       "website": "https://hytch.africa"
     }
+    { 
+      "companyName": "helium Health",
+      "companyTwitterHandle": "HeliumHealth", 
+      "foundersTwitterHandle": ["ThisGokeBoySef"], 
+      "industry": "Payment/health care", 
+      "website": "https://heliumhealth.com/" 
+    },
   ],
 
   "i": [
@@ -368,6 +382,13 @@
       "foundersTwitterHandle": ["LekanOlude"],
       "industry": "Technology",
       "website": "https://www.jobberman.com"
+    }
+    { 
+      "companyName": "Jumia", 
+      "companyTwitterHandle": "JumiaNigeria", 
+      "foundersTwitterHandle": ["kofiafaedor"], 
+      "industry": "Logistics", 
+      "website": "https://jumia.com.ng/" 
     }
   ],
 
@@ -758,6 +779,13 @@
       "foundersTwitterHandle": ["MichealOlafusi"],
       "industry": "Tech Education",
       "website": "https://www.urbizedge.com"
+    },
+    {
+      "companyName": "Utiva",
+      "companyTwitterHandle": "utiva_io",
+      "foundersTwitterHandle": ["eyieko1"],
+      "industry": "Tech Education",
+      "website": "https://www.utiva.io"
     }
   ],
 

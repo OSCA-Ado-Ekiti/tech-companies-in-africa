@@ -45,6 +45,13 @@ export const techCompanies = [
         website: "https://altschoolafrica.com",
       },
       {
+        companyName: "Arnergy",
+        companyTwitterHandle: "arnergy",
+        foundersTwitterHandle: [""],
+        industry: "CleanTech",
+        website: "https://arnergy.com/",
+      },
+      {
         companyName: "Autochek",
         companyTwitterHandle: "AutochekAfrica",
         foundersTwitterHandle: ["etopty"],
@@ -639,6 +646,13 @@ export const techCompanies = [
         website: "https://www.getspire.io/",
       },
       {
+        companyName: "SunFi",
+        companyTwitterHandle: "sunfi_hq",
+        foundersTwitterHandle: ["thomas_rotimi"],
+        industry: "Fintech, Energy",
+        website: "https://www.sunfi.co/",
+      },
+      {
         companyName: "Swift Finance",
         companyTwitterHandle: "SwiftFinanceApp",
         foundersTwitterHandle: ["dammieololade", "adeileri", "Anani_oluwatobi"],
@@ -751,6 +765,13 @@ export const techCompanies = [
         industry: "Tech Education",
         website: "https://www.urbizedge.com",
       },
+      {
+        companyName: "utiva",
+        companyTwitterHandle: "utiva_io",
+        foundersTwitterHandle: ["eyieko1"],
+        industry: "Tech Education",
+        website: "https://www.utiva.io/",
+      },
     ],
   },
   { name: "v", company: [] },
@@ -782,7 +803,18 @@ export const techCompanies = [
     name: "y",
     company: [],
   },
-  { name: "z", company: [] },
+  { 
+    name: "z", 
+    company: [
+      {
+        companyName: "Zipline",
+        companyTwitterHandle: "@zipline",
+        foundersTwitterHandle: ["Keller Rinaudo"],
+        industry: "logistics",
+        website: "https://flyzipline.com"
+    },
+   ],
+  },
   {
     name: "*",
     company: [
