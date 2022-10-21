@@ -791,6 +791,20 @@
 
   "v": [
     {
+      "companyName": "Vantagepay",
+      "companyTwitterHandle": "VantagepayA",
+      "foundersTwitterHandle": ["VantagepayA],
+      "industry": "FinTech",
+      "website": "https://vantagepay.com"
+    },
+    {
+      "companyName": "Vendease",
+      "companyTwitterHandle": "VendeaseAfrica",
+      "foundersTwitterHandle": ["tundde],
+      "industry": "Agro-Tech",
+      "website": "https://vendease.com"
+    },
+    {
       "companyName": "VerifyMe",
       "companyTwitterHandle": "VMNigeria",
       "foundersTwitterHandle": ["OlutunjiOluwole"],
@@ -818,8 +832,6 @@
      "industry": "Fintech",
      "website": "https://veendhq.com/"
     },
-
-
    {
       "companyName": "Valr",
       "companyTwitterHandle": "VALRdotcom",
