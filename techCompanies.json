@@ -343,12 +343,12 @@
       "website": "https://hytch.africa"
     }
     { 
-      "companyName": "helium Health",
+      "companyName": "Helium Health",
       "companyTwitterHandle": "HeliumHealth", 
       "foundersTwitterHandle": ["ThisGokeBoySef"], 
-      "industry": "Payment/health care", 
+      "industry": "Health Tech", 
       "website": "https://heliumhealth.com/" 
-    },
+    }
   ],
 
   "i": [
@@ -470,7 +470,7 @@
       "website": ""
     },
     {
-      "companyName": "Mtn Group",
+      "companyName": "MTN Group",
       "companyTwitterHandle": "MTNGroup",
       "foundersTwitterHandle": ["RalphMupita"],
       "industry": "telecommunication",
@@ -809,7 +809,7 @@
       "companyTwitterHandle": "Vodacom",
       "foundersTwitterHandle": ["shameeljoosub"],
       "industry": "Digital/Financial Services",
-      "website": "https://www.vodacom
+      "website": "https://www.vodacom.co.za"
     }
     {
      "companyName": "VeendHQ",
@@ -818,16 +818,13 @@
      "industry": "Fintech",
      "website": "https://veendhq.com/"
     },
-
-
-   {
+    {
       "companyName": "Valr",
       "companyTwitterHandle": "VALRdotcom",
       "foundersTwitterHandle": ["farzamehsani"],
       "industry": "Fintech",
       "website": "https://www.valr.com/",
-      }
-
+    }
   ],
   
   "w": [
@@ -861,7 +858,7 @@
   ],
   
    "z": [
-   {
+    {
       "companyName": "zando",
       "companyTwitterHandle": "zando_co_za",
       "foundersTwitterHandle": ["drgrantwbrown"],
