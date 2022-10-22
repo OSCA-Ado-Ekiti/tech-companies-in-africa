@@ -487,6 +487,12 @@
   - Founders: [@mikerosy](https://twitter.com/mikerosy) + [@RosyRomike](https://twitter.com/RosyRomike)
 
   - Industry: Technology Risk & Consulting
+  
+- Company: [Riskflow](https://www.riskflow.com/)
+
+  - Founders: [@Riskflow](https://twitter.com/Riskflow)
+
+  - Industry: Fintech
 
 ## <a name="S"> </a>S
 
@@ -606,7 +612,7 @@
 
   - Founder: [@MichealOlafusi](https://mvp.microsoft.com/en-us/PublicProfile/5000744)
 
-  - Industry: Tech Education
+  - Industry: Tech Education    
 
 ## <a name="W"> </a>W
 
