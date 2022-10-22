@@ -58,6 +58,13 @@ export const techCompanies = [
         industry: "Automobile/AutoTech",
         website: "https://www.autochek.africa/ng",
       },
+      {
+        companyName: "Andela",
+        companyTwitterHandle: "Andela",
+        foundersTwitterHandle: ["JeremyJ", "sasschristina", "nadayar"],
+        industry: "Freelance/Programming",
+        website: "https://andela.com",
+      },
     ],
   },
   {
@@ -285,6 +292,13 @@ export const techCompanies = [
         industry: "VC",
         website: "https://www.future.africa",
       },
+      {
+        companyName: "Fincra",
+        companyTwitterHandle: "FincraHQ",
+        foundersTwitterHandle: ["AyowoleOA"],
+        industry: "Financial Services",
+        website: "https://fincra.com",
+      },
     ],
   },
   {
@@ -351,11 +365,26 @@ export const techCompanies = [
         industry: "Shared commuting.",
         website: "https://hytch.africa",
       },
+      {
+        companyName: "Helium Health",
+        companyTwitterHandle: "HeliumHealth",
+        foundersTwitterHandle: ["ThisGokeBoySef"],
+        industry: "Health Tech",
+        website: "https://heliumhealth.com/",
+      },
     ],
   },
   {
     name: "i",
-    company: [],
+    company: [
+      {
+        companyName: "Interswitch",
+        companyTwitterHandle: "InterswitchGRP",
+        foundersTwitterHandle: ["mitchelelegbe", "charlesifedi"],
+        industry: "Fintech",
+        website: "https://www.interswitchgroup.com",
+      },
+    ],
   },
   {
     name: "j",
@@ -373,6 +402,20 @@ export const techCompanies = [
         foundersTwitterHandle: ["hachi"],
         industry: "JiggyTech",
         website: "https://www.jiggyvest.com",
+      },
+      {
+        companyName: "Jobberman",
+        companyTwitterHandle: "jobbermandotcom",
+        foundersTwitterHandle: ["LekanOlude"],
+        industry: "Technology",
+        website: "https://www.jobberman.com",
+      },
+      {
+        companyName: "Jumia",
+        companyTwitterHandle: "JumiaNigeria",
+        foundersTwitterHandle: ["kofiafaedor"],
+        industry: "Logistics",
+        website: "https://jumia.com.ng/",
       },
     ],
   },
@@ -459,6 +502,13 @@ export const techCompanies = [
         industry: "Tech Education",
         website: "",
       },
+      {
+        companyName: "MTN Group",
+        companyTwitterHandle: "MTNGroup",
+        foundersTwitterHandle: ["RalphMupita"],
+        industry: "telecommunication",
+        website: "https://www.mtm.ng",
+      },
     ],
   },
   {
@@ -525,6 +575,27 @@ export const techCompanies = [
     name: "p",
     company: [
       {
+        companyName: "Paystack",
+        companyTwitterHandle: "paystack",
+        foundersTwitterHandle: ["shollsman", "0x"],
+        industry: "Payment infrastructure",
+        website: "https://paystack.com",
+      },
+      {
+        companyName: "Pocket by Piggyvest",
+        companyTwitterHandle: "@getpocketapp",
+        foundersTwitterHandle: ["@OdunEweniyi"],
+        industry: "FinTech",
+        website: "https://pocketapp.com/",
+      },
+      {
+        companyName: "Piggyvest",
+        companyTwitterHandle: "@piggyBankNG",
+        foundersTwitterHandle: ["@OdunEweniyi"],
+        industry: "FinTech",
+        website: "https://www.piggyvest.com/",
+      },
+      {
         companyName: "Patricia",
         companyTwitterHandle: "Patricia",
         foundersTwitterHandle: ["Fejizzy"],
@@ -589,6 +660,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["mikerosy", "RosyRomike"],
         industry: "Technology Risk & Consulting",
         website: "http://Techrisk.co.ke",
+      },
+      {
+        companyName: "Releaf",
+        companyTwitterHandle: "RealeafAfrica",
+        foundersTwitterHandle: ["drragraj"],
+        industry: "AgroTech,Automation",
+        website: "https://releaf.africa",
       },
     ],
   },
@@ -739,6 +817,13 @@ export const techCompanies = [
         industry: "Logistics",
         website: "https://mytruq.com",
       },
+      {
+        companyName: "Tech cabal",
+        companyTwitterHandle: "Techcabal",
+        foundersTwitterHandle: ["Obaolarewaju"],
+        industry: "Tech media/research ",
+        website: "https://techcabal.com",
+      },
     ],
   },
   {
@@ -774,7 +859,60 @@ export const techCompanies = [
       },
     ],
   },
-  { name: "v", company: [] },
+  {
+    name: "v",
+    company: [
+      {
+        companyName: "Vantagepay",
+        companyTwitterHandle: "VantagepayA",
+        foundersTwitterHandle: ["VantagepayA"],
+        industry: "FinTech",
+        website: "https://vantagepay.com",
+      },
+      {
+        companyName: "Vendease",
+        companyTwitterHandle: "VendeaseAfrica",
+        foundersTwitterHandle: ["tundde"],
+        industry: "Agro-Tech",
+        website: "https://vendease.com",
+      },
+      {
+        companyName: "VerifyMe",
+        companyTwitterHandle: "VMNigeria",
+        foundersTwitterHandle: ["OlutunjiOluwole"],
+        industry: "FinTech/Digital Economy",
+        website: "https://www.verifyme.ng",
+      },
+      {
+        companyName: "VBank",
+        companyTwitterHandle: "vbankng",
+        foundersTwitterHandle: ["Haruna Dalhatu Iya"],
+        Industry: "Fintech",
+        website: "https://www.vbank.com",
+      },
+      {
+        companyName: "vodacom",
+        companyTwitterHandle: "Vodacom",
+        foundersTwitterHandle: ["shameeljoosub"],
+        industry: "Digital/Financial Services",
+        website: "https://www.vodacom.co.za",
+      },
+      {
+        companyName: "VeendHQ",
+        companyTwitterHandle: "VeendHQ",
+        foundersTwitterHandle: ["iolufemitalks"],
+        industry: "Fintech",
+        website: "https://veendhq.com/",
+      },
+      {
+        companyName: "Valr",
+        companyTwitterHandle: "VALRdotcom",
+        foundersTwitterHandle: ["farzamehsani"],
+        industry: "Fintech",
+        website: "https://www.valr.com/",
+      },
+    ],
+  },
   {
     name: "w",
     company: [
@@ -801,19 +939,41 @@ export const techCompanies = [
   },
   {
     name: "y",
-    company: [],
+    company: [
+      {
+        companyName: "Yola",
+        companyTwitterHandle: "Yola",
+        foundersTwitterHandle: ["VinnyLingham"],
+        industry: "e-commerce",
+        website: "https://www.yola.com",
+      },
+    ],
   },
-  { 
-    name: "z", 
+  {
+    name: "z",
     company: [
       {
         companyName: "Zipline",
         companyTwitterHandle: "@zipline",
         foundersTwitterHandle: ["Keller Rinaudo"],
         industry: "logistics",
-        website: "https://flyzipline.com"
-    },
-   ],
+        website: "https://flyzipline.com",
+      },
+      {
+        companyName: "zando",
+        companyTwitterHandle: "zando_co_za",
+        foundersTwitterHandle: ["drgrantwbrown"],
+        industry: "E-commerce",
+        website: "https://www.zando.co.za",
+      },
+      {
+        companyName: "zeepay",
+        companyTwitterHandle: "myzeepay",
+        foundersTwitterHandle: ["andrewretail"],
+        industry: "Fintech",
+        website: "https://myzeepay.com",
+      },
+    ],
   },
   {
     name: "*",

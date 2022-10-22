@@ -3,7 +3,7 @@
 ## IMPORTANT NOTICE
 
 - Please before you push your codes to the repository make sure you pull from the repository, so the changes that have been made can be reflected on your local machine, so as to avoid merge conflicts. Use the git command line: `git pull upstream main`.
-- Any company details added to the [readme.md](https://github.com/Timonwa/tech-companies-in-africa/blob/main/readme.md) file should also be added to the [techCompanies.json](https://github.com/Timonwa/tech-companies-in-africa/blob/main/techCompanies.json) file and the [techCompanies.js](https://github.com/Timonwa/tech-companies-in-africa/tree/main/src/techCompanies.js) file located in the `src` folder.
+- Any company details added to the [readme.md](https://github.com/OSCA-Ado-Ekiti/tech-companies-in-africa/blob/main/README.md) file should also be added to the [techCompanies.js](https://github.com/OSCA-Ado-Ekiti/tech-companies-in-africa/blob/main/src/script.js) file located in the `src` folder.
 
 ## Developers guide.
 
