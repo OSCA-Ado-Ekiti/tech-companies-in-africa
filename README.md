@@ -174,6 +174,12 @@
 
   - Industry: Edutech
 
+- Company: [ECENTRIC PAYMENT SYSTEMS](https://www.ecentric.co.za/)
+
+  - Founder: [@EcentricPayment](https://twitter.com/EcentricPayment)
+
+  - Industry: Payment infrastructure
+
 ## <a name="F"> </a>F
 
 - Company: [FlyingDoctorsIC](http://fdinvestmentcompany.com/)
