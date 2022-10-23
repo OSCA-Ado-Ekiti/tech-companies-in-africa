@@ -654,9 +654,9 @@
   
  -  Company: [Zoracom] (https://www.zoracom.com/)
   
-  - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
+   - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
   
-  - Industry: FinTech
+   - Industry: FinTech
   
 - Company : [ZirooPay](https://ziroopay.com/)
 
