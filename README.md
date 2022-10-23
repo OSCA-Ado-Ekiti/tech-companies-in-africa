@@ -612,7 +612,15 @@
 
   - Founder: [@MichealOlafusi](https://mvp.microsoft.com/en-us/PublicProfile/5000744)
 
-  - Industry: Tech Education    
+  - Industry: Tech Education  
+  
+## <a name="V"> </a>V
+
+- company: [Vaxowave](https://vaxowave.com/)
+
+  - Founder: [@vaxowave](https://www.twitter.com/vaxowave)
+  
+  - Industry:  multi-cloud solutions
 
 ## <a name="W"> </a>W
 
