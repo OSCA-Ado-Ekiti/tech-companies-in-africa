@@ -967,6 +967,13 @@ export const techCompanies = [
         website: "https://www.zando.co.za",
       },
       {
+        "companyName": "ZirooPay",
+        "companyTwitterHandle": "@ZirooPay",
+        "foundersTwitterHandle": ["omoniyiolawale", "oluwaniisola"],
+        "industry": "Fintech",
+        "website": "https://ziroopay.com"
+      },
+      {
         companyName: "zeepay",
         companyTwitterHandle: "myzeepay",
         foundersTwitterHandle: ["andrewretail"],
