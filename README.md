@@ -652,7 +652,7 @@
   
   ## <a name="Z"> </a> Z
   
- -  Company: [Zoracom] (https://www.zoracom.com/)
+ - Company: [Zoracom] (https://www.zoracom.com/)
   
    - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
   
