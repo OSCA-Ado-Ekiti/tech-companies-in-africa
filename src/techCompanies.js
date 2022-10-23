@@ -971,7 +971,7 @@ export const techCompanies = [
         "companyTwitterHandle": "@ZirooPay",
         "foundersTwitterHandle": ["omoniyiolawale", "oluwaniisola"],
         "industry": "Fintech",
-        "website": "https://ziroopay.com/"
+        "website": "https://ziroopay.com"
       },
       {
         companyName: "zeepay",
