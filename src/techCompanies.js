@@ -671,6 +671,25 @@ export const techCompanies = [
     ],
   },
   {
+
+    name: "S",
+
+    company: [
+
+      {
+
+        companyName: "Sembuse",
+
+        companyTwitterHandle: "@sembuse.com",
+
+        foundersTwitterHandle: ["Timothy mbugua"],
+
+        industry: "social network",
+
+        website: "https://Sembuse.com",
+
+      },
+  {
     name: "s",
     company: [
       {
