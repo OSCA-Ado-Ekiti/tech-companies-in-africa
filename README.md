@@ -642,7 +642,7 @@
 
   - Industry: Health Tech 
   
-  - Company: [Wasoko](https://wasoko.com)
+- Company: [Wasoko](https://wasoko.com)
 
   - Founder: [@DanielYu]()
 
