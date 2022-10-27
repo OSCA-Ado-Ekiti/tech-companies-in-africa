@@ -687,6 +687,14 @@ export const techCompanies = [
         industry: "Real Estate",
         website: "https://www.buysafehouse.com",
       },
+      
+      {
+        companyName: "Sembuse",
+        companyTwitterHandle: "@sembuse.com",
+        foundersTwitterHandle: ["Timothy mbugua"],
+        industry: "social network",
+        website: "https://Sembuse.com",
+      },
       {
         companyName: "Shecluded",
         companyTwitterHandle: "shecluded",
@@ -712,8 +720,7 @@ export const techCompanies = [
         companyName: "Spatialnode",
         companyTwitterHandle: "spatialnodehq",
         foundersTwitterHandle: ["jeafreezy"],
-        industry:
-          "Professional Networking, community, Social Media (micro blogging)",
+        industry: "Professional Networking, community, Social Media (micro blogging)",
         website: "https://spatialnode.net/home",
       },
       {
