@@ -1,32 +1,47 @@
 import { techCompanies } from "./techCompanies.js";
 
-//! content to show when page loads
-window.addEventListener("DOMContentLoaded", function () {
-  displaySections(techCompanies);
+//constants
+const mainSection = document.querySelector(".main-wrapper");
+const searchBar = document.querySelector(".input-search");
+const updateDate = document.querySelector(".copyright-date");
+
+// Searchbar
+let companyResult = techCompanies;
+
+searchBar.addEventListener("keyup", (e) => {
+  const searchResult = e.target.value.toLowerCase();
+
+  let results = [];
+
+  companyResult.forEach(({ name, company }) => {
+    const result = company.filter((item) =>
+      item.companyName.toLowerCase().includes(searchResult)
+    );
+
+    results = [...results, { name: name, company: result }];
+  });
+
+  showCompanies(results);
 });
 
-//* main wrapper that will hold all the sections
-const mainWrapper = document.querySelector(".main-wrapper");
+const showCompanies = (content) => {
+  const techCompaniesHTML = content
+    .map((details) => {
+      console.log(details);
+      return `
+    <h2 class="section-id">${details.name}</h2>
 
-function displaySections(techCompanies) {
-  //* sections to display
-  for (var techCompanySection of techCompanies) {
-    var companySection = document.createElement("section");
-    companySection.className = "company-sections";
-    companySection.id = techCompanySection.name;
-
-    companySection.innerHTML = `
-	<h2 class="section-id">${techCompanySection.name}</h2>
-		<ul class="companies-list">
-			 ${techCompanySection.company
-         .map(
-           (companyCard) =>
-             `<li class="company-card">
-                <h3 class="company-card_name">${companyCard.companyName}</h3>
+    <ul class="companies-list">
+    ${details.company
+      .map((item) => {
+        return `
+        <section id=${details.name}>
+              <li class="company-card">
+                <h3 class="company-card_name">${item.companyName}</h3>
 
                 <a
                   class="company-card_website"
-                  href="${companyCard.website}"
+                  href="${item.website}"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -35,13 +50,11 @@ function displaySections(techCompanies) {
                     alt="external link icon"
                 /></a>
 
-                <p class="company-card_industry">Industry: ${
-                  companyCard.industry
-                }</p>
+                <p class="company-card_industry">Industry: ${item.industry}</p>
 
                 <p class="company-card_founders">
                  Founders:
-                  ${companyCard.foundersTwitterHandle
+                  ${item.foundersTwitterHandle
                     .map(
                       (founder) =>
                         `<a
@@ -57,23 +70,28 @@ function displaySections(techCompanies) {
                 <p class="company-card_twitter-handle">
                   Twitter Handle:
                   <a
-                    href="http://twitter.com/${
-                      companyCard.companyTwitterHandle
-                    }"
+                    href="http://twitter.com/${item.companyTwitterHandle}"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >@${companyCard.companyTwitterHandle}</a
+                    >@${item.companyTwitterHandle}</a
                   >
                 </p>
-              </li>`
-         )
-         .join("")}
-       </ul>`;
-    mainWrapper.appendChild(companySection);
-  }
-}
+              </li>
+    </section>
 
-//* function to automatically update copyright date
-let date = new Date().getFullYear();
+      `;
+      })
+      .join("")}
+      
+    </ul>
 
-document.querySelector(".copyright-date").textContent = "copyright " + date;
+    `;
+    })
+    .join("");
+  mainSection.innerHTML = techCompaniesHTML;
+};
+showCompanies(techCompanies);
+
+// Update copyright date
+const date = new Date().getFullYear();
+updateDate.textContent = "copyright " + date;
