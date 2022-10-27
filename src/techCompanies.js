@@ -490,6 +490,13 @@ export const techCompanies = [
         industry: "FinTech",
         website: "https://www.lemonade.finance",
       },
+      {
+        companyName: "LakexIO Technologies",
+        companyTwitterHandle: "lakex_io",
+        foundersTwitterHandle: ["o_o_lekan"],
+        industry: "Tech Agency",
+        website: "",
+      },
     ],
   },
   {
