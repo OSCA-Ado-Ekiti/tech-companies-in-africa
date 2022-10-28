@@ -958,6 +958,8 @@ export const techCompanies = [
         industry: "Health Tech",
         website: "https://www.wellahealth.com",
       },
+      {
+        
     ],
   },
   {
@@ -982,7 +984,13 @@ export const techCompanies = [
         industry: "e-commerce",
         website: "https://www.yola.com",
       },
-    ],
+      {
+        companyName: "Yoco",
+        companyTwitterHandle: "Yoco_ZA",
+        foundersTwitterHandle: ["carlwazen"],
+        industry: "Fin Tech",
+        website: "https://www.yoco.com/za/",
+      },
   },
   {
     name: "z",
