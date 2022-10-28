@@ -24,6 +24,13 @@ export const techCompanies = [
         website: "https://www.ace.ng",
       },
       {
+        companyName: "Aerobotics",
+        companyTwitterHandle: "Aerobotics_Intl",
+        foundersTwitterHandle: ["benjimeltzer"],
+        industry: "AgriTech",
+        website: "https://www.aerobotics.com/",
+      },
+      {
         companyName: "Africa's Talking",
         companyTwitterHandle: "Africastalking",
         foundersTwitterHandle: ["sgikandi"],
