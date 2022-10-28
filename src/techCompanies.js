@@ -523,6 +523,13 @@ export const techCompanies = [
         industry: "telecommunication",
         website: "https://www.mtm.ng",
       },
+      {
+        companyName: "Motribe",
+        companyTwitterHandle: "motribe",
+        foundersTwitterHandle: ["nicharry"],
+        industry: "Mobile Company",
+        website: "https://www.Motribe.com",
+      }
     ],
   },
   {
