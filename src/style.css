@@ -161,7 +161,7 @@ main {
 }
 
 .company-card {
-  margin: 10px;
+  margin: 30px;
   padding: 20px;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 2px 2px 5px #eee;
@@ -234,6 +234,16 @@ footer {
 
 .attribution > a:hover {
   font-weight: normal;
+}
+
+.input-search {
+  padding: 0.6rem 0.5rem;
+  border-radius: 0.2rem;
+  border: none;
+  margin-top: 1rem;
+  width: 50%;
+  box-shadow: none;
+  outline: none;
 }
 /*! Main CSS (End)*/
 
