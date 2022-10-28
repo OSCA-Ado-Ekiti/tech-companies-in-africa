@@ -299,6 +299,13 @@ export const techCompanies = [
         industry: "Financial Services",
         website: "https://fincra.com",
       },
+      {
+        companyName: "flocash",
+        companyTwitterHandle: "flocash",
+        foundersTwitterHandle: ["Sirakmussie"],
+        industry: "fintech",
+        website: "https://www.flocash.com",
+      }
     ],
   },
   {
