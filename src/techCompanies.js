@@ -144,6 +144,13 @@ export const techCompanies = [
         industry: "Financial Services",
         website: "https://www.craftsilicon.com",
       },
+      {
+        companyName: "Cobi Interactive",
+        companyTwitterHandle: "cobiinteractive",
+        foundersTwitterHandle: ["imnotjesusimru1"],
+        industry: "Mobile company",
+        website: "https://www.cobiinteractive.com",
+      }
     ],
   },
   {
