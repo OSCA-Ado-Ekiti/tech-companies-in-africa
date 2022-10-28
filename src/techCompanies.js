@@ -644,6 +644,13 @@ export const techCompanies = [
         industry: "Logistics",
         website: "http://pickmeup.com.ng",
       },
+      {
+        companyName: "pesapal",
+        companyTwitterHandle: "Pesapal",
+        foundersTwitterHandle: ["AgostaL"],
+        industry: "Payment infrastructure",
+        website: "http://pesapal.com",
+      }
     ],
   },
   {
