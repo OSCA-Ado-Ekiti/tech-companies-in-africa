@@ -946,6 +946,13 @@ export const techCompanies = [
         industry: "Fintech",
         website: "https://www.valr.com/",
       },
+      {
+        companyName: "VC4a",
+        companyTwitterHandle: "Vc4Africa",
+        foundersTwitterHandle: ["zia505"],
+        industry: "Finance","Mobile","Venture capital",
+        website: "https://vc4a.com",
+      },
     ],
   },
   {
