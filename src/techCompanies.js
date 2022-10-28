@@ -484,6 +484,13 @@ export const techCompanies = [
     name: "l",
     company: [
       {
+        companyName: "LakexIO Technologies",
+        companyTwitterHandle: "lakex_io",
+        foundersTwitterHandle: ["o_o_lekan"],
+        industry: "Tech Agency",
+        website: "",
+      },
+      {
         companyName: "Lemonade Finance",
         companyTwitterHandle: "LemonadeFinance",
         foundersTwitterHandle: ["ridwan_olalere"],
