@@ -640,8 +640,14 @@
 
   - Founder: [@AbasiEneobong](https://twitter.com/AbasiEneobong)
 
-  - Industry: Health Tech
+  - Industry: Health Tech 
+  
+- Company: [Wasoko](https://wasoko.com)
 
+  - Founder: [@DanielYu]()
+
+  - Industry: E-commerce
+  
 ## <a name="X"> </a>X
 
 - Company: [xendfinance](https://xend.finance/)
