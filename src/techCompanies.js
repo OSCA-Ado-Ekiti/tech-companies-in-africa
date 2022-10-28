@@ -1001,6 +1001,13 @@ export const techCompanies = [
         industry: "Fintech",
         website: "https://myzeepay.com",
       },
+      {
+        companyName: "zeddpay",
+        companyTwitterHandle: "zeddpay",
+        foundersTwitterHandle: ["pleasant0x", "olamidettw"],
+        industry: "Fintech",
+        website: "https://https://www.zeddpay.com",
+      },
     ],
   },
   {
