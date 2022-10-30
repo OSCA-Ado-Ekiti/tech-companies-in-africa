@@ -752,6 +752,13 @@ export const techCompanies = [
         website: "https://Sembuse.com",
       },
       {
+        companyName: "Sequoon",
+        companyTwitterHandle: "sequoon",
+        foundersTwitterHandle: ["Omar ElDessouky", "Mohamed ElKhatjeb"],
+        industry: "proptech",
+        website: "https://https://www.sequoon.com",
+      },
+      {
         companyName: "Shecluded",
         companyTwitterHandle: "shecluded",
         foundersTwitterHandle: ["ifyhopee"],
