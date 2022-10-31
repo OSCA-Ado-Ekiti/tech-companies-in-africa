@@ -405,6 +405,13 @@ export const techCompanies = [
         industry: "Fintech",
         website: "https://www.interswitchgroup.com",
       },
+      {
+        companyName: "iHub",
+        companyTwitterHandle: "iHub",
+        foundersTwitterHandle: ["bosuntijani"],
+        industry: "Open community workspace",
+        website: "https://ihub.co.ke",
+      },
     ],
   },
   {
