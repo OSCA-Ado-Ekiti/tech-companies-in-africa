@@ -72,6 +72,13 @@ export const techCompanies = [
         industry: "Freelance/Programming",
         website: "https://andela.com",
       },
+      {
+        companyName: "Aella Credit",
+        companyTwitterHandle: "Aella",
+        foundersTwitterHandle: ["akinj110"],
+        industry: "Fintech",
+        website: "https://aellaapp.com",
+      },
     ],
   },
   {
@@ -399,7 +406,7 @@ export const techCompanies = [
     name: "i",
     company: [
       {
-        companyName: "Interswitch",
+         companyName: "Interswitch",
         companyTwitterHandle: "InterswitchGRP",
         foundersTwitterHandle: ["mitchelelegbe", "charlesifedi"],
         industry: "Fintech",
