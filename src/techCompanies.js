@@ -157,13 +157,6 @@ export const techCompanies = [
         foundersTwitterHandle: ["imnotjesusimru1"],
         industry: "Mobile company",
         website: "https://www.cobiinteractive.com",
-       },
-      {
-        companyName: "Chippercash",
-        companyTwitterHandle: "chippercashapp",
-        foundersTwitterHandle: ["Hserunjogi"],
-        industry: "Fintech",
-        website: "https://www.chippercash.com",
       }
     ],
   },
@@ -698,6 +691,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["AgostaL"],
         industry: "Payment infrastructure",
         website: "http://pesapal.com",
+      },
+      {
+        companyName: "patricia",
+        companyTwitterHandle: "patriciaswitch",
+        foundersTwitterHandle: ["fejizzy"],
+        industry: "E-commerce company",
+        website: "http://www.mypatricia.com",
       }
     ],
   },
