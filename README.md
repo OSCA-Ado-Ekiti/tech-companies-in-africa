@@ -696,3 +696,9 @@
   - Founder: [@Keller Rinaudo](https://twitter.com/KellerRinaudo)
   
   - Industry: Logistics
+  
+- Company : [Zeddpay](https://t.co/Abxb10y4cL)
+
+  - Founder: [@pleasant0x](https://twitter.com/pleasant0x)
+  
+  - Industry: Fintech
