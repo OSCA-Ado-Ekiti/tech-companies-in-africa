@@ -157,6 +157,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["imnotjesusimru1"],
         industry: "Mobile company",
         website: "https://www.cobiinteractive.com",
+       },
+      {
+        companyName: "Chippercash",
+        companyTwitterHandle: "chippercashapp",
+        foundersTwitterHandle: ["Hserunjogi"],
+        industry: "Fintech",
+        website: "https://www.chippercash.com",
       }
     ],
   },
