@@ -571,6 +571,13 @@ export const techCompanies = [
         industry: "FinTech",
         website: "https://en.m.wikipedia.org/wiki/M-Pesa",
      },
+     {
+        companyName: "MainOne",
+        companyTwitterHandle: "Mainoneservice",
+        foundersTwitterHandle: [],
+        industry: "Data Science",
+        website: "https://www.mainone.net/",
+     },
     ],
   },
   {
