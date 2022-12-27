@@ -1027,8 +1027,6 @@ export const techCompanies = [
         industry: "Health Tech",
         website: "https://www.wellahealth.com",
       },
-      {
-        
     ],
   },
   {
