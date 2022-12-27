@@ -1101,7 +1101,7 @@ export const techCompanies = [
       {
         companyName: "Zumi",
         companyTwitterHandle: "-",
-        foundersTwitterHandle: ["Sabrina Dorman" "William McCarren"],
+        foundersTwitterHandle: ["Sabrina Dorman", "William McCarren"],
         industry: "e-commerce",
         website: "https://www.zumi.co.ke/",
       },
