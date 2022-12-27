@@ -1098,9 +1098,7 @@ export const techCompanies = [
         industry: "Fintech",
         website: "https://https://www.zeddpay.com",
       },
-    ],
-  },
-     {
+      {
         companyName: "Zumi",
         companyTwitterHandle: "-",
         foundersTwitterHandle: ["Sabrina Dorman" "William McCarren"],
