@@ -1058,6 +1058,7 @@ export const techCompanies = [
         industry: "Fin Tech",
         website: "https://www.yoco.com/za/",
       },
+    ],
   },
   {
     name: "z",
@@ -1099,7 +1100,6 @@ export const techCompanies = [
       },
     ],
   },
-      
      {
         companyName: "Zumi",
         companyTwitterHandle: "-",
