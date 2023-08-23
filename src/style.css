@@ -1,6 +1,4 @@
-/*! Timonwa CSS Reset */
-/*! ===== Resets for all pages (Start) ===== */
-/** all elements */
+
 *,
 *::before,
 *::after {
@@ -9,15 +7,13 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-/** any element that has part of its contents overflowing the body container, will have that part hidden on the screen */
 body {
   overflow-x: hidden;
 }
-/** to ensure that when you click on an id link, the header will not cover the beginning of the content the id is pointing to */
 [id] {
   scroll-margin-top: 5rem;
 }
-/** reset the link states to the page's main color and no decoration */
+
 a,
 a:link,
 a:hover,
@@ -31,12 +27,9 @@ ul {
   list-style: none;
   list-style-position: unset;
 }
-/*! ===== Resets for all pages (End) ===== */
 
-/*! Main CSS (Start) */
-/** body */
 body {
-  background-color: hsl(0, 0%, 96%);
+  background-color: hsl(0, 2%, 68%);
   color: hsl(0, 0%, 26%);
   font-family: "Poppins", sans-serif;
   font-size: 14px;
@@ -163,16 +156,18 @@ main {
 .company-card {
   margin: 30px;
   padding: 20px;
-  background-color: hsl(0, 0%, 100%);
-  box-shadow: 2px 2px 5px #eee;
-  border: 1px solid #eee;
-  border-radius: 5px;
+  background-color: hsl(0, 0%, 20%); /* Darken the card background color */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Improve the box shadow */
+  border: none; /* Remove the border */
+  border-radius: 15px; /* Make the card rounded */
 }
+
 
 .company-card_name {
   display: inline-block;
-  font-size: 1.1rem;
-  text-transform: uppercase;
+  font-size: 1.2rem; /* Slightly increase the font size */
+  text-transform: capitalize;
+  color: hsl(0, 0%, 100%); /* Set text color to white */
 }
 
 .company-card_website:hover img {
@@ -181,13 +176,13 @@ main {
 }
 
 .company-card_website > img {
-  width: 0.8em;
-  height: 0.8em;
-  margin-left: 5px;
+  width: 1.2em;
+  height: 1.2em; /* Slightly increase the icon size */
+  margin-left: 8px; /* Increase the margin for spacing */
 }
 
 .company-card > p {
-  color: hsl(0, 0%, 36%);
+  color: hsl(0, 0%, 60%); /* Adjust the text color */
 }
 
 .company-card_founders > a,
