@@ -412,6 +412,13 @@ export const techCompanies = [
         industry: "Open community workspace",
         website: "https://ihub.co.ke",
       },
+      {
+        companyName: "irokotv",
+        companyTwitterHandle: "irokotv",
+        foundersTwitterHandle: ["JasonNjoku"],
+        industry: "Online Entertainment",
+        website: "https://irokotv.com/",
+      },
     ],
   },
   {
