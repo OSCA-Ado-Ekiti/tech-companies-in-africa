@@ -646,6 +646,12 @@
   
   - Industry:  multi-cloud solutions
 
+- company: [Vodafone](https://www.vodafone.com)
+
+  - Founder: [@VodafoneGroup](https://www.twitter.com/VodafoneGroup)
+  
+  - Industry: Fintech | Communication
+
 ## <a name="W"> </a>W
 
 - Company: [WellaHealth](https://www.wellahealth.com/)
