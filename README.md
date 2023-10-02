@@ -156,6 +156,12 @@
 
   - Industry: Fintech
 
+- Company: [Edustipend](https://www.edustipend.org/)
+
+  - Founders: [@meekg33k](https://twitter.com/meekg33k)
+
+  - Industry: Financial Aid
+
 - Company: [ecoSokoni](https://www.ecosokoni.co.ke/)
 
   - Founders : [@MHANDISI_IAN](https://twitter.com/MHANDISI_IAN)

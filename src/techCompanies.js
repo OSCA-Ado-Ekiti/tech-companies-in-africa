@@ -211,6 +211,13 @@ export const techCompanies = [
         website: "https://www.ecosokoni.co.ke",
       },
       {
+        companyName: "Edustipend",
+        companyTwitterHandle: "edustipend",
+        foundersTwitterHandle: ["meekg33k"],
+        industry: "Financial Aid",
+        website: "https://www.edustipend.org",
+      },
+      {
         companyName: "EGMarkets",
         companyTwitterHandle: "EGMarkets",
         foundersTwitterHandle: [],
