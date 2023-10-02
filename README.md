@@ -313,6 +313,12 @@
   - Founder: [@ifluxdotapp](https://twitter.com/ifluxdotapp)
 
   - Industry: Payment infrastructure
+ 
+- Company: [IPI Power Tech](http://iptpowertech.com/)
+
+  - Founder: [@NABILZHADDAD1](https://twitter.com/NABILZHADDAD1)
+
+  - Industry: Media
 
 ## <a name="J"> </a>J
 
@@ -366,6 +372,12 @@
 
   - Industry: Logistics
 
+- Company: [KITS Technologies](https://kits.ng/)
+
+  - Founder: [@KitsTech_](https://twitter.com/KitsTech_)
+
+  - Industry: Cyber Security solutions
+ 
 - Company: [Kwik](https://kwik.delivery/)
 
   - Founder: [@RomainPoirot-lellig](https://twitter.com/rplellig)
