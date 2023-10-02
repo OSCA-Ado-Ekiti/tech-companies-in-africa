@@ -513,6 +513,13 @@ export const techCompanies = [
         industry: "Logistics",
         website: "https://kwik.delivery",
       },
+       {
+        companyName: "Konga",
+        companyTwitterHandle: "ShopKonga",
+        foundersTwitterHandle: ["SimShagaya"],
+        industry: "E-commerce and Technology",
+        website: "https://www.konga.com/",
+      },
     ],
   },
   {
