@@ -98,6 +98,12 @@
 
 ## <a name="C"> </a>C
 
+- Company: [Carry1st](https://www.carry1st.com/)
+
+  - Founder: [@CordelRobin](https://twitter.com/cordelrobin)
+
+  - Industry: Gaming/Tech
+
 - Company: [CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
 
   - Founder: [@chizom\_](https://twitter.com/chizom_)
@@ -223,6 +229,13 @@
   - Founder: [@isokowalter](https://twitter.com/isokowalter)
 
   - Industry: Tech Consulting + Software Services
+  - 
+- Company: [Flutterwave](https://flutterwave.com/)
+
+  - Founder: [@Techprod_Arch](https://twitter.com/techprod_arch)
+
+  - Industry: FinTech
+
 
 ## <a name="G"> </a>G
 
@@ -367,6 +380,11 @@
   - Founder: [@ridwan_olalere](https://twitter.com/ridwan_olalere)
 
   - Industry: FinTech
+- Company: [LoriSystems](https://www.lorisystems.com)
+
+  - Founder: [@joshsandler](https://twitter.com/joshsandler)
+
+  - Industry: Logistics/Tech
 
 ## <a name="M"> </a>M
 
