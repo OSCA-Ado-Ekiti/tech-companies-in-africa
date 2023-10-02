@@ -100,7 +100,7 @@
 
 - Company: [Cc hub](https://cchub.africa)
 
-  - Founder: [Bosun Tijani and Femi Longe]
+  - Founder: Bosun Tijani and Femi Longe
 
   - Industry: Tech Education
 
