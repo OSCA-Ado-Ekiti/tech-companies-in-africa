@@ -57,6 +57,12 @@
   - Founders: [@ercineksin](https://pl.linkedin.com/in/ercineksin) + [@tundekehinde](https://ng.linkedin.com/in/tunde-kehinde-048aa635)
 
   - Industry: Logistics
+ 
+- Company: [arnergy](https://www.arnergy.com/)
+
+  - Founder: [@femiadeyemo](https://twitter.com/femiadeyemo?s=20)
+
+  - Industry: CleanTech
 
 ## <a name="B"> </a>B
 
