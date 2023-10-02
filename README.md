@@ -433,6 +433,12 @@
   - Founders: [@Mzter_sam](https://twitter.com/Mzter_sam)
 
   - Industry: Payment infrastructure
+ 
+- company: [Opay](https://opay.com)
+
+  - Founder: [@OluAkanmu](https://www.twitter.com/OluAkanmu)
+  
+  - Industry: Fintech 
 
 ## <a name="P"> </a>P
 
