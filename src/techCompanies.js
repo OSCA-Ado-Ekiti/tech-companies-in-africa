@@ -474,6 +474,13 @@ export const techCompanies = [
         industry: "Data Science",
         website: "https://www.mainone.net/",
      },
+     {
+        companyName: "Max",
+        companyTwitterHandle: "maxdrive_ai",
+        foundersTwitterHandle: ["bamtayo"],
+        industry: "Transportation / Logistics",
+        website: "https://www.max.ng/",
+     }, 
     ],
   },
   {
