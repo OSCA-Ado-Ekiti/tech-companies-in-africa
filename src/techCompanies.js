@@ -705,6 +705,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["fejizzy"],
         industry: "E-commerce company",
         website: "http://www.mypatricia.com",
+      },
+      {
+        companyName: "paga",
+        companyTwitterHandle: "paga",
+        foundersTwitterHandle: ["oviosu"],
+        industry: "Financial Technology (Fintech)",
+        website: "https://www.mypaga.com/",
       }
     ],
   },
