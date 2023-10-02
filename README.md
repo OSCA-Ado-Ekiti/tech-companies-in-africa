@@ -637,3 +637,10 @@
   - Founder: [@realsisititi](https://twitter.com/realsisititi) x [@ekojournalist](https://twitter.com/ekojornalist)
 
   - Industry: FunTech
+## <a name="Y"> </a>Y
+
+- Company: [yoco](https://www.yoco.com/za/)
+
+  - Founder: [@KatlegoMapha](https://twitter.com/katlegomaphai)
+
+  - Industry: FinTech
