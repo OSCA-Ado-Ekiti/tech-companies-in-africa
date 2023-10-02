@@ -124,6 +124,13 @@ export const techCompanies = [
     name: "c",
     company: [
       {
+        companyName: "Cc hub",
+        companyTwitterHandle: "Cc_HUB",
+        foundersTwitterHandle: ["bosuntijani"],
+        industry: "Tech Education",
+        website: "https://cchub.africa",
+      },
+      {
         companyName: "Cellulant",
         companyTwitterHandle: "Cellulant",
         foundersTwitterHandle: ["KenNjorogeCG", "BolajiAkinboro"],

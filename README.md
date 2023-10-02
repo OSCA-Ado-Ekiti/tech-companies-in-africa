@@ -98,6 +98,12 @@
 
 ## <a name="C"> </a>C
 
+- Company: [Cc hub](https://cchub.africa)
+
+  - Founder: Bosun Tijani and Femi Longe
+
+  - Industry: Tech Education
+
 - Company: [CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
 
   - Founder: [@chizom\_](https://twitter.com/chizom_)
