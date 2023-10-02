@@ -634,6 +634,12 @@
   
   - Industry:  multi-cloud solutions
 
+- company: [VBank](https://vbank.ng/)
+
+  - Founder: [@NonsoMOkpala](https://www.twitter.com/@NonsoMOkpala)
+  
+  - Industry:  Digital Banking | Fintech
+
 ## <a name="W"> </a>W
 
 - Company: [WellaHealth](https://www.wellahealth.com/)
