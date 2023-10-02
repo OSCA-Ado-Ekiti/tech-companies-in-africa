@@ -1036,6 +1036,13 @@ export const techCompanies = [
         industry: "Venture capital",
         website: "https://vc4a.com",
       },
+      {
+        "companyName": "Vodafone",
+        "companyTwitterHandle": "VodafoneGroup",
+        "foundersTwitterHandle": ["VodafoneGroup"],
+        "industry": "Telecommunication | Internet",
+        "website": "https://www.vodafone.com"
+      }
     ],
   },
   {
