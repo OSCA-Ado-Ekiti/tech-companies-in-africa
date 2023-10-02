@@ -123,6 +123,13 @@ export const techCompanies = [
   {
     name: "c",
     company: [
+       {
+        companyName: "Carry1st",
+        companyTwitterHandle: "Carry1st",
+        foundersTwitterHandle: [],
+        industry: "Gaming/Tech",
+        website: "https://carry1st.com",
+      },
       {
         companyName: "Cellulant",
         companyTwitterHandle: "Cellulant",
@@ -319,6 +326,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["Sirakmussie"],
         industry: "fintech",
         website: "https://www.flocash.com",
+      },
+       {
+        companyName: "flutterwave",
+        companyTwitterHandle: "theflutterwave",
+        foundersTwitterHandle: ["TechProd_Arch"],
+        industry: "fintech",
+        website: "https://www.flutterwave.com",
       }
     ],
   },
@@ -531,6 +545,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["o_o_lekan"],
         industry: "Tech Agency",
         website: "",
+      },
+      {
+        companyName: "Lori Systems",
+        companyTwitterHandle: "LoriSystems",
+        foundersTwitterHandle: [],
+        industry: "Logistics/Tech",
+        website: "https://www.lorisystems.com",
       },
     ],
   },
