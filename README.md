@@ -388,6 +388,12 @@
 
   - Industry: Logistics
 
+- Company: [Max](https://www.max.ng/)
+
+  - Founder: [@bamtayo](https://twitter.com/bamtayo)
+
+  - Industry: Transportation / Logistics
+
 ## <a name="N"> </a>N
 
 - Company: [nguvuhealth](https://www.nguvuhealth.com/)
