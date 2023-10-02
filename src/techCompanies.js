@@ -967,6 +967,13 @@ export const techCompanies = [
         website: "https://vantagepay.com",
       },
       {
+        companyName: "Veenode Technologies",
+        companyTwitterHandle: "Veenode",
+        foundersTwitterHandle: ["Victor Akinode"],
+        industry: "Branding/Consulation",
+        website: "https://veenodetech.com/",
+      },
+      {
         companyName: "Vendease",
         companyTwitterHandle: "VendeaseAfrica",
         foundersTwitterHandle: ["tundde"],
