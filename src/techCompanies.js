@@ -240,7 +240,7 @@ export const techCompanies = [
         companyName: "Future Academy Africa",
         companyTwitterHandle: "futureacademy",
         foundersTwitterHandle: ["KitanDavid"],
-        industry: "organization focused on education, training",
+        industry: "Tech Education",
         website: "https://futureacademy.africa/",
       },
       {

@@ -223,6 +223,12 @@
   - Founder: [@isokowalter](https://twitter.com/isokowalter)
 
   - Industry: Tech Consulting + Software Services
+  
+- Company: [FutureAcademyAfrica](https://futureacademy.africa/)
+
+- Founder: [@KitanDavid](https://twitter.com/KitanDavid)
+
+- Industry: Tech Education
 
 ## <a name="G"> </a>G
 
