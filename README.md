@@ -98,7 +98,7 @@
 
 ## <a name="C"> </a>C
 
-- Company: [Cchub](https://cchub.africa)
+- Company: [Cc hub](https://cchub.africa)
 
   - Founder: [Bosun Tijani and Femi Longe]
 
