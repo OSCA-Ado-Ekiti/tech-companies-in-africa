@@ -417,7 +417,7 @@ export const techCompanies = [
         companyTwitterHandle: "irokotv",
         foundersTwitterHandle: ["JasonNjoku"],
         industry: "Online Entertainment",
-        website: "https://irokotv.com/",
+        website: "https://irokotv.com",
       },
     ],
   },
