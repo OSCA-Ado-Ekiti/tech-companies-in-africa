@@ -194,18 +194,30 @@
 
 ## <a name="F"> </a>F
 
-- Company: [FlyingDoctorsIC](http://fdinvestmentcompany.com/)
-
-  - Founder : [@NaijaFlyingDr](https://twitter.com/NaijaFlyingDr)
-
-  - Industry: HealthCare
-
 - Company: [FamasiAfrica](https://www.famasi.africa/plans-and-pricing/)
 
   - Founders: [@justsay_didi](https://twitter.com/justsay_didi) x [@alfaruqstories](https://twitter.com/alfaruqstories)
 
   - Industry: Digital pharmacy
 
+- Company: [Fuzu](https://www.fuzu.com)
+
+  - Founders: [@JussiH](https://twitter.com/JussiH) x [@navitail](https://twitter.com/navitail)
+
+  - Industry: HR Tech
+
+- Company: [Findworka](https://findworka.com)
+
+  - Founders: [@iambankole](https://twitter.com/iambankole)
+
+  - Industry: software development
+
+  - Company: [Farmcrowdy](https://www.farmcrowdy.com)
+
+  - Founders: [@onyekaakumah](https://twitter.com/onyekaakumah)
+
+  - Industry: Agric Tech
+  
 - Company: [Farmed_NG](https://facebook.com/FarmedForte/)
 
   - Founders : [@jay_can_do](https://twitter.com/jay_can_do) × [@27kJamal](https://twitter.com/27kJamal) × [@edidiongmekong](https://twitter.com/edidiongmekong)
@@ -238,11 +250,29 @@
 
 ## <a name="G"> </a>G
 
-- Company: [getBumpa](https://getbumpa.com/)
+- Company: [Geotopup](https://geotopup.com)
 
-  - Founders : [@tushgeek](https://twitter.com/tushgeek) + [@TeeJaY_Codes](https://twitter.com/TeeJaY_Codes)
+  - Founders : [@ejilolahmed](https://twitter.com/ejilolahmed)
 
-  - Industry : E-commerce Founders
+  - Industry : FinTech
+
+  - Company: [Gokada](https://gokada.ng)
+
+  - Founders : [@fahad792](https://twitter.com/fahad792)
+
+  - Industry : Transportation
+
+  - Company: [Gebeya](https://gebeya.com)
+
+  - Founders : [@amahinduka](https://twitter.com/amahinduka)
+
+  - Industry : Tech Talent Marketplace
+
+- Company: [Gona](https://sttakenya.org)
+
+  - Founders : [@gona_judy](https://twitter.com/GonaJudy)
+
+  - Industry : Agritech
 
 - Company: [getequity](https://www.getequity.io/)
 
@@ -276,13 +306,13 @@
 
 ## <a name="H"> </a>H
 
-- Company: [helicarrierinc](https://helicarrier.studio/)
+- Company: [HydroIQ](https://www.hydroiq.co.ke)
 
-  - Founders: [@ireaderinokun](https://twitter.com/ireaderinokun) + [@timigod](https://twitter.com/timigod) + [@alephile](https://twitter.com/alephile)
+  - Founders: [@brianbosire](https://twitter.com/brianbosire)
 
-  - Industry: Web3
+  - Industry: WaterTech
 
-* Company: [hytchafrica](https://hytch.africa/)
+* Company: [hytchafrica](https://linktr.ee/hytchafrica)
 
   - Founder: [@thislaolu](https://twitter.com/thislaolu)
 
@@ -308,9 +338,10 @@
 
 ## <a name="I"> </a>I
 
-- Company: [ifluxdotapp](https://iflux.app/)
+- Company: [Ingressive Capital](https://www.ingressivecapital.com)
 
-  - Founder: [@ifluxdotapp](https://twitter.com/ifluxdotapp)
+  - Founder: [@mrmakoko](https://twitter.com/mrmakoko)
+
 
   - Industry: Payment infrastructure
  
@@ -320,6 +351,20 @@
 
   - Industry: Media
 
+
+
+- Company: [Interswitch](https://www.interswitchgroup.com)
+
+
+  - Founder: [@mitchelelegbe](https://twitter.com/mitchelelegbe) + [@charlesifedi](https://twitter.com/charlesifedi)
+
+  - Industry: Fintech
+
+- Company: [iHub](https://ihub.co.ke)
+
+  - Founder: [@bosuntijani](https://twitter.com/bosuntijani)
+
+  - Industry:Open community workspace
 ## <a name="J"> </a>J
 
 - Company: [Jiggyvest](https://www.jiggyvest.com/)
@@ -333,6 +378,36 @@
   - Founder: [@CoucoSeth](https://twitter.com/JastTech)
 
   - Industry: Mobile and Web apps service provider
+
+- Company: [JUMO](https://www.jumo.world)
+
+  - Founder: [@andre_ivankio](https://twitter.com/andre_ivankio)
+
+  - Industry: FinTech
+
+- Company: [Jamii Africa](https://jamii.co.ke)
+
+  - Founder: [@liliankaivilu](https://twitter.com/liliankaivilu)
+
+  - Industry: InsurTech
+
+- Company: [JokkoText](https://jokkotext.com)
+
+  - Founder: [@cheikhahmedt](https://twitter.com/cheikhahmedt)
+
+  - Industry: Mobile Payments
+
+- Company: [Jobberman](https://www.jobberman.com)
+
+  - Founder: [@LekanOlude](https://twitter.com/LekanOlude)
+
+  - Industry: Technology
+
+- Company: [Jumia](https://jumia.com.ng/)
+
+  - Founder: [@kofiafaedor](https://twitter.com/kofiafaedor)
+
+  - Industry: Logistics
 
 ## <a name="K"> </a>K
 
