@@ -469,6 +469,13 @@ export const techCompanies = [
         website: "https://ihub.co.ke",
       },
       {
+        companyName: "irokotv",
+        companyTwitterHandle: "irokotv ",
+        foundersTwitterHandle: ["JasonNjoku "],
+        industry: "Online Entertainment",
+        website: "https://irokotv.com/",
+      },
+      {
         "companyName": "Ingressive Capital",
         "companyTwitterHandle": "ingressivecap",
         "foundersTwitterHandle": ["mrmakoko"],
@@ -740,6 +747,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["shollsman", "0x"],
         industry: "Payment infrastructure",
         website: "https://paystack.com",
+      },
+      {
+        companyName: "paga",
+        companyTwitterHandle: "paga",
+        foundersTwitterHandle: ["oviosu"],
+        industry: "Financial Technology (Fintech)",
+        website: "https://www.mypaga.com/",
       },
       {
         companyName: "Pocket by Piggyvest",
