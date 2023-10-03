@@ -568,7 +568,7 @@ export const techCompanies = [
         companyTwitterHandle: "ShopKonga",
         foundersTwitterHandle: ["SimShagaya"],
         industry: "E-commerce and Technology",
-        website: "https://www.konga.com/",
+        website: "https://www.konga.com",
       },
       {
         companyName: "Kuda Bank",
