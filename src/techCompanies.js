@@ -157,6 +157,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["imnotjesusimru1"],
         industry: "Mobile company",
         website: "https://www.cobiinteractive.com",
+      },
+      {
+        companyName: "Chipper Cash",
+        companyTwitterHandle: "chippercashapp",
+        foundersTwitterHandle: ["hamserunjogi", "maijidmoujaled"],
+        industry: "Fintech",
+        website: "https://chippercash.com",
       }
     ],
   },
@@ -412,6 +419,13 @@ export const techCompanies = [
         industry: "Open community workspace",
         website: "https://ihub.co.ke",
       },
+      {
+        companyName: "Interswitch",
+        companyTwitterHandle: "InterswitchGRP",
+        foundersTwitterHandle: ["MitchelElegbe"],
+        industry: "Fintech",
+        website: "https://www.interswitchgroup.com",
+      },
     ],
   },
   {
@@ -578,6 +592,13 @@ export const techCompanies = [
         industry: "Data Science",
         website: "https://www.mainone.net/",
      },
+     {
+        companyName: "MNT-Halan",
+        companyTwitterHandle: "MNT_Halan",
+        foundersTwitterHandle: ["ahmedmohsen_", "mohamedaboulnag", "youssefelfakhr"],
+        industry: "Fintech",
+        website: "https://mnt-halan.com",
+     },
     ],
   },
   {
@@ -638,6 +659,13 @@ export const techCompanies = [
         industry: "Payment infrastructure",
         website: "https://www.ourpass.co",
       },
+      {
+        companyName: "OPay",
+        companyTwitterHandle: "OPay_NG",
+        foundersTwitterHandle: ["yhui_zhou", "olu_akande", "sokin_abiola"],
+        industry: "Fintech",
+        website: "https://www.opayweb.com",
+      }
     ],
   },
   {
@@ -921,6 +949,20 @@ export const techCompanies = [
         industry: "Tech media/research ",
         website: "https://techcabal.com",
       },
+      {
+        companyName: "Jumia Travel",
+        companyTwitterHandle: "jumia_travel",
+        foundersTwitterHandle: ["sachapoignonnec", "raphaelapter"],
+        industry: "Travel",
+        website: "https://travel.jumia.com",
+      },
+      {
+        companyName: "Jumia Deals",
+        companyTwitterHandle: "jumia_Group",
+        foundersTwitterHandle: ["samchappatte", "sachapoignonnec"],
+        industry: "Deals",
+        website: "https://deals.jumia.com",
+      },
     ],
   },
   {
@@ -1038,6 +1080,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["AronuUgochukwu"],
         industry: "DeFi",
         website: "https://xend.finance",
+      },
+      {
+        companyName: "Wave",
+        companyTwitterHandle: "wavehq",
+        foundersTwitterHandle: ["drew_durbin", "lincolnquirk"],
+        industry: "Fintech",
+        website: "https://www.waveapps.com",
       },
     ],
   },
