@@ -628,6 +628,12 @@
   
   - Industry:  multi-cloud solutions
 
+- company: [Veenode](https://veenodetech.com/)
+
+  - Founder: [@VictorAkinode](https://www.twitter.com/VictorAkinode)
+
+  -Industry: Branding/Consulation
+
 ## <a name="W"> </a>W
 
 - Company: [WellaHealth](https://www.wellahealth.com/)

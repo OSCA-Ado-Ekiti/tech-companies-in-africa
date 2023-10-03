@@ -969,7 +969,7 @@ export const techCompanies = [
       {
         companyName: "Veenode Technologies",
         companyTwitterHandle: "Veenode",
-        foundersTwitterHandle: ["Victor Akinode"],
+        foundersTwitterHandle: ["VictorAkinode"],
         industry: "Branding/Consulation",
         website: "https://veenodetech.com/",
       },
