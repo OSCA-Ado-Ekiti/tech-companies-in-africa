@@ -58,6 +58,38 @@
 
   - Industry: Logistics
 
+- Company: [AfricArena](https://www.crunchbase.com/organization/africarena)
+
+  - Founders: [Christophe Viarnaud](https://twitter.com/capemaverick/status/1123508742601842688)
+  
+  - Industry: Investment firm
+
+- Company: [AfricaCom](https://www.africa.com/)
+
+  - Founders: [Teresa Clarke](https://twitter.com/tclarke_africa?lang=en)
+  
+  - Industry: Information Tchnology and Internet
+ 
+- Company: [AI Expo Africa](https://aiexpoafrica.com/)
+
+  - Founders: [Amr Rezk](https://www.linkedin.com/in/nickbradshaw/)
+  
+  - Industry: Information Tchnology and Software
+ 
+- Company: [AutoTager](https://www.autotager.com/)
+
+  - Founders: [Dr Nick Bradshaw](nil)
+  
+  - Industry: Automotive
+
+- Company: [Amini](https://www.amini.ai/)
+
+  - Founders: [Kate Kallot](https://twitter.com/KateKallot)
+  
+  - Industry: Artificial Intelligence
+
+
+
 ## <a name="B"> </a>B
 
 - Company: [brassbanking](https://www.trybrass.com/)
