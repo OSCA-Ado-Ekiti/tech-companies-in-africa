@@ -562,6 +562,14 @@ export const techCompanies = [
         industry: "Logistics",
         website: "https://www.kobo360.com",
       },
+      },
+      {
+        companyName: "konga",
+        companyTwitterHandle: "ShopKonga",
+        foundersTwitterHandle: ["SimShagaya"],
+        industry: "E-commerce and Technology",
+        website: "https://www.konga.com/",
+      },
       {
         companyName: "Kuda Bank",
         companyTwitterHandle: "Kudabank",
