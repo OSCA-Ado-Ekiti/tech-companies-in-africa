@@ -119,7 +119,7 @@ const createContributorProfiles = (contributors) => {
 const fetchGitHubContributors = () => {
   const repoOwner = "logboi1"; // Replace with the repository owner's username
   const repoName = "tech-companies-in-africa"; // Replace with the repository name
-  const accessToken = "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"; // Replace with the organization access token
+  const accessToken = "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"; // Replace with the organization access token
 
   // Define the API endpoint for contributors
   const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contributors`;
