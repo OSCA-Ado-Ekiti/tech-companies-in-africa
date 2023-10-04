@@ -2,11 +2,6 @@
 
 [Return to README](../README.md)
 
-- Company: [Theflutterwave](https://www.flutterwave.com/us/)
-
-  - Founders : [@TechProd_Arch](https://twitter.com/TechProd_Arch) + [@iaboyeji](https://twitter.com/iaboyeji)
-
-  - Industry : Payment infrastructure
 
 - Company: [spatialnodehq](https://spatialnode.net/home)
 
