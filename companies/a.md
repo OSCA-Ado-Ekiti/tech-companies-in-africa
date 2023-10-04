@@ -1,4 +1,6 @@
-## <a name="A"> </a>A
+# Companies starting with the letter "A"
+
+[Return to README](../README.md)
 
 - Company : [AltSchoolAfrica](https://altschoolafrica.com/)
 
