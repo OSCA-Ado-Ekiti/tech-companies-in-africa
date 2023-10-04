@@ -98,6 +98,12 @@
 
 ## <a name="C"> </a>C
 
+- Company: [Carry1st](https://www.carry1st.com/)
+
+  - Founder: [@CordelRobin](https://twitter.com/cordelrobin)
+
+  - Industry: Gaming/Tech
+
 - Company: [Cc hub](https://cchub.africa)
 
   - Founder: Bosun Tijani and Femi Longe
@@ -253,6 +259,13 @@
   - Founder: [@isokowalter](https://twitter.com/isokowalter)
 
   - Industry: Tech Consulting + Software Services
+  - 
+- Company: [Flutterwave](https://flutterwave.com/)
+
+  - Founder: [@Techprod_Arch](https://twitter.com/techprod_arch)
+
+  - Industry: FinTech
+
 
 ## <a name="G"> </a>G
 
@@ -348,9 +361,19 @@
 
   - Founder: [@mrmakoko](https://twitter.com/mrmakoko)
 
-  - Industry: Venture Capital
+
+  - Industry: Payment infrastructure
+ 
+- Company: [IPI Power Tech](http://iptpowertech.com/)
+
+  - Founder: [@NABILZHADDAD1](https://twitter.com/NABILZHADDAD1)
+
+  - Industry: Media
+
+
 
 - Company: [Interswitch](https://www.interswitchgroup.com)
+
 
   - Founder: [@mitchelelegbe](https://twitter.com/mitchelelegbe) + [@charlesifedi](https://twitter.com/charlesifedi)
 
@@ -464,6 +487,12 @@
 
   - Industry: Logistics
 
+- Company: [KITS Technologies](https://kits.ng/)
+
+  - Founder: [@KitsTech_](https://twitter.com/KitsTech_)
+
+  - Industry: Cyber Security solutions
+ 
 - Company: [Kwik](https://kwik.delivery/)
 
   - Founder: [@RomainPoirot-lellig](https://twitter.com/rplellig)
@@ -477,6 +506,11 @@
   - Founder: [@ridwan_olalere](https://twitter.com/ridwan_olalere)
 
   - Industry: FinTech
+- Company: [LoriSystems](https://www.lorisystems.com)
+
+  - Founder: [@joshsandler](https://twitter.com/joshsandler)
+
+  - Industry: Logistics/Tech
 
 ## <a name="M"> </a>M
 
@@ -729,6 +763,12 @@
 
   - Industry: Tech NGO
 
+- Company: [Trove](https://www.troveapp.co)
+
+  - Founders: ["tomisuave"](https://twitter.com/tomisuave)
+
+  - Industry: Digital Wealth (Fintech)
+
 ## <a name="U"> </a>U
 
 - Company: [uLessonApp](https://ulesson.com/)
@@ -756,6 +796,12 @@
   - Founder: [@vaxowave](https://www.twitter.com/vaxowave)
   
   - Industry:  multi-cloud solutions
+
+- company: [Veenode](https://veenodetech.com/)
+
+  - Founder: [@VictorAkinode](https://www.twitter.com/VictorAkinode)
+
+  -Industry: Branding/Consulation
 
 ## <a name="W"> </a>W
 
@@ -799,13 +845,13 @@
 
   - Industry: FunTech
   
-  ## <a name="Z"> </a> Z
+## <a name="Z"> </a> Z
   
- - Company: [Zoracom] (https://www.zoracom.com/)
+- Company: [Zoracom] (https://www.zoracom.com/)
   
-   - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
+  - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
   
-   - Industry: FinTech
+  - Industry: FinTech
   
 - Company : [ZirooPay](https://ziroopay.com/)
 
@@ -818,7 +864,6 @@
   - Founder: [@andrewretail](https://twitter.com/andrewretail)
   
   - Industry: Fintech
-
 
 - Company : [zando](https://www.zando.co.za/)
 
