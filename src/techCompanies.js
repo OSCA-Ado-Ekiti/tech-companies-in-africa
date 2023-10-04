@@ -123,6 +123,13 @@ export const techCompanies = [
   {
     name: "c",
     company: [
+       {
+        companyName: "Carry1st",
+        companyTwitterHandle: "Carry1st",
+        foundersTwitterHandle: [],
+        industry: "Gaming/Tech",
+        website: "https://carry1st.com",
+      },
       {
         companyName: "Cc hub",
         companyTwitterHandle: "Cc_HUB",
@@ -629,6 +636,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["o_o_lekan"],
         industry: "Tech Agency",
         website: "",
+      },
+      {
+        companyName: "Lori Systems",
+        companyTwitterHandle: "LoriSystems",
+        foundersTwitterHandle: [],
+        industry: "Logistics/Tech",
+        website: "https://www.lorisystems.com",
       },
     ],
   },
