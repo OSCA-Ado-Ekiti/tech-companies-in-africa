@@ -1,0 +1,65 @@
+export default {
+  startsWith: "m",
+  companies: [
+    {
+      companyName: "myclassroomng",
+      companyTwitterHandle: "myclassroomng",
+      foundersTwitterHandle: ["isholabaryor"],
+      industry: "Tech Education",
+      website: "",
+    },
+    {
+      companyName: "MTN Group",
+      companyTwitterHandle: "MTNGroup",
+      foundersTwitterHandle: ["RalphMupita"],
+      industry: "telecommunication",
+      website: "https://www.mtm.ng",
+    },
+    {
+      companyName: "Motribe",
+      companyTwitterHandle: "motribe",
+      foundersTwitterHandle: ["nicharry"],
+      industry: "Mobile Company",
+      website: "https://www.Motribe.com",
+    },
+    {
+      companyName: "Mxit",
+      companyTwitterHandle: "Mxit",
+      foundersTwitterHandle: ["hermanheunis"],
+      industry: "telecommunication",
+      website: "",
+    },
+    {
+      companyName: "Mpesa",
+      companyTwitterHandle: "mpesa",
+      foundersTwitterHandle: ["Sitiyo Lopokoiyit"],
+      industry: "FinTech",
+      website: "https://en.m.wikipedia.org/wiki/M-Pesa",
+    },
+    {
+      companyName: "MainOne",
+      companyTwitterHandle: "Mainoneservice",
+      foundersTwitterHandle: [],
+      industry: "Data Science",
+      website: "https://www.mainone.net/",
+    },
+    {
+      companyName: "MNT-Halan",
+      companyTwitterHandle: "MNT_Halan",
+      foundersTwitterHandle: [
+        "ahmedmohsen_",
+        "mohamedaboulnag",
+        "youssefelfakhr",
+      ],
+      industry: "Fintech",
+      website: "https://mnt-halan.com",
+    },
+    {
+      companyName: "Max",
+      companyTwitterHandle: "maxdrive_ai",
+      foundersTwitterHandle: ["bamtayo"],
+      industry: "Transportation / Logistics",
+      website: "https://www.max.ng/",
+    },
+  ],
+};
