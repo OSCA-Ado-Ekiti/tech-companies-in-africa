@@ -2,7 +2,7 @@ export default {
   startsWith: "s",
   companies: [
     {
-      companyName: "aSfeboda",
+      companyName: "safeboda",
       companyTwitterHandle: "safeboda",
       foundersTwitterHandle: ["Babajiide"],
       industry: "Transportation",
