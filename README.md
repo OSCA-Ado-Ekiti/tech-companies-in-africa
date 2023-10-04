@@ -134,6 +134,12 @@
 
   - Industry: Financial Services
 
+- Company: [Chipper Cash](https://chippercash.com)
+
+  - Founder: [@hamserunjogi](https://twitter.com/hamserunjogi) + [@maijidmoujaled](https://twitter.com/maijidmoujaled)
+
+  - Industry: Fintech
+
 ## <a name="D"> </a>D
 
 - Company: [DecagonIns](https://decagonhq.com/)
@@ -377,7 +383,14 @@
 
   - Founder: [@bosuntijani](https://twitter.com/bosuntijani)
 
+- Company: [Interswitch](https://www.interswitchgroup.com)
+
+  - Founder: [@MitchelElegbe](https://twitter.com/MitchelElegbe)
+
+  - Industry: Fintech
+
   - Industry:Open community workspace
+
 ## <a name="J"> </a>J
 
 - Company: [Jiggyvest](https://www.jiggyvest.com/)
@@ -391,6 +404,19 @@
   - Founder: [@CoucoSeth](https://twitter.com/JastTech)
 
   - Industry: Mobile and Web apps service provider
+
+
+- Company: [Jumia Travel](https://travel.jumia.com)
+
+  - Founder: [@sachapoignonnec](https://twitter.com/sachapoignonnec) + [@raphaelapter](https://twitter.com/raphaelapter)
+
+  - Industry: Travel
+
+- Company: [Jumia Deals](https://deals.jumia.com.ng)
+
+  - Founder: [@samchappatte](https://twitter.com/samchappatte) + [@sachapoignonnec](https://twitter.com/sachapoignonnec)
+
+  - Industry: E-commerce
 
 - Company: [JUMO](https://www.jumo.world)
 
@@ -421,6 +447,7 @@
   - Founder: [@kofiafaedor](https://twitter.com/kofiafaedor)
 
   - Industry: Logistics
+
 
 ## <a name="K"> </a>K
 
@@ -505,11 +532,18 @@
 
   - Industry: Logistics
 
+- Company: [MNT-Halan](https://mnt-halan.com)
+
+  - Founder: [@ahmedmohsen_](https://twitter.com/ahmedmohsen_) + [@mohamedaboulnag](https://twitter.com/mohamedaboulnag) + [@youssefelfakhr](https://twitter.com/youssefelfakhr)
+
+  - Industry: Fintech
+
 - Company: [Max](https://www.max.ng/)
 
   - Founder: [@bamtayo](https://twitter.com/bamtayo)
 
   - Industry: Transportation / Logistics
+
 
 ## <a name="N"> </a>N
 
@@ -550,6 +584,12 @@
   - Founders: [@Mzter_sam](https://twitter.com/Mzter_sam)
 
   - Industry: Payment infrastructure
+
+- Company: [Opay](https://www.opayweb.com)
+
+    - Founders: [@yhui_zhou](https://twitter.com/yhui_zhou) + [@olu_akande](https://twitter.com/olu_akande) + [@sokin_abiola](https://twitter.com/sokin_abiola)
+
+  - Industry: Fintech
 
 ## <a name="P"> </a>P
 
@@ -782,6 +822,12 @@
   - Founder: [@DanielYu]()
 
   - Industry: E-commerce
+  
+- Company: [Wave](https://www.waveapps.com)
+
+  - Founder: [@drew_durbin](https://twitter.com/drew_durbin) + [@lincolnquirk](https://twitter.com/lincolnquirk)
+
+  - Industry: Fintech
   
 ## <a name="X"> </a>X
 
