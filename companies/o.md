@@ -28,6 +28,6 @@
 
 - Company: [Opay](https://www.opayweb.com)
 
-    - Founders: [@yhui_zhou](https://twitter.com/yhui_zhou) + [@olu_akande](https://twitter.com/olu_akande) + [@sokin_abiola](https://twitter.com/sokin_abiola)
+    - Founders: [@yhui_zhou](https://twitter.com/OPay_NG)
 
   - Industry: Fintech
