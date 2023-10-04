@@ -689,6 +689,12 @@
 
   - Industry: Tech NGO
 
+- Company: [Trove](https://www.troveapp.co)
+ 
+  - Founders: ["tomisuave"](https://twitter.com/tomisuave)
+ 
+  - Industry: Digital Wealth (Fintech)
+
 ## <a name="U"> </a>U
 
 - Company: [uLessonApp](https://ulesson.com/)
