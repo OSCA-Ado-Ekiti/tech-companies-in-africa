@@ -194,6 +194,44 @@ main {
 .company-card_twitter-handle > a:hover {
   color: hsl(197, 100%, 67%);
 }
+.contributors h3{
+  text-align: center;
+  padding: .5em 0;
+}
+.contributor-container{
+ display: flex;
+ gap: 0.5em;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+.tooltip {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s;
+  bottom: 100%;
+  /* Position above the image */
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  pointer-events: none;
+  /* Allow interactions with the image below */
+}
+
+.github-image:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.github-image{
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+}
 
 /** footer */
 footer {

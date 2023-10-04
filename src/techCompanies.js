@@ -124,6 +124,13 @@ export const techCompanies = [
     name: "c",
     company: [
       {
+        companyName: "Cc hub",
+        companyTwitterHandle: "Cc_HUB",
+        foundersTwitterHandle: ["bosuntijani"],
+        industry: "Tech Education",
+        website: "https://cchub.africa",
+      },
+      {
         companyName: "Cellulant",
         companyTwitterHandle: "Cellulant",
         foundersTwitterHandle: ["KenNjorogeCG", "BolajiAkinboro"],
@@ -211,6 +218,13 @@ export const techCompanies = [
         website: "https://www.ecosokoni.co.ke",
       },
       {
+        companyName: "Edustipend",
+        companyTwitterHandle: "edustipend",
+        foundersTwitterHandle: ["meekg33k"],
+        industry: "Financial Aid",
+        website: "https://www.edustipend.org",
+      },
+      {
         companyName: "EGMarkets",
         companyTwitterHandle: "EGMarkets",
         foundersTwitterHandle: [],
@@ -242,6 +256,27 @@ export const techCompanies = [
         foundersTwitterHandle: ["justsay_didi", "alfaruqstories"],
         industry: "Digital pharmacy",
         website: "https://www.famasi.africa",
+      },
+      {
+        "companyName": "Fuzu",
+        "companyTwitterHandle": "Fuzu",
+        "foundersTwitterHandle": ["JussiH", "navitail"],
+        "industry": "HR Tech",
+        "website": "https://www.fuzu.com"
+      },
+      {
+        "companyName": "Findworka",
+        "companyTwitterHandle": "findworka",
+        "foundersTwitterHandle": ["iambankole"],
+        "industry": "Software Development",
+        "website": "https://findworka.com"
+      },
+      {
+        "companyName": "Farmcrowdy",
+        "companyTwitterHandle": "farmcrowdy",
+        "foundersTwitterHandle": ["onyekaakumah"],
+        "industry": "AgriTech",
+        "website": "https://www.farmcrowdy.com"
       },
       {
         companyName: "Farmed",
@@ -277,13 +312,6 @@ export const techCompanies = [
         foundersTwitterHandle: ["ifluxdotapp"],
         industry: "Payment infrastructure",
         website: "https://iflux.app",
-      },
-      {
-        companyName: "Flying Doctors",
-        companyTwitterHandle: "FlyingDoctorsIC",
-        foundersTwitterHandle: ["NaijaFlyingDr"],
-        industry: "HealthCare",
-        website: "https://fdhic.com/",
       },
       {
         companyName: "Flux Tech Africa",
@@ -340,11 +368,32 @@ export const techCompanies = [
         website: "https://geotopup.com",
       },
       {
+        "companyName": "Gokada",
+        "companyTwitterHandle": "gokada_ng",
+        "foundersTwitterHandle": ["fahad792"],
+        "industry": "Transportation",
+        "website": "https://gokada.ng"
+      },
+      {
+        "companyName": "Gebeya",
+        "companyTwitterHandle": "GebeyaTalent",
+        "foundersTwitterHandle": ["amahinduka"],
+        "industry": "Tech Talent Marketplace",
+        "website": "https://gebeya.com"
+      },
+      {
         companyName: "GetEquity",
         companyTwitterHandle: "getequity",
         foundersTwitterHandle: ["bigbrutha_", "WilliamOkafor"],
         industry: "Startup Financing",
         website: "https://www.getequity.io",
+      },
+      {
+        "companyName": "Gona",
+        "companyTwitterHandle": "GonaJudy",
+        "foundersTwitterHandle": ["gona_judy"],
+        "industry": "Agritech",
+        "website": "https://sttakenya.org/"
       },
       {
         companyName: "Grazac",
@@ -391,7 +440,7 @@ export const techCompanies = [
         companyTwitterHandle: "hytchafrica",
         foundersTwitterHandle: ["thislaolu"],
         industry: "Shared commuting.",
-        website: "https://hytch.africa",
+        website: "https://linktr.ee/hytchafrica",
       },
       {
         companyName: "Helium Health",
@@ -400,6 +449,13 @@ export const techCompanies = [
         industry: "Health Tech",
         website: "https://heliumhealth.com/",
       },
+      {
+        "companyName": "HydroIQ",
+        "companyTwitterHandle": "Hydro_IQ",
+        "foundersTwitterHandle": ["brianbosire"],
+        "industry": "WaterTech",
+        "website": "https://www.hydroiq.co.ke"
+      }
     ],
   },
   {
@@ -426,6 +482,13 @@ export const techCompanies = [
         industry: "Fintech",
         website: "https://www.interswitchgroup.com",
       },
+
+        "companyName": "Ingressive Capital",
+        "companyTwitterHandle": "ingressivecap",
+        "foundersTwitterHandle": ["mrmakoko"],
+        "industry": "Venture Capital",
+        "website": "https://www.ingressivecapital.com"
+      }
     ],
   },
   {
@@ -445,6 +508,27 @@ export const techCompanies = [
         industry: "JiggyTech",
         website: "https://www.jiggyvest.com",
       },
+      {
+        "companyName": "JUMO",
+        "companyTwitterHandle": "JUMO_WORLD",
+        "foundersTwitterHandle": ["andre_ivankio"],
+        "industry": "FinTech",
+        "website": "https://www.jumo.world"
+      },
+      {
+        "companyName": "Jamii Africa",
+        "companyTwitterHandle": "JamiiAfrica",
+        "foundersTwitterHandle": ["liliankaivilu"],
+        "industry": "InsurTech",
+        "website": "https://jamii.co.ke"
+      },
+      {
+      "companyName": "JokkoText",
+      "companyTwitterHandle": "JokkoText",
+      "foundersTwitterHandle": ["cheikhahmedt"],
+      "industry": "Mobile Payments",
+      "website": "https://jokkotext.com"
+    },
       {
         companyName: "Jobberman",
         companyTwitterHandle: "jobbermandotcom",
@@ -593,12 +677,19 @@ export const techCompanies = [
         website: "https://www.mainone.net/",
      },
      {
+         feat/update-company-list
         companyName: "MNT-Halan",
         companyTwitterHandle: "MNT_Halan",
         foundersTwitterHandle: ["ahmedmohsen_", "mohamedaboulnag", "youssefelfakhr"],
         industry: "Fintech",
         website: "https://mnt-halan.com",
      },
+        companyName: "Max",
+        companyTwitterHandle: "maxdrive_ai",
+        foundersTwitterHandle: ["bamtayo"],
+        industry: "Transportation / Logistics",
+        website: "https://www.max.ng/",
+     }, 
     ],
   },
   {
