@@ -6,58 +6,9 @@
 <p align="center">This project is hosted <a href="https://tech-companies-in-africa-cf2akz90m-osca-ado-ekiti.vercel.app/">here</a>.</p>
 
 <p align="center">
-  <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
+  <a href="./companies/a.md">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
 </p>
 
-## <a name="A"> </a>A
-
-- Company : [AltSchoolAfrica](https://altschoolafrica.com/)
-
-  - Founder: [@AdewaleYusuf\_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](https://twitter.com/hackSultan)
-
-  - Industry: Tech Education
-
-- Company: [AutochekAfrica](https://www.autochek.africa/ng)
-
-  - Founder: [@etopty](https://twitter.com/etopty)
-
-  - Industry: Automobile/Auto-Tech
-
-- Company: [afriktrip](https://afriktrip.com/)
-
-  - Founder: [@mr_adesal](https://twitter.com/mr_adesal)
-
-  - Industry: Travels and Tours
-
-- Company: [anafricanfuture](https://www.future.africa/)
-
-  - Founder: [@iaboyeji](https://twitter.com/iaboyeji)
-
-  - Industry: VC
-
-- Company : [Acadar](https://acadar.com/)
-
-  - Founder: [@OnyimeStan](https://twitter.com/OnyimeStan)
-
-  - Industry: Edu Tech
-
-- Company: [abeg_app](https://abeg.app/profile/abegstore)
-
-  - Founder: [@dare\_\_\_a](https://twitter.com/dare___a)
-
-  - Industry: FinTech
-
-- Company: [Africastalking](https://africastalking.com/)
-
-  - Founders: [@sgikandi](https://twitter.com/sgikandi) + Eston Kimani
-
-  - Industry: Mobile Communications Solutions
-
-- Company: [Ace](https://www.ace.ng/)
-
-  - Founders: [@ercineksin](https://pl.linkedin.com/in/ercineksin) + [@tundekehinde](https://ng.linkedin.com/in/tunde-kehinde-048aa635)
-
-  - Industry: Logistics
 
 ## <a name="B"> </a>B
 
