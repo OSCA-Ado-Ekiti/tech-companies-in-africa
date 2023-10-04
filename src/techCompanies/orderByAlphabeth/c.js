@@ -1,0 +1,61 @@
+export default {
+  startsWith: "c",
+  companies: [
+    {
+      companyName: "Carry1st",
+      companyTwitterHandle: "Carry1st",
+      foundersTwitterHandle: [],
+      industry: "Gaming/Tech",
+      website: "https://carry1st.com",
+    },
+    {
+      companyName: "Cc hub",
+      companyTwitterHandle: "Cc_HUB",
+      foundersTwitterHandle: ["bosuntijani"],
+      industry: "Tech Education",
+      website: "https://cchub.africa",
+    },
+    {
+      companyName: "Cellulant",
+      companyTwitterHandle: "Cellulant",
+      foundersTwitterHandle: ["KenNjorogeCG", "BolajiAkinboro"],
+      industry: "Financial Services",
+      website: "https://cellulant.io",
+    },
+    {
+      companyName: "Code Hub Africa Tech",
+      companyTwitterHandle: "CHAfrica_Tech",
+      foundersTwitterHandle: ["chizom_"],
+      industry: "EduTech",
+      website: "https://codehubafrica.tech",
+    },
+    {
+      companyName: "Cowrywise",
+      companyTwitterHandle: "Cowrywise",
+      foundersTwitterHandle: [],
+      industry: "Digital Wealth (FinTech)",
+      website: "https://cowrywise.com",
+    },
+    {
+      companyName: "Craft Silicon",
+      companyTwitterHandle: "CraftSiliconKE",
+      foundersTwitterHandle: ["KBudhabhatti"],
+      industry: "Financial Services",
+      website: "https://www.craftsilicon.com",
+    },
+    {
+      companyName: "Cobi Interactive",
+      companyTwitterHandle: "cobiinteractive",
+      foundersTwitterHandle: ["imnotjesusimru1"],
+      industry: "Mobile company",
+      website: "https://www.cobiinteractive.com",
+    },
+    {
+      companyName: "Chipper Cash",
+      companyTwitterHandle: "chippercashapp",
+      foundersTwitterHandle: ["hamserunjogi", "maijidmoujaled"],
+      industry: "Fintech",
+      website: "https://chippercash.com",
+    },
+  ],
+};

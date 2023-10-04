@@ -1,0 +1,68 @@
+export default {
+  startsWith: "p",
+  companies: [
+    {
+      companyName: "Paystack",
+      companyTwitterHandle: "paystack",
+      foundersTwitterHandle: ["shollsman", "0x"],
+      industry: "Payment infrastructure",
+      website: "https://paystack.com",
+    },
+    {
+      companyName: "Pocket by Piggyvest",
+      companyTwitterHandle: "@getpocketapp",
+      foundersTwitterHandle: ["@OdunEweniyi"],
+      industry: "FinTech",
+      website: "https://pocketapp.com/",
+    },
+    {
+      companyName: "Piggyvest",
+      companyTwitterHandle: "@piggyBankNG",
+      foundersTwitterHandle: ["@OdunEweniyi"],
+      industry: "FinTech",
+      website: "https://www.piggyvest.com/",
+    },
+    {
+      companyName: "Patricia",
+      companyTwitterHandle: "Patricia",
+      foundersTwitterHandle: ["Fejizzy"],
+      industry: "FinTech",
+      website: "https://www.mypatricia.co",
+    },
+    {
+      companyName: "Payercoins",
+      companyTwitterHandle: "payercoins",
+      foundersTwitterHandle: ["AdeleyeVictor_"],
+      industry: "Crypto Payment Infrastructure/Web3",
+      website: "https://www.payercoins.com",
+    },
+    {
+      companyName: "Paystack",
+      companyTwitterHandle: "paystack",
+      foundersTwitterHandle: ["shollsman", "0x"],
+      industry: "Payment infrastructure",
+      website: "https://paystack.com",
+    },
+    {
+      companyName: "Pick me up service",
+      companyTwitterHandle: "Pickmeupservice",
+      foundersTwitterHandle: ["SkimaSax", "AdewaleOretuga"],
+      industry: "Logistics",
+      website: "http://pickmeup.com.ng",
+    },
+    {
+      companyName: "pesapal",
+      companyTwitterHandle: "Pesapal",
+      foundersTwitterHandle: ["AgostaL"],
+      industry: "Payment infrastructure",
+      website: "http://pesapal.com",
+    },
+    {
+      companyName: "patricia",
+      companyTwitterHandle: "patriciaswitch",
+      foundersTwitterHandle: ["fejizzy"],
+      industry: "E-commerce company",
+      website: "http://www.mypatricia.com",
+    },
+  ],
+};
