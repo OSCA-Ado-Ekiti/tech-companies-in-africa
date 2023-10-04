@@ -3,13 +3,6 @@ export const techCompanies = [
     name: "a",
     company: [
       {
-        companyName: "Abeg",
-        companyTwitterHandle: "abeg_app",
-        foundersTwitterHandle: ["dare___a"],
-        industry: "FinTech",
-        website: "https://abeg.app/",
-      },
-      {
         companyName: "Acadar",
         companyTwitterHandle: "Acadar",
         foundersTwitterHandle: ["OnyimeStan"],
