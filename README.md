@@ -342,9 +342,19 @@
 
   - Founder: [@mrmakoko](https://twitter.com/mrmakoko)
 
-  - Industry: Venture Capital
+
+  - Industry: Payment infrastructure
+ 
+- Company: [IPI Power Tech](http://iptpowertech.com/)
+
+  - Founder: [@NABILZHADDAD1](https://twitter.com/NABILZHADDAD1)
+
+  - Industry: Media
+
+
 
 - Company: [Interswitch](https://www.interswitchgroup.com)
+
 
   - Founder: [@mitchelelegbe](https://twitter.com/mitchelelegbe) + [@charlesifedi](https://twitter.com/charlesifedi)
 
@@ -437,6 +447,12 @@
 
   - Industry: Logistics
 
+- Company: [KITS Technologies](https://kits.ng/)
+
+  - Founder: [@KitsTech_](https://twitter.com/KitsTech_)
+
+  - Industry: Cyber Security solutions
+ 
 - Company: [Kwik](https://kwik.delivery/)
 
   - Founder: [@RomainPoirot-lellig](https://twitter.com/rplellig)
