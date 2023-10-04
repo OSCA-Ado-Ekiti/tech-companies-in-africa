@@ -16,7 +16,7 @@
   
 - Company: [Wasoko](https://wasoko.com)
 
-  - Founder: [@DanielYu]()
+  - Founders: [@DanielYu](https://twitter.com/danielyu) + [@JoshMRaine](https://twitter.com/joshmraine)
 
   - Industry: E-commerce
   
