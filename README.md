@@ -700,20 +700,15 @@
   - Founders: [@saintmalik_](https://twitter.com/saintmalik_)
 
   - Industry: Promotional Product Management
-
-## <a name="T"> </a>T
-
-- Company: [Theflutterwave](https://www.flutterwave.com/us/)
-
-  - Founders : [@TechProd_Arch](https://twitter.com/TechProd_Arch) + [@iaboyeji](https://twitter.com/iaboyeji)
-
-  - Industry : Payment infrastructure
-
+ 
 - Company: [spatialnodehq](https://spatialnode.net/home)
 
   - Founder: [@jeafreezy](https://twitter.com/jeafreezy)
 
   - Industry: Professional Networking, community, Social Media (micro blogging)
+
+
+## <a name="T"> </a>T
 
 - Company : [TalentQL](https://talentql.com/)
 
