@@ -123,7 +123,7 @@ export const techCompanies = [
   {
     name: "c",
     company: [
-       {
+      {
         companyName: "Carry1st",
         companyTwitterHandle: "Carry1st",
         foundersTwitterHandle: [],
@@ -178,7 +178,7 @@ export const techCompanies = [
         foundersTwitterHandle: ["hamserunjogi", "maijidmoujaled"],
         industry: "Fintech",
         website: "https://chippercash.com",
-      }
+      },
     ],
   },
   {
@@ -490,11 +490,11 @@ export const techCompanies = [
         website: "https://www.interswitchgroup.com",
       },
       {
-        "companyName": "Ingressive Capital",
-        "companyTwitterHandle": "ingressivecap",
-        "foundersTwitterHandle": ["mrmakoko"],
-        "industry": "Venture Capital",
-        "website": "https://www.ingressivecapital.com"
+        companyName: "Ingressive Capital",
+        companyTwitterHandle: "ingressivecap",
+        foundersTwitterHandle: ["mrmakoko"],
+        industry: "Venture Capital",
+        website: "https://www.ingressivecapital.com",
       },
       {
         companyName: "IPI Power Tech",
@@ -704,14 +704,17 @@ export const techCompanies = [
         foundersTwitterHandle: [],
         industry: "Data Science",
         website: "https://www.mainone.net/",
-     },
-     {
+      },
+      {
         companyName: "MNT-Halan",
         companyTwitterHandle: "MNT_Halan",
-        foundersTwitterHandle: ["ahmedmohsen_", "mohamedaboulnag", "youssefelfakhr"],
+        foundersTwitterHandle: [
+          "ahmedmohsen_",
+          "mohamedaboulnag",
+          "youssefelfakhr",
+        ],
         industry: "Fintech",
         website: "https://mnt-halan.com",
-     },
       },
       {
         companyName: "Max",
@@ -786,7 +789,7 @@ export const techCompanies = [
         foundersTwitterHandle: ["yhui_zhou", "olu_akande", "sokin_abiola"],
         industry: "Fintech",
         website: "https://www.opayweb.com",
-      }
+      },
     ],
   },
   {
