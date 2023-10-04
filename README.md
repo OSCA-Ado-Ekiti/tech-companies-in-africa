@@ -781,13 +781,13 @@
 
   - Industry: FunTech
   
-  ## <a name="Z"> </a> Z
+## <a name="Z"> </a> Z
   
- - Company: [Zoracom] (https://www.zoracom.com/)
+- Company: [Zoracom] (https://www.zoracom.com/)
   
-   - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
+  - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
   
-   - Industry: FinTech
+  - Industry: FinTech
   
 - Company : [ZirooPay](https://ziroopay.com/)
 
@@ -800,7 +800,6 @@
   - Founder: [@andrewretail](https://twitter.com/andrewretail)
   
   - Industry: Fintech
-
 
 - Company : [zando](https://www.zando.co.za/)
 
