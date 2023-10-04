@@ -1012,6 +1012,13 @@ export const techCompanies = [
         industry: "Tech media/research ",
         website: "https://techcabal.com",
       },
+      {
+        companyName: "Trove",
+        companyTwitterHandle: "trovefinance",
+        foundersTwitterHandle: ["tomisuave"],
+        industry: "Digital Wealth (Fintech)",
+        website: "https://www.troveapp.co",
+      },
     ],
   },
   {
