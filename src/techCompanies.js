@@ -131,6 +131,13 @@ export const techCompanies = [
         website: "https://carry1st.com",
       },
       {
+        companyName: "Cc hub",
+        companyTwitterHandle: "Cc_HUB",
+        foundersTwitterHandle: ["bosuntijani"],
+        industry: "Tech Education",
+        website: "https://cchub.africa",
+      },
+      {
         companyName: "Cellulant",
         companyTwitterHandle: "Cellulant",
         foundersTwitterHandle: ["KenNjorogeCG", "BolajiAkinboro"],
@@ -164,7 +171,7 @@ export const techCompanies = [
         foundersTwitterHandle: ["imnotjesusimru1"],
         industry: "Mobile company",
         website: "https://www.cobiinteractive.com",
-      }
+      },
     ],
   },
   {
@@ -211,6 +218,13 @@ export const techCompanies = [
         website: "https://www.ecosokoni.co.ke",
       },
       {
+        companyName: "Edustipend",
+        companyTwitterHandle: "edustipend",
+        foundersTwitterHandle: ["meekg33k"],
+        industry: "Financial Aid",
+        website: "https://www.edustipend.org",
+      },
+      {
         companyName: "EGMarkets",
         companyTwitterHandle: "EGMarkets",
         foundersTwitterHandle: [],
@@ -242,6 +256,27 @@ export const techCompanies = [
         foundersTwitterHandle: ["justsay_didi", "alfaruqstories"],
         industry: "Digital pharmacy",
         website: "https://www.famasi.africa",
+      },
+      {
+        companyName: "Fuzu",
+        companyTwitterHandle: "Fuzu",
+        foundersTwitterHandle: ["JussiH", "navitail"],
+        industry: "HR Tech",
+        website: "https://www.fuzu.com",
+      },
+      {
+        companyName: "Findworka",
+        companyTwitterHandle: "findworka",
+        foundersTwitterHandle: ["iambankole"],
+        industry: "Software Development",
+        website: "https://findworka.com",
+      },
+      {
+        companyName: "Farmcrowdy",
+        companyTwitterHandle: "farmcrowdy",
+        foundersTwitterHandle: ["onyekaakumah"],
+        industry: "AgriTech",
+        website: "https://www.farmcrowdy.com",
       },
       {
         companyName: "Farmed",
@@ -277,13 +312,6 @@ export const techCompanies = [
         foundersTwitterHandle: ["ifluxdotapp"],
         industry: "Payment infrastructure",
         website: "https://iflux.app",
-      },
-      {
-        companyName: "Flying Doctors",
-        companyTwitterHandle: "FlyingDoctorsIC",
-        foundersTwitterHandle: ["NaijaFlyingDr"],
-        industry: "HealthCare",
-        website: "https://fdhic.com/",
       },
       {
         companyName: "Flux Tech Africa",
@@ -327,13 +355,6 @@ export const techCompanies = [
         industry: "fintech",
         website: "https://www.flocash.com",
       },
-       {
-        companyName: "flutterwave",
-        companyTwitterHandle: "theflutterwave",
-        foundersTwitterHandle: ["TechProd_Arch"],
-        industry: "fintech",
-        website: "https://www.flutterwave.com",
-      }
     ],
   },
   {
@@ -347,11 +368,32 @@ export const techCompanies = [
         website: "https://geotopup.com",
       },
       {
+        companyName: "Gokada",
+        companyTwitterHandle: "gokada_ng",
+        foundersTwitterHandle: ["fahad792"],
+        industry: "Transportation",
+        website: "https://gokada.ng",
+      },
+      {
+        companyName: "Gebeya",
+        companyTwitterHandle: "GebeyaTalent",
+        foundersTwitterHandle: ["amahinduka"],
+        industry: "Tech Talent Marketplace",
+        website: "https://gebeya.com",
+      },
+      {
         companyName: "GetEquity",
         companyTwitterHandle: "getequity",
         foundersTwitterHandle: ["bigbrutha_", "WilliamOkafor"],
         industry: "Startup Financing",
         website: "https://www.getequity.io",
+      },
+      {
+        companyName: "Gona",
+        companyTwitterHandle: "GonaJudy",
+        foundersTwitterHandle: ["gona_judy"],
+        industry: "Agritech",
+        website: "https://sttakenya.org/",
       },
       {
         companyName: "Grazac",
@@ -398,7 +440,7 @@ export const techCompanies = [
         companyTwitterHandle: "hytchafrica",
         foundersTwitterHandle: ["thislaolu"],
         industry: "Shared commuting.",
-        website: "https://hytch.africa",
+        website: "https://linktr.ee/hytchafrica",
       },
       {
         companyName: "Helium Health",
@@ -406,6 +448,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["ThisGokeBoySef"],
         industry: "Health Tech",
         website: "https://heliumhealth.com/",
+      },
+      {
+        companyName: "HydroIQ",
+        companyTwitterHandle: "Hydro_IQ",
+        foundersTwitterHandle: ["brianbosire"],
+        industry: "WaterTech",
+        website: "https://www.hydroiq.co.ke",
       },
     ],
   },
@@ -426,6 +475,20 @@ export const techCompanies = [
         industry: "Open community workspace",
         website: "https://ihub.co.ke",
       },
+      {
+        companyName: "Ingressive Capital",
+        companyTwitterHandle: "ingressivecap",
+        foundersTwitterHandle: ["mrmakoko"],
+        industry: "Venture Capital",
+        website: "https://www.ingressivecapital.com",
+      },
+      {
+        companyName: "IPI Power Tech",
+        companyTwitterHandle: "globalfreemedia",
+        foundersTwitterHandle: ["NABILZHADDAD1"],
+        industry: "Media",
+        website: "http://iptpowertech.com",
+      },
     ],
   },
   {
@@ -444,6 +507,27 @@ export const techCompanies = [
         foundersTwitterHandle: ["hachi"],
         industry: "JiggyTech",
         website: "https://www.jiggyvest.com",
+      },
+      {
+        companyName: "JUMO",
+        companyTwitterHandle: "JUMO_WORLD",
+        foundersTwitterHandle: ["andre_ivankio"],
+        industry: "FinTech",
+        website: "https://www.jumo.world",
+      },
+      {
+        companyName: "Jamii Africa",
+        companyTwitterHandle: "JamiiAfrica",
+        foundersTwitterHandle: ["liliankaivilu"],
+        industry: "InsurTech",
+        website: "https://jamii.co.ke",
+      },
+      {
+        companyName: "JokkoText",
+        companyTwitterHandle: "JokkoText",
+        foundersTwitterHandle: ["cheikhahmedt"],
+        industry: "Mobile Payments",
+        website: "https://jokkotext.com",
       },
       {
         companyName: "Jobberman",
@@ -520,6 +604,13 @@ export const techCompanies = [
         industry: "Logistics",
         website: "https://kwik.delivery",
       },
+      {
+        companyName: "KITS Technologies",
+        companyTwitterHandle: "KitsTech_",
+        foundersTwitterHandle: ["KitsTech_"],
+        industry: "Cyber Security solutions",
+        website: ":https://kits.ng/",
+      },
     ],
   },
   {
@@ -586,26 +677,27 @@ export const techCompanies = [
         industry: "telecommunication",
         website: "",
       },
-      { companyName: "Mpesa",
+      {
+        companyName: "Mpesa",
         companyTwitterHandle: "mpesa",
         foundersTwitterHandle: ["Sitiyo Lopokoiyit"],
         industry: "FinTech",
         website: "https://en.m.wikipedia.org/wiki/M-Pesa",
-     },
-     {
+      },
+      {
         companyName: "MainOne",
         companyTwitterHandle: "Mainoneservice",
         foundersTwitterHandle: [],
         industry: "Data Science",
         website: "https://www.mainone.net/",
-     },
-     {
+      },
+      {
         companyName: "Max",
         companyTwitterHandle: "maxdrive_ai",
         foundersTwitterHandle: ["bamtayo"],
         industry: "Transportation / Logistics",
         website: "https://www.max.ng/",
-     }, 
+      },
     ],
   },
   {
@@ -733,7 +825,7 @@ export const techCompanies = [
         foundersTwitterHandle: ["fejizzy"],
         industry: "E-commerce company",
         website: "http://www.mypatricia.com",
-      }
+      },
     ],
   },
   {
@@ -798,7 +890,7 @@ export const techCompanies = [
         industry: "Real Estate",
         website: "https://www.buysafehouse.com",
       },
-      
+
       {
         companyName: "Sembuse",
         companyTwitterHandle: "@sembuse.com",
@@ -838,7 +930,8 @@ export const techCompanies = [
         companyName: "Spatialnode",
         companyTwitterHandle: "spatialnodehq",
         foundersTwitterHandle: ["jeafreezy"],
-        industry: "Professional Networking, community, Social Media (micro blogging)",
+        industry:
+          "Professional Networking, community, Social Media (micro blogging)",
         website: "https://spatialnode.net/home",
       },
       {
@@ -949,6 +1042,13 @@ export const techCompanies = [
         industry: "Tech media/research ",
         website: "https://techcabal.com",
       },
+      {
+        companyName: "Trove",
+        companyTwitterHandle: "trovefinance",
+        foundersTwitterHandle: ["tomisuave"],
+        industry: "Digital Wealth (Fintech)",
+        website: "https://www.troveapp.co",
+      },
     ],
   },
   {
@@ -993,6 +1093,13 @@ export const techCompanies = [
         foundersTwitterHandle: ["VantagepayA"],
         industry: "FinTech",
         website: "https://vantagepay.com",
+      },
+      {
+        companyName: "Veenode Technologies",
+        companyTwitterHandle: "Veenode",
+        foundersTwitterHandle: ["VictorAkinode"],
+        industry: "Branding/Consulation",
+        website: "https://veenodetech.com/",
       },
       {
         companyName: "Vendease",
@@ -1106,11 +1213,11 @@ export const techCompanies = [
         website: "https://www.zando.co.za",
       },
       {
-        "companyName": "ZirooPay",
-        "companyTwitterHandle": "@ZirooPay",
-        "foundersTwitterHandle": ["omoniyiolawale", "oluwaniisola"],
-        "industry": "Fintech",
-        "website": "https://ziroopay.com"
+        companyName: "ZirooPay",
+        companyTwitterHandle: "@ZirooPay",
+        foundersTwitterHandle: ["omoniyiolawale", "oluwaniisola"],
+        industry: "Fintech",
+        website: "https://ziroopay.com",
       },
       {
         companyName: "zeepay",
