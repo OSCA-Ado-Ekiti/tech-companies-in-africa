@@ -98,6 +98,18 @@
 
 ## <a name="C"> </a>C
 
+- Company: [Carry1st](https://www.carry1st.com/)
+
+  - Founder: [@CordelRobin](https://twitter.com/cordelrobin)
+
+  - Industry: Gaming/Tech
+
+- Company: [Cc hub](https://cchub.africa)
+
+  - Founder: Bosun Tijani and Femi Longe
+
+  - Industry: Tech Education
+
 - Company: [CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
 
   - Founder: [@chizom\_](https://twitter.com/chizom_)
@@ -121,6 +133,12 @@
   - Founder: [@KBudhabhatti](https://twitter.com/KBudhabhatti)
 
   - Industry: Financial Services
+
+- Company: [Chipper Cash](https://chippercash.com)
+
+  - Founder: [@hamserunjogi](https://twitter.com/hamserunjogi) + [@maijidmoujaled](https://twitter.com/maijidmoujaled)
+
+  - Industry: Fintech
 
 ## <a name="D"> </a>D
 
@@ -149,6 +167,12 @@
   - Founders: [@chakaneld](https://twitter.com/chakaneld)
 
   - Industry: Fintech
+
+- Company: [Edustipend](https://www.edustipend.org/)
+
+  - Founders: [@meekg33k](https://twitter.com/meekg33k)
+
+  - Industry: Financial Aid
 
 - Company: [ecoSokoni](https://www.ecosokoni.co.ke/)
 
@@ -182,18 +206,30 @@
 
 ## <a name="F"> </a>F
 
-- Company: [FlyingDoctorsIC](http://fdinvestmentcompany.com/)
-
-  - Founder : [@NaijaFlyingDr](https://twitter.com/NaijaFlyingDr)
-
-  - Industry: HealthCare
-
 - Company: [FamasiAfrica](https://www.famasi.africa/plans-and-pricing/)
 
   - Founders: [@justsay_didi](https://twitter.com/justsay_didi) x [@alfaruqstories](https://twitter.com/alfaruqstories)
 
   - Industry: Digital pharmacy
 
+- Company: [Fuzu](https://www.fuzu.com)
+
+  - Founders: [@JussiH](https://twitter.com/JussiH) x [@navitail](https://twitter.com/navitail)
+
+  - Industry: HR Tech
+
+- Company: [Findworka](https://findworka.com)
+
+  - Founders: [@iambankole](https://twitter.com/iambankole)
+
+  - Industry: software development
+
+  - Company: [Farmcrowdy](https://www.farmcrowdy.com)
+
+  - Founders: [@onyekaakumah](https://twitter.com/onyekaakumah)
+
+  - Industry: Agric Tech
+  
 - Company: [Farmed_NG](https://facebook.com/FarmedForte/)
 
   - Founders : [@jay_can_do](https://twitter.com/jay_can_do) × [@27kJamal](https://twitter.com/27kJamal) × [@edidiongmekong](https://twitter.com/edidiongmekong)
@@ -223,14 +259,39 @@
   - Founder: [@isokowalter](https://twitter.com/isokowalter)
 
   - Industry: Tech Consulting + Software Services
+  - 
+- Company: [Flutterwave](https://flutterwave.com/)
+
+  - Founder: [@Techprod_Arch](https://twitter.com/techprod_arch)
+
+  - Industry: FinTech
+
 
 ## <a name="G"> </a>G
 
-- Company: [getBumpa](https://getbumpa.com/)
+- Company: [Geotopup](https://geotopup.com)
 
-  - Founders : [@tushgeek](https://twitter.com/tushgeek) + [@TeeJaY_Codes](https://twitter.com/TeeJaY_Codes)
+  - Founders : [@ejilolahmed](https://twitter.com/ejilolahmed)
 
-  - Industry : E-commerce Founders
+  - Industry : FinTech
+
+  - Company: [Gokada](https://gokada.ng)
+
+  - Founders : [@fahad792](https://twitter.com/fahad792)
+
+  - Industry : Transportation
+
+  - Company: [Gebeya](https://gebeya.com)
+
+  - Founders : [@amahinduka](https://twitter.com/amahinduka)
+
+  - Industry : Tech Talent Marketplace
+
+- Company: [Gona](https://sttakenya.org)
+
+  - Founders : [@gona_judy](https://twitter.com/GonaJudy)
+
+  - Industry : Agritech
 
 - Company: [getequity](https://www.getequity.io/)
 
@@ -264,13 +325,13 @@
 
 ## <a name="H"> </a>H
 
-- Company: [helicarrierinc](https://helicarrier.studio/)
+- Company: [HydroIQ](https://www.hydroiq.co.ke)
 
-  - Founders: [@ireaderinokun](https://twitter.com/ireaderinokun) + [@timigod](https://twitter.com/timigod) + [@alephile](https://twitter.com/alephile)
+  - Founders: [@brianbosire](https://twitter.com/brianbosire)
 
-  - Industry: Web3
+  - Industry: WaterTech
 
-* Company: [hytchafrica](https://hytch.africa/)
+* Company: [hytchafrica](https://linktr.ee/hytchafrica)
 
   - Founder: [@thislaolu](https://twitter.com/thislaolu)
 
@@ -296,11 +357,39 @@
 
 ## <a name="I"> </a>I
 
-- Company: [ifluxdotapp](https://iflux.app/)
+- Company: [Ingressive Capital](https://www.ingressivecapital.com)
 
-  - Founder: [@ifluxdotapp](https://twitter.com/ifluxdotapp)
+  - Founder: [@mrmakoko](https://twitter.com/mrmakoko)
+
 
   - Industry: Payment infrastructure
+ 
+- Company: [IPI Power Tech](http://iptpowertech.com/)
+
+  - Founder: [@NABILZHADDAD1](https://twitter.com/NABILZHADDAD1)
+
+  - Industry: Media
+
+
+
+- Company: [Interswitch](https://www.interswitchgroup.com)
+
+
+  - Founder: [@mitchelelegbe](https://twitter.com/mitchelelegbe) + [@charlesifedi](https://twitter.com/charlesifedi)
+
+  - Industry: Fintech
+
+- Company: [iHub](https://ihub.co.ke)
+
+  - Founder: [@bosuntijani](https://twitter.com/bosuntijani)
+
+- Company: [Interswitch](https://www.interswitchgroup.com)
+
+  - Founder: [@MitchelElegbe](https://twitter.com/MitchelElegbe)
+
+  - Industry: Fintech
+
+  - Industry:Open community workspace
 
 ## <a name="J"> </a>J
 
@@ -315,6 +404,50 @@
   - Founder: [@CoucoSeth](https://twitter.com/JastTech)
 
   - Industry: Mobile and Web apps service provider
+
+
+- Company: [Jumia Travel](https://travel.jumia.com)
+
+  - Founder: [@sachapoignonnec](https://twitter.com/sachapoignonnec) + [@raphaelapter](https://twitter.com/raphaelapter)
+
+  - Industry: Travel
+
+- Company: [Jumia Deals](https://deals.jumia.com.ng)
+
+  - Founder: [@samchappatte](https://twitter.com/samchappatte) + [@sachapoignonnec](https://twitter.com/sachapoignonnec)
+
+  - Industry: E-commerce
+
+- Company: [JUMO](https://www.jumo.world)
+
+  - Founder: [@andre_ivankio](https://twitter.com/andre_ivankio)
+
+  - Industry: FinTech
+
+- Company: [Jamii Africa](https://jamii.co.ke)
+
+  - Founder: [@liliankaivilu](https://twitter.com/liliankaivilu)
+
+  - Industry: InsurTech
+
+- Company: [JokkoText](https://jokkotext.com)
+
+  - Founder: [@cheikhahmedt](https://twitter.com/cheikhahmedt)
+
+  - Industry: Mobile Payments
+
+- Company: [Jobberman](https://www.jobberman.com)
+
+  - Founder: [@LekanOlude](https://twitter.com/LekanOlude)
+
+  - Industry: Technology
+
+- Company: [Jumia](https://jumia.com.ng/)
+
+  - Founder: [@kofiafaedor](https://twitter.com/kofiafaedor)
+
+  - Industry: Logistics
+
 
 ## <a name="K"> </a>K
 
@@ -354,6 +487,12 @@
 
   - Industry: Logistics
 
+- Company: [KITS Technologies](https://kits.ng/)
+
+  - Founder: [@KitsTech_](https://twitter.com/KitsTech_)
+
+  - Industry: Cyber Security solutions
+ 
 - Company: [Kwik](https://kwik.delivery/)
 
   - Founder: [@RomainPoirot-lellig](https://twitter.com/rplellig)
@@ -367,6 +506,11 @@
   - Founder: [@ridwan_olalere](https://twitter.com/ridwan_olalere)
 
   - Industry: FinTech
+- Company: [LoriSystems](https://www.lorisystems.com)
+
+  - Founder: [@joshsandler](https://twitter.com/joshsandler)
+
+  - Industry: Logistics/Tech
 
 ## <a name="M"> </a>M
 
@@ -387,6 +531,19 @@
   - Founder: [@WilliamsFatayo](https://twitter.com/WilliamsFatayo)
 
   - Industry: Logistics
+
+- Company: [MNT-Halan](https://mnt-halan.com)
+
+  - Founder: [@ahmedmohsen_](https://twitter.com/ahmedmohsen_) + [@mohamedaboulnag](https://twitter.com/mohamedaboulnag) + [@youssefelfakhr](https://twitter.com/youssefelfakhr)
+
+  - Industry: Fintech
+
+- Company: [Max](https://www.max.ng/)
+
+  - Founder: [@bamtayo](https://twitter.com/bamtayo)
+
+  - Industry: Transportation / Logistics
+
 
 ## <a name="N"> </a>N
 
@@ -427,6 +584,12 @@
   - Founders: [@Mzter_sam](https://twitter.com/Mzter_sam)
 
   - Industry: Payment infrastructure
+
+- Company: [Opay](https://www.opayweb.com)
+
+    - Founders: [@yhui_zhou](https://twitter.com/yhui_zhou) + [@olu_akande](https://twitter.com/olu_akande) + [@sokin_abiola](https://twitter.com/sokin_abiola)
+
+  - Industry: Fintech
 
 ## <a name="P"> </a>P
 
@@ -600,6 +763,12 @@
 
   - Industry: Tech NGO
 
+- Company: [Trove](https://www.troveapp.co)
+
+  - Founders: ["tomisuave"](https://twitter.com/tomisuave)
+
+  - Industry: Digital Wealth (Fintech)
+
 ## <a name="U"> </a>U
 
 - Company: [uLessonApp](https://ulesson.com/)
@@ -628,6 +797,12 @@
   
   - Industry:  multi-cloud solutions
 
+- company: [Veenode](https://veenodetech.com/)
+
+  - Founder: [@VictorAkinode](https://www.twitter.com/VictorAkinode)
+
+  -Industry: Branding/Consulation
+
 ## <a name="W"> </a>W
 
 - Company: [WellaHealth](https://www.wellahealth.com/)
@@ -648,6 +823,12 @@
 
   - Industry: E-commerce
   
+- Company: [Wave](https://www.waveapps.com)
+
+  - Founder: [@drew_durbin](https://twitter.com/drew_durbin) + [@lincolnquirk](https://twitter.com/lincolnquirk)
+
+  - Industry: Fintech
+  
 ## <a name="X"> </a>X
 
 - Company: [xendfinance](https://xend.finance/)
@@ -664,13 +845,13 @@
 
   - Industry: FunTech
   
-  ## <a name="Z"> </a> Z
+## <a name="Z"> </a> Z
   
- - Company: [Zoracom] (https://www.zoracom.com/)
+- Company: [Zoracom] (https://www.zoracom.com/)
   
-   - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
+  - Founder:[John Nwachukwu] (https://twitter.com/ZoracomLtd)
   
-   - Industry: FinTech
+  - Industry: FinTech
   
 - Company : [ZirooPay](https://ziroopay.com/)
 
@@ -683,7 +864,6 @@
   - Founder: [@andrewretail](https://twitter.com/andrewretail)
   
   - Industry: Fintech
-
 
 - Company : [zando](https://www.zando.co.za/)
 
