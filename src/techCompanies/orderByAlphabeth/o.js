@@ -39,7 +39,7 @@ export default {
     {
       companyName: "OPay",
       companyTwitterHandle: "OPay_NG",
-      foundersTwitterHandle: ["yhui_zhou", "olu_akande", "sokin_abiola"],
+      foundersTwitterHandle: ["OPay_NG"],
       industry: "Fintech",
       website: "https://www.opayweb.com",
     },
