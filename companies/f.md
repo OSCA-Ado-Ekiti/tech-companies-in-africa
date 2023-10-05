@@ -55,10 +55,12 @@
   - Founder: [@isokowalter](https://twitter.com/isokowalter)
 
   - Industry: Tech Consulting + Software Services
-  - 
+   
+
 - Company: [Flutterwave](https://flutterwave.com/)
 
-  - Founder: [@Techprod_Arch](https://twitter.com/techprod_arch)
+  - Founder: [@TechProd_Arch](https://twitter.com/TechProd_Arch) + [@iaboyeji](https://twitter.com/iaboyeji)
 
   - Industry: FinTech
+
 
