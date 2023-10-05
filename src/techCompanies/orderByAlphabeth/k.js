@@ -9,6 +9,13 @@ export default {
       website: "https://kashbase.com",
     },
     {
+      companyName: "konga",
+      companyTwitterHandle: "ShopKonga",
+      foundersTwitterHandle: ["SimShagaya"],
+      industry: "E-commerce and Technology",
+      website: "https://www.konga.com/",
+    },
+    {
       companyName: "Kloud Commerce",
       companyTwitterHandle: "KloudCommerceHQ",
       foundersTwitterHandle: ["docolumide"],
