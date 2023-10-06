@@ -28,6 +28,6 @@
 
 - Company: [Whogohost](https://www.whogohost.ng)
 
-  - Founder: [@tobiobaniyi](https://twitter.com/tobiobaniyi)
+  - Founder: [@tobaniyi](https://twitter.com/tobaniyi)
 
-  - Industry: Web Hosting and Internet Related Services
+  - Industry: Web Hosting & Internet-Related Services
