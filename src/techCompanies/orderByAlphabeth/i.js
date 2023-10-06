@@ -30,6 +30,13 @@ export default {
       website: "https://www.ingressivecapital.com",
     },
     {
+      companyName: "irokotv",
+      companyTwitterHandle: "irokotv",
+      foundersTwitterHandle: ["JasonNjoku"],
+      industry: "Online Entertainment",
+      website: "https://irokotv.com/",
+    },
+    {
       companyName: "IPI Power Tech",
       companyTwitterHandle: "globalfreemedia",
       foundersTwitterHandle: ["NABILZHADDAD1"],
