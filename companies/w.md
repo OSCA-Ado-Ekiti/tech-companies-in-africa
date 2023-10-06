@@ -25,4 +25,9 @@
   - Founder: [@drew_durbin](https://twitter.com/drew_durbin) + [@lincolnquirk](https://twitter.com/lincolnquirk)
 
   - Industry: Fintech
-  
+
+- Company: [Whogohost](https://www.whogohost.ng)
+
+  - Founder: [@tobiobaniyi](https://twitter.com/tobiobaniyi)
+
+  - Industry: Web Hosting and Internet Related Services
