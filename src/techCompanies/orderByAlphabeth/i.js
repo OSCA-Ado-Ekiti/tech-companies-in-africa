@@ -9,6 +9,13 @@ export default {
       website: "https://www.interswitchgroup.com",
     },
     {
+      companyName: "irokotv",
+      companyTwitterHandle: "irokotv",
+      foundersTwitterHandle: ["JasonNjoku"],
+      industry: "Online Entertainment",
+      website: "https://irokotv.com/",
+    },
+    {
       companyName: "iHub",
       companyTwitterHandle: "iHub",
       foundersTwitterHandle: ["bosuntijani"],
