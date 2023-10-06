@@ -15,5 +15,12 @@ export default {
       industry: "Health Tech",
       website: "https://www.wellahealth.com",
     },
+    {
+      companyName: "Whogohost",
+      companyTwitterHandle: "whogohost",
+      foundersTwitterHandle: ["tobaniyi"],
+      industry: "Web Hosting & Internet-Related Services",
+      website: "https://www.whogohost.ng",
+    },
   ],
 };
