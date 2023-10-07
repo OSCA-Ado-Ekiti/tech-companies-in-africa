@@ -1,4 +1,4 @@
-import { techCompanies } from "./techCompanies.js";
+import techCompanies from "./techCompanies/index.js";
 
 //constants
 const mainSection = document.querySelector(".main-wrapper");
@@ -13,35 +13,34 @@ searchBar.addEventListener("keyup", (e) => {
 
   let results = [];
 
-  companyResult.forEach(({ name, company }) => {
-    const result = company.filter((item) =>
-      item.companyName.toLowerCase().includes(searchResult)
+  companyResult.forEach(({ startsWith, companies }) => {
+    const result = companies.filter((company) =>
+      company.companyName.toLowerCase().includes(searchResult)
     );
 
-    results = [...results, { name: name, company: result }];
+    results = [...results, { startsWith, companies: result }];
   });
 
   showCompanies(results);
 });
 
-const showCompanies = (content) => {
-  const techCompaniesHTML = content
-    .map((details) => {
-      console.log(details);
+const showCompanies = (companyGroups) => {
+  const techCompaniesHTML = companyGroups
+    .map((companyGroup) => {
       return `
-    <h2 class="section-id">${details.name}</h2>
+    <h2 class="section-id">${companyGroup.startsWith}</h2>
 
     <ul class="companies-list">
-    ${details.company
-      .map((item) => {
+    ${companyGroup.companies
+      .map((company) => {
         return `
-        <section id=${details.name}>
+        <section id=${companyGroup.startsWith}>
               <li class="company-card">
-                <h3 class="company-card_name">${item.companyName}</h3>
+                <h3 class="company-card_name">${company.companyName}</h3>
 
                 <a
                   class="company-card_website"
-                  href="${item.website}"
+                  href="${company.website}"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -50,11 +49,13 @@ const showCompanies = (content) => {
                     alt="external link icon"
                 /></a>
 
-                <p class="company-card_industry">Industry: ${item.industry}</p>
+                <p class="company-card_industry">Industry: ${
+                  company.industry
+                }</p>
 
                 <p class="company-card_founders">
                  Founders:
-                  ${item.foundersTwitterHandle
+                  ${company.foundersTwitterHandle
                     .map(
                       (founder) =>
                         `<a
@@ -70,10 +71,10 @@ const showCompanies = (content) => {
                 <p class="company-card_twitter-handle">
                   Twitter Handle:
                   <a
-                    href="http://twitter.com/${item.companyTwitterHandle}"
+                    href="http://twitter.com/${company.companyTwitterHandle}"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >@${item.companyTwitterHandle}</a
+                    >@${company.companyTwitterHandle}</a
                   >
                 </p>
               </li>
