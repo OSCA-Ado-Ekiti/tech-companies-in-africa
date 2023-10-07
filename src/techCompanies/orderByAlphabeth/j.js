@@ -50,5 +50,12 @@ export default {
       industry: "Logistics",
       website: "https://jumia.com.ng/",
     },
+    {
+      companyName: "J.P. Morgan  ",
+      companyTwitterHandle: "Jpmorgan",
+      foundersTwitterHandle: ["John Pierpont Morgan"],
+      industry: "Financial Services",
+      website: "https://www.jpmorgan.com/",
+    },
   ],
 };
