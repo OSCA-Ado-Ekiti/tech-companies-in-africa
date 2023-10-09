@@ -29,5 +29,12 @@ export default {
       industry: "AgroTech,Automation",
       website: "https://releaf.africa",
     },
+    {
+      companyName: "Rectron Holdings",
+      companyTwitterHandle: "Rectron",
+      foundersTwitterHandle: ["Spencer Chen"],
+      industry: "Hardware/Logistics/Marketing",
+      website: "https://www.rectron.co.za/home",
+    },
   ],
 };
