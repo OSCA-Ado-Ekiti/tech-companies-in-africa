@@ -14,6 +14,13 @@ export default {
       foundersTwitterHandle: [" "],
       industry: "Crypto Assets Exchange",
       website: "https://www.quidax.com/",
+    },
+    {
+      companyName: "Quidax",
+      companyTwitterHandle: "@QuidaxGlobal",
+      foundersTwitterHandle: [" "],
+      industry: "Crypto Assets Exchange",
+      website: "https://www.quidax.com/",
     }
   ],
 };

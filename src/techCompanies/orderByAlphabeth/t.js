@@ -97,5 +97,12 @@ export default {
       industry: "Digital Wealth (Fintech)",
       website: "https://www.troveapp.co",
     },
+    {
+      companyName: "Telneting",
+      companyTwitterHandle: "telneting",
+      foundersTwitterHandle: ["victorakinode"],
+      industry: "Telecommunication",
+      website: "https://www.telneting.com",
+    },
   ],
 };

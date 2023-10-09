@@ -32,7 +32,7 @@ export default {
     {
       companyName: "Rectron Holdings",
       companyTwitterHandle: "Rectron",
-      foundersTwitterHandle: ["Spencer Chen"],
+      foundersTwitterHandle: ["SpencerChen"],
       industry: "Hardware/Logistics/Marketing",
       website: "https://www.rectron.co.za/home",
     },

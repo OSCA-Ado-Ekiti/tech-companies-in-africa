@@ -36,5 +36,12 @@ export default {
       industry: "Logistics",
       website: "https://errandlr.com",
     },
+    {
+      companyName: "Entersekt",
+      companyTwitterHandle: "Entersekt",
+      foundersTwitterHandle: ["SchalkNolte"],
+      industry: "Fintech",
+      website: "https://entersekt.com",
+    },
   ],
 };

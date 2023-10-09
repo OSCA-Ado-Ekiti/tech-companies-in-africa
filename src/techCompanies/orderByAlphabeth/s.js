@@ -86,5 +86,12 @@ export default {
       industry: "Promotional Product Management",
       website: "https://stickerkeen.com",
     },
+    {
+      companyName: "Starknet",
+      companyTwitterHandle: "Starknet",
+      foundersTwitterHandle: ["Diegooliva"],
+      industry: "Blockchain",
+      website: "https://www.starknet.io/en",
+    },
   ],
 };
