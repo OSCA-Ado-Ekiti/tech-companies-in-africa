@@ -37,3 +37,9 @@
   - Founders: [@saintmalik_](https://twitter.com/saintmalik_)
 
   - Industry: Promotional Product Management
+
+  - Company: [spatialnodehq](https://spatialnode.net/home)
+
+  - Founder: [@jeafreezy](https://twitter.com/jeafreezy)
+
+  - Industry: Professional Networking, community, Social Media (micro blogging)

@@ -8,6 +8,12 @@
 
   - Industry: Gaming/Tech
 
+- Company: [Casvo Digital](https://www.casvodigital.com/)
+
+  - Founder: Kingsley sunday
+
+  - Industry: Software Development
+
 - Company: [Cc hub](https://cchub.africa)
 
   - Founder: Bosun Tijani and Femi Longe

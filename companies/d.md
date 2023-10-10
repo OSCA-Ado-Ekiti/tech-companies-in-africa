@@ -19,3 +19,9 @@
   - Founders : [@NanaOBosompem](https://twitter.com/NanaBosompem)
 
   - Industry : Health
+
+- Company: [Deint Web](https://dientweb.net/)
+
+  - Founders : [@_aabiodun](https://twitter.com/_aabiodun)
+
+  - Industry : Web Design Agency 

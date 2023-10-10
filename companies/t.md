@@ -3,12 +3,6 @@
 [Return to README](../README.md)
 
 
-- Company: [spatialnodehq](https://spatialnode.net/home)
-
-  - Founder: [@jeafreezy](https://twitter.com/jeafreezy)
-
-  - Industry: Professional Networking, community, Social Media (micro blogging)
-
 - Company : [TalentQL](https://talentql.com/)
 
   - Founder: [@AdewaleYusuf\_](https://twitter.com/AdewaleYusuf_) + [@hackSultan](https://twitter.com/hackSultan)
@@ -62,3 +56,9 @@
   - Founders: ["tomisuave"](https://twitter.com/tomisuave)
 
   - Industry: Digital Wealth (Fintech)
+
+- Company: [TOG Africa](https://togafrica.com)
+
+  - Founders: Akinwumi Michael
+
+  - Industry: Software Development

@@ -9,6 +9,13 @@ export default {
       website: "https://carry1st.com",
     },
     {
+      companyName: "Casvo Digital",
+      companyTwitterHandle: "casvodigitalng",
+      foundersTwitterHandle: ["kingblac01"],
+      industry: "Software Development",
+      website: "https://casvodigital.com",
+    },
+    {
       companyName: "Cc hub",
       companyTwitterHandle: "Cc_HUB",
       foundersTwitterHandle: ["bosuntijani"],

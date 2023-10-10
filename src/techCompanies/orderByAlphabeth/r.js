@@ -29,5 +29,12 @@ export default {
       industry: "AgroTech,Automation",
       website: "https://releaf.africa",
     },
+    {
+      companyName: "Reconnaissance Technologies",
+      companyTwitterHandle: "recontech_ng",
+      foundersTwitterHandle: ["CodeMaverick69"],
+      industry: "IT Solution for Sme & SmBs",
+      website: "https://reconnaissancetechnologies.com",
+    },
   ],
 };
