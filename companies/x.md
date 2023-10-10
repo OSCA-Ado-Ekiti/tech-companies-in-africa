@@ -7,3 +7,9 @@
   - Founder: [@AronuUgochukwu](https://twitter.com/AronuUgochukwu)
 
   - Industry: DeFi
+
+ - Company: [Xpertech Solutions Group](https://xpertechsolutionsltd.com/)
+
+  - Founder: Engr. Olanrewaju Awoyemi
+
+  - Industry: Application Management & Support 

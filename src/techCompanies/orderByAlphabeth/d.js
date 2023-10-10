@@ -29,5 +29,12 @@ export default {
       industry: "Media",
       website: "https://disha.page",
     },
+    {
+      companyName: "Deint Web",
+      companyTwitterHandle: "dientweb",
+      foundersTwitterHandle: ["_aabiodun"],
+      industry: "Web Design Agency ",
+      website: "https://dientweb.net",
+    },
   ],
 };
