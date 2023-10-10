@@ -97,5 +97,12 @@ export default {
       industry: "Digital Wealth (Fintech)",
       website: "https://www.troveapp.co",
     },
+    {
+      companyName: "TOG Africa",
+      companyTwitterHandle: "TogAfrica",
+      foundersTwitterHandle: [""],
+      industry: "Software Development",
+      website: "https://www.togafrica.com",
+    },
   ],
 };

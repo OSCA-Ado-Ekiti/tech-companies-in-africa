@@ -15,5 +15,12 @@ export default {
       industry: "Fintech",
       website: "https://www.waveapps.com",
     },
+    {
+      companyName: "Xpertech Solutions Groupe",
+      companyTwitterHandle: "Xpertechsystems",
+      foundersTwitterHandle: [""],
+      industry: "Application Management & Support",
+      website: "https://www.xpertechsolutionsltd.com",
+    },
   ],
 };
