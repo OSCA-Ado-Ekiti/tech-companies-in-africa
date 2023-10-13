@@ -36,5 +36,12 @@ export default {
       industry: "Logistics",
       website: "https://errandlr.com",
     },
+    {
+      companyName: "eTransact",
+      companyTwitterHandle: "eTranzactPLC",
+      foundersTwitterHandle: ["Valentineobi_"],
+      industry: "Fintech",
+      website: "https://www.etranzact.com/",
+    },
   ],
 };
