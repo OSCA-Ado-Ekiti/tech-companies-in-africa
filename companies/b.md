@@ -34,6 +34,14 @@
 
 - Company: [bukableco](https://www.bukable.co/)
 
-  - Founders: [@enyosam\_](https://twitter.com/enyosam_)
+  - Founders: [@enyosam_](https://twitter.com/enyosam_)
 
   - Industry: Freelance, Tech learning & Outsourcing
+ 
+- Company: [Bamboo](https://investbamboo.com)
+
+  - Founders: [@Richmonb](https://twitter.com/eRichmonb)
+
+  - Industry: Fintech
+ 
+- 
