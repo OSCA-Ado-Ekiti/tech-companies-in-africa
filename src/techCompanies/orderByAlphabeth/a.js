@@ -23,9 +23,9 @@ export default {
       website: "https://www.ace.ng",
     },
     {
-      companyName: "Accelerex)",
+      companyName: "Accelerex",
       companyTwitterHandle: "accelerexhq",
-      foundersTwitterHandle: [" "],
+      foundersTwitterHandle: [ ],
       industry: "Fintech",
       website: "https://www.globalaccelerex.com/",
     },
