@@ -42,5 +42,12 @@ export default {
       industry: "E-commerce Founders",
       website: "https://getbumpa.com",
     },
+    {
+      companyName: "Bamboo",
+      companyTwitterHandle: "investbamboo",
+      foundersTwitterHandle: ["Richmonb"],
+      industry: "Fintech",
+      website: "https://investbamboo.com",
+    },
   ],
 };
