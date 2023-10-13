@@ -9,6 +9,13 @@ export default {
       website: "https://paystack.com",
     },
     {
+      companyName: "paga",
+      companyTwitterHandle: "paga",
+      foundersTwitterHandle: ["oviosu"],
+      industry: "Financial Technology (Fintech)",
+      website: "https://www.mypaga.com/",
+    },
+    {
       companyName: "Pocket by Piggyvest",
       companyTwitterHandle: "@getpocketapp",
       foundersTwitterHandle: ["@OdunEweniyi"],

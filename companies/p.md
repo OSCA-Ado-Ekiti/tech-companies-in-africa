@@ -14,6 +14,12 @@
 
   - Industry: FinTech
 
+* Company: [paga](https://www.mypaga.com/)
+
+  - Founders: [@oviosu](https://twitter.com/oviosu)
+
+  - Industry:Financial Technology (Fintech)
+
 * Company : [Pickmeupservice]()
 
   - Founders: [@SkimaSax](https://twitter.com/SkimaSax) + [@AdewaleOretuga](https://twitter.com/AdewaleOretuga)
