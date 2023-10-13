@@ -49,3 +49,9 @@
   - Founders: [@ercineksin](https://pl.linkedin.com/in/ercineksin) + [@tundekehinde](https://ng.linkedin.com/in/tunde-kehinde-048aa635)
 
   - Industry: Logistics
+ 
+- Company: [Accelerex](https://www.globalaccelerex.com)
+
+  - Founder: [@accelerexhq](https://twitter.com/accelerexhq)
+
+  - Industry: Fintech
