@@ -23,6 +23,13 @@ export default {
       website: "https://www.ace.ng",
     },
     {
+      companyName: "Accelerex)",
+      companyTwitterHandle: "accelerexhq",
+      foundersTwitterHandle: [" "],
+      industry: "Fintech",
+      website: "https://www.globalaccelerex.com/",
+    },
+    {
       companyName: "Aerobotics",
       companyTwitterHandle: "Aerobotics_Intl",
       foundersTwitterHandle: ["benjimeltzer"],
