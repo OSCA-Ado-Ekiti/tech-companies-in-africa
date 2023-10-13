@@ -43,3 +43,10 @@
   - Founder: [@EcentricPayment](https://twitter.com/EcentricPayment)
 
   - Industry: Payment infrastructure
+
+- Company: [eTranzact](https://www.etranzact.com)
+
+  - Founder: [@Valentineobi_](https://twitter.com/Valentineobi_)
+
+  - Industry: Payment infrastructure
+  
