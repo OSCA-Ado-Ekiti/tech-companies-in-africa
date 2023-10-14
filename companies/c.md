@@ -8,7 +8,13 @@
 
   - Industry: Gaming/Tech
 
-- Company: [Casvo Digital](https://www.casvodigital.com/)
+- Company: [Carbon](https://www.getcarbon.co/)
+
+   - Founder: [@ngozidozie](https://twitter.com/ChijiokeD) + [@ngozidozie](https://twitter.com/ngozidozie)
+
+   - Industry: Fintech
+
+- Company: [Casvo](https://www.casvodigital.com/)
 
   - Founder: Kingsley sunday
 
@@ -22,7 +28,7 @@
 
 - Company: [CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
 
-  - Founder: [@chizom\_](https://twitter.com/chizom_)
+  - Founder: [@chizom_](https://twitter.com/chizom_)
 
   - Industry: Tech Education
 
