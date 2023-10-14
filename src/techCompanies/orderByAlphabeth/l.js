@@ -29,5 +29,12 @@ export default {
       industry: "Logistics/Tech",
       website: "https://www.lorisystems.com",
     },
+    {
+      companyName: "Lidya",
+      companyTwitterHandle: "Lidya_Finance",
+      foundersTwitterHandle: [],
+      industry: "Credit Infrastructure(Fintech)",
+      website: "https://www.lidya.info/",
+    },
   ],
 };
