@@ -39,7 +39,7 @@ export default {
     {
       companyName: "Cowrywise",
       companyTwitterHandle: "Cowrywise",
-      foundersTwitterHandle: [],
+      foundersTwitterHandle: ["razaqahmed1"],
       industry: "Digital Wealth (FinTech)",
       website: "https://cowrywise.com",
     },

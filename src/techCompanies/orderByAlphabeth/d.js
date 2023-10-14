@@ -36,5 +36,12 @@ export default {
       industry: "Web Design Agency ",
       website: "https://dientweb.net",
     },
+    {
+      companyName: "DotHost",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: ["thegrtnx"],
+      industry: "Web Hosting Company ",
+      website: "https://dothost.com.ng",
+    },
   ],
 };
