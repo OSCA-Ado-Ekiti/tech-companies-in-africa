@@ -71,5 +71,17 @@ export default {
       industry: "E-commerce company",
       website: "http://www.mypatricia.com",
     },
+    {
+      companyName: "patricia",
+      companyTwitterHandle: "patriciaswitch",
+      foundersTwitterHandle: ["fejizzy"],
+      industry: "E-commerce company",
+      website: "http://www.mypatricia.com",
+    },{
+      companyName: "palmpay",
+      companyTwitterHandle: ["palmpay_ng ","palmpaygh"],
+      industry: "Fin-Tech",
+      website: "http://www.palmpay.com",
+    },
   ],
 };
