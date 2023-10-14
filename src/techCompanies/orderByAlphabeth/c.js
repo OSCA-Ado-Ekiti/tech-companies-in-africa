@@ -2,6 +2,13 @@ export default {
   startsWith: "c",
   companies: [
     {
+      companyName: "Carbon",
+      companyTwitterHandle: "get_carbon",
+      foundersTwitterHandle: ["ngozidozie", "ChijiokeD"],
+      industry: "Fintech",
+      website: "https://www.getcarbon.co/",
+    },
+    {
       companyName: "Carry1st",
       companyTwitterHandle: "Carry1st",
       foundersTwitterHandle: [],
