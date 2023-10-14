@@ -526,6 +526,18 @@
 
   - Industry: Promotional Product Management
 
+  - Company: [Snapplify](https://home.snapplify.com)
+
+  - Founders: [@WesleyLynch](https://twitter.com/wesleylynch)
+
+  - Industry: Education Technology (EdTech)
+
+- Company: [SolarNow](https://home.solarnow.eu)
+
+  - Founders: [@WillemNolens](https://twitter.com/SolarNowBV)
+
+  - Industry: Solar energy
+
 ## <a name="T"> </a>T
 
 - Company: [Theflutterwave](https://www.flutterwave.com/us/)
