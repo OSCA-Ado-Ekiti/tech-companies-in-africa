@@ -51,6 +51,13 @@ export default {
       website: "https://flex.com.ng",
     },
     {
+      companyName: "FairMoney",
+      companyTwitterHandle: "fairmoney_ng",
+      foundersTwitterHandle: ["LaurinHainy"],
+      industry: "Fintech",
+      website: "https://www.fairmoney.io",
+    },
+    {
       companyName: "Flutterwave",
       companyTwitterHandle: "Theflutterwave",
       foundersTwitterHandle: ["TechProd_Arch", "iaboyeji"],
