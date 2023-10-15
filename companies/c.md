@@ -14,6 +14,12 @@
 
    - Industry: Fintech
 
+- Company: [Credpal](https://www.credpal.com)
+
+   - Founder: [@olorunfemi01](https://twitter.com/olorunfemi01)
+
+   - Industry: Fintech
+
 - Company: [Casvo](https://www.casvodigital.com/)
 
   - Founder: Kingsley sunday
