@@ -20,7 +20,7 @@
 
   - Industry:Financial Technology (Fintech)
 
-* Company : [Pickmeupservice]()
+* Company : [Pickmeupservice](https://mobile.pickmeup.com.ng)
 
   - Founders: [@SkimaSax](https://twitter.com/SkimaSax) + [@AdewaleOretuga](https://twitter.com/AdewaleOretuga)
 
@@ -28,7 +28,7 @@
 
 * Company: [paystack](https://paystack.com/)
 
-  - Founders: [@shollsman])(https://twitter.com/shollsman) + [@0x](https://twitter.com/Ox)
+  - Founders: [@shollsman](https://twitter.com/shollsman) + [@0x](https://twitter.com/Ox)
 
   - Industry: Payment infrastructure
 
