@@ -43,6 +43,13 @@ export default {
       industry: "Digital/Financial Services",
       website: "https://www.vodacom.co.za",
     },
+    { 
+      companyName: "Voguepay", 
+      companyTwitterHandle: "Voguepay", 
+      foundersTwitterHandle: ["ibromomo"], 
+      industry: "Fintech", 
+      website: "https://www.voguepay.com", 
+    },
     {
       companyName: "VeendHQ",
       companyTwitterHandle: "VeendHQ",
