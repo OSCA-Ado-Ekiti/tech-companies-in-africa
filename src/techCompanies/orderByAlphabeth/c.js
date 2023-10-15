@@ -30,6 +30,13 @@ export default {
       website: "https://cchub.africa",
     },
     {
+      companyName: "Credpal",
+      companyTwitterHandle: "Credpal",
+      foundersTwitterHandle: ["olorunfemi01"],
+      industry: "Fintech",
+      website: "https://www.credpal.com",
+    },
+    {
       companyName: "Cellulant",
       companyTwitterHandle: "Cellulant",
       foundersTwitterHandle: ["KenNjorogeCG", "BolajiAkinboro"],
