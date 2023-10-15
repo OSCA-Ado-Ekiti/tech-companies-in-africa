@@ -43,3 +43,9 @@
   - Founder : [@AdeleyeVictor\_](https://twitter.com/AdeleyeVictor_)
 
   - Industry : Crypto Payment Infrastructure/Web3
+ 
+* Company : [Palmpay](https://www.palmpay.com/)
+
+  - Founders: [Transsion Holdings\] [@palmpay_ng](https://twitter.com/palmpay_ng) [@palmpaygh](https://twitter.com/palmpaygh)
+
+  - Industry: FinTEch
