@@ -13,3 +13,9 @@
   - Founder: [@VictorAkinode](https://www.twitter.com/VictorAkinode)
 
   -Industry: Branding/Consulation
+
+- Company: [Branch](https://voguepay.com/) 
+  
+   - Founders: [@ibromomo](https://twitter.com/ibromomo)
+    
+   - Industry: Fintech

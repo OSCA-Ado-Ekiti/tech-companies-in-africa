@@ -8,6 +8,12 @@
 
   - Industry: Business Banking
 
+- Company: [Branch](https://branch.com.ng/) 
+  
+   - Founders: [@djungian](https://twitter.com/djungian) + [@mattflannery](https://twitter.com/mattflannery) 
+    
+   - Industry: Fintech
+
 - Company: [BanklyNG](https://www.bankly.ng/)
 
   - Founders: Fredrick Adams x Tomilola Adriana
