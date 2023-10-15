@@ -8,6 +8,13 @@ export default {
       industry: "Digital Wealth (FinTech)",
       website: "https://www.bankly.ng",
     },
+    { 
+      companyName: "Branch", 
+      companyTwitterHandle: "branch", 
+      foundersTwitterHandle: ["mattflannery", "djungian"], 
+      industry: "Fintech", 
+      website: "https://www.branch.co", 
+    },
     {
       companyName: "Brass",
       companyTwitterHandle: "brassbanking",
