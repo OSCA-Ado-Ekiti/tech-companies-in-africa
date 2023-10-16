@@ -20,7 +20,7 @@
 
   - Industry: software development
 
-  - Company: [Farmcrowdy](https://www.farmcrowdy.com)
+- Company: [Farmcrowdy](https://www.farmcrowdy.com)
 
   - Founders: [@onyekaakumah](https://twitter.com/onyekaakumah)
 
@@ -63,4 +63,9 @@
 
   - Industry: FinTech
 
+- Company: [FairMoney](https://fairmoney.io)
+
+  - Founder [@LaurinHainy](https://twitter.com/LaurinHainy)
+  
+  - Industry: Fintech
 
