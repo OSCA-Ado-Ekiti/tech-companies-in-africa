@@ -50,4 +50,8 @@
 
   - Industry: Fintech
  
-- 
+- Company: [Beam](https://www.peoplebeam.co/)
+
+  - Founders: [@Akinfals](https://twitter.com/Akinfals)
+
+  - Industry: Peopletech

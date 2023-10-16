@@ -56,5 +56,12 @@ export default {
       industry: "Fintech",
       website: "https://investbamboo.com",
     },
+     {
+      companyName: "Beam",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: ["Akinfals"],
+      industry: "Peopletech",
+      website: "https://www.peoplebeam.co/",
+    }
   ],
 };
