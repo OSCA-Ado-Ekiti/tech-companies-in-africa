@@ -55,3 +55,9 @@
   - Founder: [@accelerexhq](https://twitter.com/accelerexhq)
 
   - Industry: Fintech
+
+- Company: [Arnergy](https://www.arnergy.com)
+
+  - Founder: [@femiadeyemo](https://twitter.com/femiadeyemo)
+
+  - Industry: Cleantech
