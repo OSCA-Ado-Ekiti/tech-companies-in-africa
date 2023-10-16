@@ -31,3 +31,9 @@
   - Founder: [@tobaniyi](https://twitter.com/tobaniyi)
 
   - Industry: Web Hosting & Internet-Related Services
+ 
+- Company: [Walletsafrica](https://app.wallets.africa)
+  
+  - Founder: [thejohnoke](https://https.twitter.com/thejohnoke)
+ 
+  - Industry: Fintech
