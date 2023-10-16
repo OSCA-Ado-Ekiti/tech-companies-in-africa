@@ -16,6 +16,13 @@ export default {
       website: "https://www.mypaga.com/",
     },
     {
+      companyName: "P2Vest",
+      companyTwitterHandle: "p2vest",
+      foundersTwitterHandle: [ ],
+      industry: "Fintech",
+      website: "https://www.p2vest.com",
+    },
+    {
       companyName: "Pocket by Piggyvest",
       companyTwitterHandle: "@getpocketapp",
       foundersTwitterHandle: ["@OdunEweniyi"],
