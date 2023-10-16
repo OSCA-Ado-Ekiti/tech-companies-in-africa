@@ -34,7 +34,7 @@
 
 * Company: [Helium Health](http://heliumhealth.com/)
 
-  - Founder: [@Adegoke Olubisi], [@Dimeji Sofowora], [@Tito Ovia]
+  - Founder: [@Adegoke Olubisi] [@Dimeji Sofowora] [@Tito Ovia]
 
   - Industry: Health Care
 
