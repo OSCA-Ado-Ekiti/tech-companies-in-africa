@@ -22,5 +22,12 @@ export default {
       industry: "Web Hosting & Internet-Related Services",
       website: "https://www.whogohost.ng",
     },
+    {
+      companyName: "Wallets Africa",
+      companyTwitterHandle: "walletsafrica",
+      foundersTwitterHandle: ["thejohnoke"],
+      industry: "Fintech",
+      website: "https://app.wallets.africa",
+    },
   ],
 };
