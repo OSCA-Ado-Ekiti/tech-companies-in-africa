@@ -104,5 +104,12 @@ export default {
       industry: "Software Development",
       website: "https://www.togafrica.com",
     },
+    {
+      companyName: "Twiga Foods",
+      companyTwitterHandle: "TwigaFoods",
+      foundersTwitterHandle: ["njojo2012"],
+      industry: "Food Technology",
+      website: "https://www.twiga.com",
+    },
   ],
 };
