@@ -42,6 +42,13 @@ export default {
 			foundersTwitterHandle: [ 'NABILZHADDAD1' ],
 			industry: 'Media',
 			website: 'http://iptpowertech.com'
+		},
+		{
+			companyName: 'Instant Energy',
+			companyTwitterHandle: 'InstantenergyNG',
+			foundersTwitterHandle: [ 'JeremiahShal' ],
+			industry: 'CleanTech',
+			website: 'https://instantenergy.com.ng/'
 		}
 	]
 };

@@ -7,3 +7,9 @@
   - Founders: [@JasonNjoku](https://twitter.com/JasonNjoku)
 
   - Industry:Online Entertainment
+ 
+- Company: [instantenergy](https://instantenergy.com.ng/))
+
+  - Founders: [@JeremiahShal](https://twitter.com/JeremiahShal)
+
+  - Industry: CleanTech
