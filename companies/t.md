@@ -62,3 +62,9 @@
   - Founders: Akinwumi Michael
 
   - Industry: Software Development
+
+- Company: [Twiga Foods](https://twiga.com)
+
+  - Founder: Peter Njojo
+
+  - Industry: Food Technology
