@@ -60,7 +60,7 @@ export default {
     {
       companyName: "Arnergy",
       companyTwitterHandle: "arnergy",
-      foundersTwitterHandle: [""],
+      foundersTwitterHandle: ["https://twitter.com/femiadeyemo"],
       industry: "CleanTech",
       website: "https://arnergy.com/",
     },
