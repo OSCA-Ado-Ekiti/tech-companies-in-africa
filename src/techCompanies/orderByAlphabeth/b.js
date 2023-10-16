@@ -2,6 +2,13 @@ export default {
   startsWith: "b",
   companies: [
     {
+      companyName: "Babymigo",
+      companyTwitterHandle: "my_babymigo",
+      foundersTwitterHandle: ["Kemi_olawoye"],
+      industry: "Health Tech",
+      website: "https://babymigo.com",
+    },
+    {
       companyName: "Bankly",
       companyTwitterHandle: "BanklyNG",
       foundersTwitterHandle: [],

@@ -2,6 +2,12 @@
 
 [Return to README](../README.md)
 
+- Company: [babymigo](https://babymigo.com/)
+
+  - Founder: [Kemi Olawoye](https://twitter.com/Kemi_olawoye)
+
+  - Industry: Health Tech
+
 - Company: [brassbanking](https://www.trybrass.com/)
 
   - Founder: [akindolu](https://twitter.com/akindolu)
