@@ -8,43 +8,49 @@
 
   - Industry: Savings infrastructure
 
-* Company: [Patricia](https://www.mypatricia.co/)
+- Company: [Patricia](https://www.mypatricia.co/)
 
   - Founder: [@Fejizzy](https://twitter.com/Fejizzy)
 
   - Industry: FinTech
 
-* Company: [paga](https://www.mypaga.com/)
+- Company: [paga](https://www.mypaga.com/)
 
   - Founders: [@oviosu](https://twitter.com/oviosu)
 
   - Industry:Financial Technology (Fintech)
 
-* Company : [Pickmeupservice](https://mobile.pickmeup.com.ng)
+- Company : [Pickmeupservice](https://mobile.pickmeup.com.ng)
 
   - Founders: [@SkimaSax](https://twitter.com/SkimaSax) + [@AdewaleOretuga](https://twitter.com/AdewaleOretuga)
 
   - Industry: Logistics
 
-* Company: [paystack](https://paystack.com/)
+- Company: [paystack](https://paystack.com/)
 
   - Founders: [@shollsman](https://twitter.com/shollsman) + [@0x](https://twitter.com/Ox)
 
   - Industry: Payment infrastructure
 
-* Company: [PayPeckerHQ](https://paypecker.co/)
+- Company: [PayPeckerHQ](https://paypecker.co/)
 
   - Founder : [@docolumide](https://twitter.com/docolumide)
 
   - Industry: E-commerce
+  
+- Company: [P2Vest](https://p2vest.com)
 
-* Company : [payercoins](https://www.payercoins.com/)
+  - Founder: Austine Abolusoro
+  
+  - Industry: Fintech
+
+- Company : [payercoins](https://www.payercoins.com/)
 
   - Founder : [@AdeleyeVictor\_](https://twitter.com/AdeleyeVictor_)
 
   - Industry : Crypto Payment Infrastructure/Web3
  
-* Company : [Palmpay](https://www.palmpay.com/)
+- Company : [Palmpay](https://www.palmpay.com/)
 
   - Founders: [Transsion Holdings\] [@palmpay_ng](https://twitter.com/palmpay_ng) [@palmpaygh](https://twitter.com/palmpaygh)
 
