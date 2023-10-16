@@ -31,3 +31,10 @@
   - Founder: [@robertyenji](https://gh.linkedin.com/in/yenjofficial)
 
   - Industry: Software Services
+
+* Company: [Helium Health](http://heliumhealth.com/)
+
+  - Founder: [@Adegoke Olubisi], [@Dimeji Sofowora], [@Tito Ovia]
+
+  - Industry: Health Care
+
