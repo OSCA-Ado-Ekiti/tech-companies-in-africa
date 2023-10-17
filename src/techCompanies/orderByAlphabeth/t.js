@@ -37,6 +37,13 @@ export default {
       website: "",
     },
     {
+      companyName: "TribaPay",
+      companyTwitterHandle: "TribaPay",
+      foundersTwitterHandle: ["Boludmaestro"],
+      industry: "Fintech",
+      website: "https://www.TribaPay.com",
+    },
+    {
       companyName: "ToffeeTribe",
       companyTwitterHandle: "ToffeeTribe",
       foundersTwitterHandle: ["NgindaNganga", "KarambuMathai"],

@@ -20,6 +20,12 @@
   - Founder: [@Eloumeh](https://twitter.com/Eloumeh)
 
   - Industry: Data and Marketing technology
+ 
+- Company: [TribaPay](https://tribapay.com/)
+
+  - Founder: [Boludmaestro](https://twitter.com/Boludmaestro)
+
+  - Industry: FinTech
 
 - Company: [ToffeeTribe](https://www.toffeetribe.com/)
 
