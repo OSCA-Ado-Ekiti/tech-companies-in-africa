@@ -14,6 +14,12 @@
 
   - Industry: HR Tech
 
+- Company: [Fint](https://www.fint.ng)
+
+  - Founder: Chiwete John-Njokanma
+
+  - Industry: FinTech
+
 - Company: [Findworka](https://findworka.com)
 
   - Founders: [@iambankole](https://twitter.com/iambankole)
