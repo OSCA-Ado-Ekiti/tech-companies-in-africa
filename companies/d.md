@@ -22,6 +22,12 @@
 
 - Company: [Deint Web](https://dientweb.net/)
 
-  - Founders : [@_aabiodun](https://twitter.com/_aabiodun)
+  - Founders : [@\_aabiodun](https://twitter.com/_aabiodun)
 
-  - Industry : Web Design Agency 
+  - Industry : Web Design Agency
+
+- Company: [DotHost](https://dothost.com.ng/)
+
+  - Founders : [@thegrtnx](https://twitter.com/thegrtnx)
+
+  - Industry : Web Hosting Company

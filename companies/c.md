@@ -28,7 +28,7 @@
 
 - Company: [Cowrywise](https://cowrywise.com/)
 
-  - Founders: Razaq Ahmed x Edward Popoola
+  - Founders:[razaqahmed1](https://twitter.com/razaqahmed1) Razaq Ahmed x Edward Popoola
 
   - Industry: Digital Wealth (Fintech)
 
