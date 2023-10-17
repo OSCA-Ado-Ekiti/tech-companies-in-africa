@@ -23,13 +23,6 @@ export default {
       website: "https://pocketapp.com/",
     },
     {
-      companyName: "P2Vest",
-      companyTwitterHandle: "p2vest",
-      foundersTwitterHandle: [ ],
-      industry: "Fintech",
-      website: "https://www.p2vest.com",
-    },
-    {
       companyName: "Piggyvest",
       companyTwitterHandle: "@piggyBankNG",
       foundersTwitterHandle: ["@OdunEweniyi"],
