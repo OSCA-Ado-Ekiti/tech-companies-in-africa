@@ -37,6 +37,13 @@ export default {
       website: "https://www.aerobotics.com/",
     },
     {
+      companyName: "AfricArena",
+      companyTwitterHandle: "AFRICARENA",
+      foundersTwitterHandle: ["capemaverick"],
+      industry: "Tech Accelerator",
+      website: "https://africarena.com",
+    },
+    {
       companyName: "Africa's Talking",
       companyTwitterHandle: "Africastalking",
       foundersTwitterHandle: ["sgikandi"],

@@ -56,6 +56,12 @@
 
   - Industry: Fintech
 
+- Company: [AfricArena](https://www.africarena.com/)
+
+  - Founders: [@Christophe Viarnaud](https://x.com/@capemaverick)
+
+  - Industry: Tech Accelerator
+ 
 - Company: [Arnergy](https://www.arnergy.com)
 
   - Founder: [@femiadeyemo](https://twitter.com/femiadeyemo)
