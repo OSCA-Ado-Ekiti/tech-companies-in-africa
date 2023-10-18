@@ -8,6 +8,12 @@
 
   - Industry: Healthtech
 
+- Company: [NowNow](https://www.NowNow.ng)
+
+  - Founder: Sahir Berry
+
+  - Industry: FinTech
+
 - Company : [Neviwi](https://neviwi.com/)
 
   - Founder: [@OnyimeStan](https://twitter.com/OnyimeStan) + [@Chinemife](https://twitter.com/chinemife)
