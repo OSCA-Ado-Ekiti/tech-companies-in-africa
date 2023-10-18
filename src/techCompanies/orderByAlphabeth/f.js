@@ -16,6 +16,13 @@ export default {
       website: "https://www.fuzu.com",
     },
     {
+      companyName: "Fint",
+      companyTwitterHandle: "fint_ng",
+      foundersTwitterHandle: [ ],
+      industry: "Fintech",
+      website: "https://www.fint.ng",
+    },
+    {
       companyName: "Findworka",
       companyTwitterHandle: "findworka",
       foundersTwitterHandle: ["iambankole"],
