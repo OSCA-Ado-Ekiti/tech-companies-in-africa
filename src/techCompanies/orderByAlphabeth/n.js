@@ -16,5 +16,12 @@ export default {
       industry: "Healthtech",
       website: "https://www.nguvuhealth.com",
     },
+    {
+      companyName: "NowNow",
+      companyTwitterHandle: "NowNowNigeria",
+      foundersTwitterHandle: [ ],
+      industry: "Fintech",
+      website: "https://www.nownow.ng",
+    },
   ],
 };
