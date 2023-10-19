@@ -64,5 +64,12 @@ export default {
       industry: "Cyber Security solutions",
       website: ":https://kits.ng/",
     },
+    {
+      companyName: "Koree Africa",
+      companyTwitterHandle: "koreeafrica",
+      foundersLinkedInHandle: ["gsmagalie"],
+      industry: "Fintech",
+      website: "https://koree.africa/en/"
+    },
   ],
 };

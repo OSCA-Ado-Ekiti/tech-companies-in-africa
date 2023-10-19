@@ -50,5 +50,12 @@ export default {
       industry: "Fintech",
       website: "https://www.etranzact.com/",
     },
+    {
+      companyName: "Enza Capital",
+      companyTwitterHandle: "EnzaCapital",
+      foundersLinkedInHandle: ["John Lazar"],
+      industry: "VC",
+      website: "https://enza.capital/",
+    },
   ],
 };

@@ -43,5 +43,12 @@ export default {
       industry: "WaterTech",
       website: "https://www.hydroiq.co.ke",
     },
+    {
+      companyName: "Haba",
+      companyTwitterHandle: "Usehaba_app",
+      foundersTwitterHandle: ["https://www.twitter.com/onwe_stephen"],
+      industry: "InsureTech",
+      website: "https://haba.insure/",
+    },
   ],
 };
