@@ -104,5 +104,12 @@ export default {
       industry: "Software Development",
       website: "https://www.togafrica.com",
     },
+    {
+      companyName: "The Generalissimo Media ",
+      companyTwitterHandle: "TheGeneralMedia",
+      foundersTwitterHandle: ["MrTaofeeqAzeez"],
+      industry: "Website Design Agency",
+      website: "https://thegeneralissimomedia.com",
+    },
   ],
 };

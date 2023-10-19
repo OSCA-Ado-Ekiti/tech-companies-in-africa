@@ -64,5 +64,12 @@ export default {
       industry: "Venture capital",
       website: "https://vc4a.com",
     },
+    {
+      companyName: "VSASF NIG LTD",
+      companyLinkedinHandle: "https://www.linkedin.com/company/90369277/",
+      foundersTwitterHandle: [""],
+      industry: "Website development and Maintenance",
+      website: "https://vsasftechng.com",
+    },
   ],
 };

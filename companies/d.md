@@ -25,3 +25,9 @@
   - Founders : [@_aabiodun](https://twitter.com/_aabiodun)
 
   - Industry : Web Design Agency 
+
+  - Company: [DPX Digital Network](https://dpx.com.ng/)
+
+  - Founders : Williams O
+
+  - Industry : Website Design & Development 
