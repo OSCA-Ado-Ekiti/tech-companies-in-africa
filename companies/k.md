@@ -49,3 +49,8 @@
   - Founder: [@RomainPoirot-lellig](https://twitter.com/rplellig)
 
   - Industry: Logistics
+- Company: [Koree](https://koree.africa/en/)
+
+  - Founder: [gsmagalie](https://www.linkedin.com/in/gsmagalie)
+
+  - Industry: Fintech

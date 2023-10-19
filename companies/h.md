@@ -31,3 +31,9 @@
   - Founder: [@robertyenji](https://gh.linkedin.com/in/yenjofficial)
 
   - Industry: Software Services
+
+* Company: [Haba Insurtech](https://haba.insure/)
+
+  - Founders: [Constance Oshafi](https://www.linkedin.com/in/hon-constance-oshafi-07a5153b/), [Stephen Onwe](https://www.twitter.com/onwe_stephen), and [Paul Showemimo](https://www.linkedin.com/in/paulshowemimo)
+
+  - Industry: Tech insurance

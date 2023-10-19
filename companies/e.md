@@ -55,4 +55,9 @@
   - Founder: [@Valentineobi_](https://twitter.com/Valentineobi_)
 
   - Industry: Payment infrastructure
-  
+
+- Company: [enza capital](https://enza.capital/)
+
+  - Founders: [John Lazar](https://www.linkedin.com/in/john-lazar-3015372/), [Mike Mompi](https://ke.linkedin.com/in/mikemompi),and David Cohen
+
+  - Industry: Venture Capital  
