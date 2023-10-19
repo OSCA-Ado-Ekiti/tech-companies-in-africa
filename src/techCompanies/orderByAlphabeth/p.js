@@ -84,7 +84,8 @@ export default {
       foundersTwitterHandle: ["fejizzy"],
       industry: "E-commerce company",
       website: "http://www.mypatricia.com",
-    },{
+    },
+    {
       companyName: "palmpay",
       companyTwitterHandle: ["palmpay_ng ","palmpaygh"],
       industry: "Fin-Tech",
