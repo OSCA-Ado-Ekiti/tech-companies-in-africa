@@ -23,11 +23,25 @@ export default {
       website: "https://www.ace.ng",
     },
     {
+      companyName: "Accelerex",
+      companyTwitterHandle: "accelerexhq",
+      foundersTwitterHandle: [ ],
+      industry: "Fintech",
+      website: "https://www.globalaccelerex.com/",
+    },
+    {
       companyName: "Aerobotics",
       companyTwitterHandle: "Aerobotics_Intl",
       foundersTwitterHandle: ["benjimeltzer"],
       industry: "AgriTech",
       website: "https://www.aerobotics.com/",
+    },
+    {
+      companyName: "AfricArena",
+      companyTwitterHandle: "AFRICARENA",
+      foundersTwitterHandle: ["capemaverick"],
+      industry: "Tech Accelerator",
+      website: "https://africarena.com",
     },
     {
       companyName: "Africa's Talking",
@@ -53,7 +67,7 @@ export default {
     {
       companyName: "Arnergy",
       companyTwitterHandle: "arnergy",
-      foundersTwitterHandle: [""],
+      foundersTwitterHandle: ["https://twitter.com/femiadeyemo"],
       industry: "CleanTech",
       website: "https://arnergy.com/",
     },

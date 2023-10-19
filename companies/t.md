@@ -20,6 +20,12 @@
   - Founder: [@Eloumeh](https://twitter.com/Eloumeh)
 
   - Industry: Data and Marketing technology
+ 
+- Company: [TribaPay](https://tribapay.com/)
+
+  - Founder: [Boludmaestro](https://twitter.com/Boludmaestro)
+
+  - Industry: FinTech
 
 - Company: [ToffeeTribe](https://www.toffeetribe.com/)
 
@@ -68,3 +74,9 @@
   - Founders: [@MrTaofeeqAzeez](https://twitter.com/MrTaofeeqAzeez)
 
   - Industry: Website Design Agency 
+  
+- Company: [Twiga Foods](https://twiga.com)
+
+  - Founder: Peter Njojo
+
+  - Industry: Food Technology

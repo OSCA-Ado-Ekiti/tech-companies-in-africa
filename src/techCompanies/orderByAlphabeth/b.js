@@ -2,11 +2,25 @@ export default {
   startsWith: "b",
   companies: [
     {
+      companyName: "Babymigo",
+      companyTwitterHandle: "my_babymigo",
+      foundersTwitterHandle: ["Kemi_olawoye"],
+      industry: "Health Tech",
+      website: "https://babymigo.com",
+    },
+    {
       companyName: "Bankly",
       companyTwitterHandle: "BanklyNG",
       foundersTwitterHandle: [],
       industry: "Digital Wealth (FinTech)",
       website: "https://www.bankly.ng",
+    },
+    { 
+      companyName: "Branch", 
+      companyTwitterHandle: "branch", 
+      foundersTwitterHandle: ["mattflannery", "djungian"], 
+      industry: "Fintech", 
+      website: "https://www.branch.co", 
     },
     {
       companyName: "Brass",
@@ -42,5 +56,19 @@ export default {
       industry: "E-commerce Founders",
       website: "https://getbumpa.com",
     },
+    {
+      companyName: "Bamboo",
+      companyTwitterHandle: "investbamboo",
+      foundersTwitterHandle: ["Richmonb"],
+      industry: "Fintech",
+      website: "https://investbamboo.com",
+    },
+     {
+      companyName: "Beam",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: ["Akinfals"],
+      industry: "Peopletech",
+      website: "https://www.peoplebeam.co/",
+    }
   ],
 };

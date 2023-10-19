@@ -16,6 +16,13 @@ export default {
       website: "https://www.edustipend.org",
     },
     {
+      companyName: "Eversend",
+      companyTwitterHandle: "eversendapp",
+      foundersTwitterHandle: ["StoneAtwine"],
+      industry: "Fintech",
+      website: "https://www.eversend.co/",
+    },
+    {
       companyName: "EGMarkets",
       companyTwitterHandle: "EGMarkets",
       foundersTwitterHandle: [],
@@ -35,6 +42,13 @@ export default {
       foundersTwitterHandle: ["jide_tade"],
       industry: "Logistics",
       website: "https://errandlr.com",
+    },
+    {
+      companyName: "eTransact",
+      companyTwitterHandle: "eTranzactPLC",
+      foundersTwitterHandle: ["Valentineobi_"],
+      industry: "Fintech",
+      website: "https://www.etranzact.com/",
     },
   ],
 };

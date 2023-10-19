@@ -11,7 +11,7 @@ export default {
     {
       companyName: "Yoco",
       companyTwitterHandle: "Yoco_ZA",
-      foundersTwitterHandle: ["carlwazen"],
+      foundersTwitterHandle: ["katlegomaphai"],
       industry: "Fin Tech",
       website: "https://www.yoco.com/za/",
     },

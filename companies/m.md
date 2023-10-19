@@ -31,4 +31,10 @@
   - Founder: [@bamtayo](https://twitter.com/bamtayo)
 
   - Industry: Transportation / Logistics
+ 
+- Company: [Monibac](https://www.monibac.com/)
+
+  - Founder: [@makuamissions](https://twitter.com/makuamissions)
+
+  - Industry: Fintech
 

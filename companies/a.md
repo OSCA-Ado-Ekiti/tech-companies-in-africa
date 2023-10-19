@@ -49,3 +49,21 @@
   - Founders: [@ercineksin](https://pl.linkedin.com/in/ercineksin) + [@tundekehinde](https://ng.linkedin.com/in/tunde-kehinde-048aa635)
 
   - Industry: Logistics
+ 
+- Company: [Accelerex](https://www.globalaccelerex.com)
+
+  - Founder: [@accelerexhq](https://twitter.com/accelerexhq)
+
+  - Industry: Fintech
+
+- Company: [AfricArena](https://www.africarena.com/)
+
+  - Founders: [@Christophe Viarnaud](https://x.com/@capemaverick)
+
+  - Industry: Tech Accelerator
+ 
+- Company: [Arnergy](https://www.arnergy.com)
+
+  - Founder: [@femiadeyemo](https://twitter.com/femiadeyemo)
+
+  - Industry: Cleantech

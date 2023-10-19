@@ -16,6 +16,13 @@ export default {
       website: "https://www.fuzu.com",
     },
     {
+      companyName: "Fint",
+      companyTwitterHandle: "fint_ng",
+      foundersTwitterHandle: [ ],
+      industry: "Fintech",
+      website: "https://www.fint.ng",
+    },
+    {
       companyName: "Findworka",
       companyTwitterHandle: "findworka",
       foundersTwitterHandle: ["iambankole"],
@@ -49,6 +56,13 @@ export default {
       foundersTwitterHandle: ["realsisititi", "ekojournalist"],
       industry: "FunTech",
       website: "https://flex.com.ng",
+    },
+    {
+      companyName: "FairMoney",
+      companyTwitterHandle: "fairmoney_ng",
+      foundersTwitterHandle: ["LaurinHainy"],
+      industry: "Fintech",
+      website: "https://www.fairmoney.io",
     },
     {
       companyName: "Flutterwave",

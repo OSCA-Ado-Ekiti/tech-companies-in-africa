@@ -2,11 +2,23 @@
 
 [Return to README](../README.md)
 
+- Company: [babymigo](https://babymigo.com/)
+
+  - Founder: [Kemi Olawoye](https://twitter.com/Kemi_olawoye)
+
+  - Industry: Health Tech
+
 - Company: [brassbanking](https://www.trybrass.com/)
 
   - Founder: [akindolu](https://twitter.com/akindolu)
 
   - Industry: Business Banking
+
+- Company: [Branch](https://branch.com.ng/) 
+  
+   - Founders: [@djungian](https://twitter.com/djungian) + [@mattflannery](https://twitter.com/mattflannery) 
+    
+   - Industry: Fintech
 
 - Company: [BanklyNG](https://www.bankly.ng/)
 
@@ -34,6 +46,18 @@
 
 - Company: [bukableco](https://www.bukable.co/)
 
-  - Founders: [@enyosam\_](https://twitter.com/enyosam_)
+  - Founders: [@enyosam_](https://twitter.com/enyosam_)
 
   - Industry: Freelance, Tech learning & Outsourcing
+ 
+- Company: [Bamboo](https://investbamboo.com)
+
+  - Founders: [@Richmonb](https://twitter.com/eRichmonb)
+
+  - Industry: Fintech
+ 
+- Company: [Beam](https://www.peoplebeam.co/)
+
+  - Founders: [@Akinfals](https://twitter.com/Akinfals)
+
+  - Industry: Peopletech

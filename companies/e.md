@@ -13,6 +13,12 @@
   - Founders: [@meekg33k](https://twitter.com/meekg33k)
 
   - Industry: Financial Aid
+ 
+- Company: [Eversend](https://eversend.co/)
+
+  - Founder: [StoneAtwine](https://twitter.com/StoneAtwine)
+
+  - Industry: FinTech
 
 - Company: [ecoSokoni](https://www.ecosokoni.co.ke/)
 
@@ -43,3 +49,10 @@
   - Founder: [@EcentricPayment](https://twitter.com/EcentricPayment)
 
   - Industry: Payment infrastructure
+
+- Company: [eTranzact](https://www.etranzact.com)
+
+  - Founder: [@Valentineobi_](https://twitter.com/Valentineobi_)
+
+  - Industry: Payment infrastructure
+  

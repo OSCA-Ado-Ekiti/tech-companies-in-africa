@@ -9,11 +9,25 @@ export default {
       website: "https://paystack.com",
     },
     {
+      companyName: "paga",
+      companyTwitterHandle: "paga",
+      foundersTwitterHandle: ["oviosu"],
+      industry: "Financial Technology (Fintech)",
+      website: "https://www.mypaga.com/",
+    },
+    {
       companyName: "Pocket by Piggyvest",
       companyTwitterHandle: "@getpocketapp",
       foundersTwitterHandle: ["@OdunEweniyi"],
       industry: "FinTech",
       website: "https://pocketapp.com/",
+    },
+    {
+      companyName: "P2Vest",
+      companyTwitterHandle: "p2vest",
+      foundersTwitterHandle: [ ],
+      industry: "Fintech",
+      website: "https://www.p2vest.com",
     },
     {
       companyName: "Piggyvest",
@@ -63,6 +77,19 @@ export default {
       foundersTwitterHandle: ["fejizzy"],
       industry: "E-commerce company",
       website: "http://www.mypatricia.com",
+    },
+    {
+      companyName: "patricia",
+      companyTwitterHandle: "patriciaswitch",
+      foundersTwitterHandle: ["fejizzy"],
+      industry: "E-commerce company",
+      website: "http://www.mypatricia.com",
+    },
+    {
+      companyName: "palmpay",
+      companyTwitterHandle: ["palmpay_ng ","palmpaygh"],
+      industry: "Fin-Tech",
+      website: "http://www.palmpay.com",
     },
   ],
 };

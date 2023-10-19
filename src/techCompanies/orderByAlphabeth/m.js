@@ -61,5 +61,12 @@ export default {
       industry: "Transportation / Logistics",
       website: "https://www.max.ng/",
     },
+    {
+      companyName: "Monibac",
+      companyTwitterHandle: "monibac_",
+      foundersTwitterHandle: ["makuamissions"],
+      industry: "Fintech",
+      website: "monibac.com",
+    },
   ],
 };

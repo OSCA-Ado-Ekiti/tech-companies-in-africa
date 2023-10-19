@@ -14,13 +14,19 @@
 
   - Industry: HR Tech
 
+- Company: [Fint](https://www.fint.ng)
+
+  - Founder: Chiwete John-Njokanma
+
+  - Industry: FinTech
+
 - Company: [Findworka](https://findworka.com)
 
   - Founders: [@iambankole](https://twitter.com/iambankole)
 
   - Industry: software development
 
-  - Company: [Farmcrowdy](https://www.farmcrowdy.com)
+- Company: [Farmcrowdy](https://www.farmcrowdy.com)
 
   - Founders: [@onyekaakumah](https://twitter.com/onyekaakumah)
 
@@ -63,4 +69,9 @@
 
   - Industry: FinTech
 
+- Company: [FairMoney](https://fairmoney.io)
+
+  - Founder [@LaurinHainy](https://twitter.com/LaurinHainy)
+  
+  - Industry: Fintech
 

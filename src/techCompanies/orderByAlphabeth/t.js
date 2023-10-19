@@ -37,6 +37,13 @@ export default {
       website: "",
     },
     {
+      companyName: "TribaPay",
+      companyTwitterHandle: "TribaPay",
+      foundersTwitterHandle: ["Boludmaestro"],
+      industry: "Fintech",
+      website: "https://www.TribaPay.com",
+    },
+    {
       companyName: "ToffeeTribe",
       companyTwitterHandle: "ToffeeTribe",
       foundersTwitterHandle: ["NgindaNganga", "KarambuMathai"],
@@ -110,6 +117,13 @@ export default {
       foundersTwitterHandle: ["MrTaofeeqAzeez"],
       industry: "Website Design Agency",
       website: "https://thegeneralissimomedia.com",
+    },
+    {
+      companyName: "Twiga Foods",
+      companyTwitterHandle: "TwigaFoods",
+      foundersTwitterHandle: ["njojo2012"],
+      industry: "Food Technology",
+      website: "https://www.twiga.com",
     },
   ],
 };
