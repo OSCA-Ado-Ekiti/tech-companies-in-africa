@@ -69,6 +69,12 @@
 
   - Industry: Software Development
 
+- Company: [The Generalissimo Media](https://thegeneralissimomedia.com)
+
+  - Founders: [@MrTaofeeqAzeez](https://twitter.com/MrTaofeeqAzeez)
+
+  - Industry: Website Design Agency 
+  
 - Company: [Twiga Foods](https://twiga.com)
 
   - Founder: Peter Njojo

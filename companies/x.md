@@ -13,3 +13,9 @@
   - Founder: Engr. Olanrewaju Awoyemi
 
   - Industry: Application Management & Support 
+
+  - Company: [Xown Solution Ltd.](https://xownsolutions.com/)
+
+  - Founder: [@tonyakande](https://twitter.com/tonyakande)
+
+  - Industry: Web-App & Software development & Hardware solution

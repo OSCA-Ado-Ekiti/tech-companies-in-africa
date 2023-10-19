@@ -22,5 +22,12 @@ export default {
       industry: "Application Management & Support",
       website: "https://www.xpertechsolutionsltd.com",
     },
+    {
+      companyName: "Xown Solution Ltd.",
+      companyTwitterHandle: "XownSolutions",
+      foundersTwitterHandle: ["tonyakande"],
+      industry: "Web-App & Software development & Hardware solution",
+      website: "https://www.xownsolutions.com",
+    },
   ],
 };

@@ -112,6 +112,13 @@ export default {
       website: "https://www.togafrica.com",
     },
     {
+      companyName: "The Generalissimo Media ",
+      companyTwitterHandle: "TheGeneralMedia",
+      foundersTwitterHandle: ["MrTaofeeqAzeez"],
+      industry: "Website Design Agency",
+      website: "https://thegeneralissimomedia.com",
+    },
+    {
       companyName: "Twiga Foods",
       companyTwitterHandle: "TwigaFoods",
       foundersTwitterHandle: ["njojo2012"],
