@@ -57,12 +57,5 @@ export default {
       industry: "VC",
       website: "https://enza.capital/",
     },
-    {
-      companyName: "ExpandCart",
-      companyTwitterHandle: "expandcart",
-      foundersLinkedInHandle: ["Amr Shawqy, Sameh Nabil, Yasser Seleem"],
-      industry: "e-commerce",
-      website: "https://expandcart.com/en/",
-    },
   ],
 };

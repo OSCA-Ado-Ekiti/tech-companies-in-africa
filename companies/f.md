@@ -80,9 +80,3 @@
   - Founders: [Pankaj Bohhra](https://www.linkedin.com/in/pankaj-bohhra-94087943/) + Chioma Ahueze Okochukwu
   
   - Industry: Autotech
-
-- Company: [Founders Factory Africa](https://www.foundersfactory.africa/)
-
-  - Founder: [Roo Rogers](https://www.linkedin.com/in/roorogers/)
-  
-  - Industry: VC

@@ -61,9 +61,3 @@
   - Founders: [John Lazar](https://www.linkedin.com/in/john-lazar-3015372/), [Mike Mompi](https://ke.linkedin.com/in/mikemompi),and David Cohen
 
   - Industry: Venture Capital  
-
-- Company: [Expand Cart](https://expandcart.com/en/)
-
-  - Founders: [Amr Shawqy](https://www.linkedin.com/in/amrshawqy/), [Sameh Nabil](https://twitter.com/Sameh305), and  Yasser Seleem
-
-  - Industry: Ecommerce
