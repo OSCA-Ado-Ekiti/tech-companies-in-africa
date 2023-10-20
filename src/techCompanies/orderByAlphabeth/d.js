@@ -36,5 +36,12 @@ export default {
       industry: "Web Design Agency ",
       website: "https://dientweb.net",
     },
+    {
+      companyName: "DPX Digital Network",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: ["dpxdigital"],
+      industry: "website design & development ",
+      website: "https://dpx.com.ng",
+    },
   ],
 };
