@@ -78,5 +78,12 @@ export default {
       industry: "Fintech",
       website: "https://chippercash.com",
     },
+    {
+      companyName: "CredPal",
+      companyTwitterHandle: "GetCredPal",
+      foundersTwitterHandle: ["olorunfemi01"],
+      industry: "Fintech",
+      website: "https://www.credpal.com/",
+    },
   ],
 };
