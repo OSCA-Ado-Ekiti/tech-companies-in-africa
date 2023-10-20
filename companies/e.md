@@ -60,4 +60,17 @@
 
   - Founders: [John Lazar](https://www.linkedin.com/in/john-lazar-3015372/), [Mike Mompi](https://ke.linkedin.com/in/mikemompi),and David Cohen
 
-  - Industry: Venture Capital  
+  - Industry: Venture Capital
+    
+- Company: [eHealth Africa](https://www.ehealthafrica.org/)
+
+  - Founder: [@Adam Thompson_](https://twitter.com/adamthompson_)
+
+  - Industry: HealthTech
+ 
+- Company: [Edufyre](https://edufyre.com/)
+
+  - Founder: Edufyre
+
+  - Industry: EdTech
+
