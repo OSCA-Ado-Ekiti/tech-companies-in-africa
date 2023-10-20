@@ -67,3 +67,15 @@
   - Founder: [@femiadeyemo](https://twitter.com/femiadeyemo)
 
   - Industry: Cleantech
+    
+- Company: [Aella Credit](https://aellacredit.com/)
+
+  - Founder: [@akinJones](https://twitter.com/akinj110)
+
+  - Industry: FinTech
+
+- Company: [Aeropay](https://wwww.aeropay.com/)
+
+  - Founder: [@Daniel Muller](https://twitter.com/danielmuller)
+
+  - Industry: FinTech
