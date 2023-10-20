@@ -79,11 +79,11 @@ export default {
       website: "https://chippercash.com",
     },
     {
-      companyName: "CredPal",
-      companyTwitterHandle: "GetCredPal",
-      foundersTwitterHandle: ["olorunfemi01"],
-      industry: "Fintech",
-      website: "https://www.credpal.com/",
+      companyName: "CokoSofts",
+      companyTwitterHandle: "cokosofts",
+      foundersTwitterHandle: ["oby"],
+      industry: "Software Development",
+      website: "https://cokosofts.com/",
     },
   ],
 };
