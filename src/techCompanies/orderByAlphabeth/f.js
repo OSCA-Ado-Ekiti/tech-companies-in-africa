@@ -120,5 +120,12 @@ export default {
       industry: "fintech",
       website: "https://www.flocash.com",
     },
+     {
+      companyName: "fonenode",
+      companyTwitterHandle: "fonenode",
+      foundersTwitterHandle: [""],
+      industry: "Communication Tech",
+      website: " https://www.fonenode.com",
+    },
   ],
 };
