@@ -67,3 +67,9 @@
   - Founder: [@femiadeyemo](https://twitter.com/femiadeyemo)
 
   - Industry: Cleantech
+
+- Company: [Akowe](https://akowe.app/)
+
+  - Founder: [Ayodeji Agboola](https://www.linkedin.com/in/ayodejiaa/)
+
+  - Industry: Blockchain technology

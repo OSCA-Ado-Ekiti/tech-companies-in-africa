@@ -120,5 +120,12 @@ export default {
       industry: "fintech",
       website: "https://www.flocash.com",
     },
+    {
+      companyName: "Fixit45",
+      companyLinkedInHandle: "https://www.linkedin.com/company/fixit45hq/",
+      founderLinkedInHandle: ["https://www.linkedin.com/in/pankaj-bohhra-94087943/"],
+      industry: "Fixit45",
+      website: "https://fixit45.com/"
+    },
   ],
 };

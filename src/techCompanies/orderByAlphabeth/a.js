@@ -85,5 +85,12 @@ export default {
       industry: "Freelance/Programming",
       website: "https://andela.com",
     },
+    {
+      companyName: "Akowe",
+      companyTwitterHandle: "Akoweapp",
+      foundersLinkedInHandle: ["https://www.linkedin.com/in/ayodejiaa/"],
+      industry: "Blockchain",
+      website: "https://akowe.app/",
+    },
   ],
 };

@@ -38,3 +38,9 @@
 
   - Industry: Fintech
 
+- Company: [Moniepoint](https://moniepoint.com/ng)
+
+  - Founders: [@Eniolorunda](https://twitter.com/Eniolorunda) + [Felix Ike](https://www.linkedin.com/in/felix-ike-b9747158/)
+
+  - Industry: Fintech
+
