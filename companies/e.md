@@ -2,12 +2,18 @@
 
 [Return to README](../README.md)
 
+- Company: [Edves](https://www.edves.net)
+
+  - Founders: [@FalanaDimeji](https://twitter.com/FalanaDimeji)
+
+  - Industry: Edtech
+   
 - Company: [EjaraApp](https://www.ejara.io/)
 
   - Founders: [@chakaneld](https://twitter.com/chakaneld)
 
   - Industry: Fintech
-
+   
 - Company: [Edustipend](https://www.edustipend.org/)
 
   - Founders: [@meekg33k](https://twitter.com/meekg33k)
