@@ -37,3 +37,9 @@
   - Founder: [@pleasant0x](https://twitter.com/pleasant0x)
   
   - Industry: Fintech
+
+- Company : [Zanifu](https://www.zanifu.com/)
+
+  - Founder: [Steve Biko](https://www.linkedin.com/in/stevebikoke) + Sebastian Mithika
+  
+  - Industry: Fintech
