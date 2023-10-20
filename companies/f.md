@@ -74,4 +74,10 @@
   - Founder [@LaurinHainy](https://twitter.com/LaurinHainy)
   
   - Industry: Fintech
+    
+- Company: [Fonenode](https://fonenode.com/)
+
+  - Founder [@Tunde Onakoya](https://twitter.com/Tunde_OD)
+  
+  - Industry: Communication Tech
 
