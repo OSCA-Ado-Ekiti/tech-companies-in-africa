@@ -57,6 +57,20 @@ export default {
       industry: "VC",
       website: "https://enza.capital/",
     },
+     {
+      companyName: "eHealth Africa",
+      companyTwitterHandle: "eHealth_africa",
+      foundersTwitterHandle: ["Adam Thompson"],
+      industry: "Health Tech",
+      website: "https://www.ehealthafrica.org",
+    },
+    {
+      companyName: "Edufyre",
+      companyTwitterHandle: "edufyre",
+      foundersTwitterHandle: ["Vishal Boldrocchi"],
+      industry: "EdTech",
+      website: "https://edufyre.com",
+    },
     {
       companyName: "ExpandCart",
       companyTwitterHandle: "expandcart",

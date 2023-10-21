@@ -78,5 +78,12 @@ export default {
       industry: "Fintech",
       website: "https://chippercash.com",
     },
+    {
+      companyName: "CokoSofts",
+      companyTwitterHandle: "cokosofts",
+      foundersTwitterHandle: ["oby"],
+      industry: "Software Development",
+      website: "https://cokosofts.com/",
+    },
   ],
 };

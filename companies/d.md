@@ -24,10 +24,22 @@
 
   - Founders : [@_aabiodun](https://twitter.com/_aabiodun)
 
-  - Industry : Web Design Agency 
-
-  - Company: [DPX Digital Network](https://dpx.com.ng/)
+  - Industry : Web Design Agency
+  
+- Company: [DPX Digital Network](https://dpx.com.ng/)
 
   - Founders : Williams O
 
-  - Industry : Website Design & Development 
+  - Industry : Website Design & Development
+ 
+- Company: [Drofika](https://drofika.com/)
+
+  - Founders :  [@_Herbert  wigwe](https://twitter.com/HerbertOwigwe)
+
+  - Industry : AgriTech
+ 
+- Company: [Datalore](https://datalorelabs/)
+
+  - Founders :  JetBrains
+
+  - Industry : Data Analysis 

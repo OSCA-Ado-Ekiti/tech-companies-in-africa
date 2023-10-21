@@ -65,8 +65,20 @@
 - Company: [enza capital](https://enza.capital/)
 
   - Founders: [John Lazar](https://www.linkedin.com/in/john-lazar-3015372/), [Mike Mompi](https://ke.linkedin.com/in/mikemompi),and David Cohen
+  
+  - Industry: Venture Capital
+    
+- Company: [eHealth Africa](https://www.ehealthafrica.org/)
 
-  - Industry: Venture Capital  
+  - Founder: [@Adam Thompson_](https://twitter.com/adamthompson_)
+
+  - Industry: HealthTech
+ 
+- Company: [Edufyre](https://edufyre.com/)
+
+  - Founder: Edufyre
+
+  - Industry: EdTech
 
 - Company: [Expand Cart](https://expandcart.com/en/)
 

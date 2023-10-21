@@ -61,3 +61,9 @@
   - Founder: [@hamserunjogi](https://twitter.com/hamserunjogi) + [@maijidmoujaled](https://twitter.com/maijidmoujaled)
 
   - Industry: Fintech
+  
+- Company: [CokoSofts](https://cokoSofts.com/)
+
+  - Founder: [@oby](https://twitter.com/)
+
+  - Industry: Software Development

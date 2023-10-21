@@ -70,5 +70,12 @@ export default {
       industry: "Peopletech",
       website: "https://www.peoplebeam.co/",
     }
+     {
+      companyName: "Bwala Africa",
+      companyTwitterHandle: "bwalaofficial",
+      foundersTwitterHandle: [""],
+      industry: "Logistics",
+      website: "https://bwala.africa",
+    }
   ],
 };

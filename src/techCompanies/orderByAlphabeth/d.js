@@ -43,5 +43,19 @@ export default {
       industry: "website design & development ",
       website: "https://dpx.com.ng",
     },
+    {
+      companyName: "Drofika",
+      companyTwitterHandle: "Drofika",
+      foundersTwitterHandle: ["herbertOwigwe"],
+      industry: "Agri Tech",
+      website: "https://drofika.com",
+    },
+    {
+      companyName: "Datalore",
+      companyTwitterHandle: "DataloreLabs",
+      foundersTwitterHandle: [""],
+      industry: "Data Analysis ",
+      website: "https://datalorelabs.com",
+    },
   ],
 };

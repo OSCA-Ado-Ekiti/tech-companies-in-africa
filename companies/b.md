@@ -61,3 +61,9 @@
   - Founders: [@Akinfals](https://twitter.com/Akinfals)
 
   - Industry: Peopletech
+
+- Company: [Bwala Africa](https://bwala.africa/)
+
+  - Founders: [@Kennedy Nyabwala](https://twitter.com/kennedynyabwala)
+
+  - Industry: Logisics

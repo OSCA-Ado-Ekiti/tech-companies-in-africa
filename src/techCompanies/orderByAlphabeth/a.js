@@ -85,5 +85,22 @@ export default {
       industry: "Freelance/Programming",
       website: "https://andela.com",
     },
+    {
+      companyName: "Aella Credit",
+      companyTwitterHandle: "aellacredit",
+      foundersTwitterHandle: ["akinj110"],
+      industry: "FinTech",
+      website: "https://aellacredit.com",
+    },
+     {
+      companyName: "AeroPay",
+      companyTwitterHandle: "aeropayapp",
+      foundersTwitterHandle: ["danielmuller"],
+      industry: "FinTech",
+      website: "https://www.aeropay.com",
+    },
+
+
   ],
 };
+
