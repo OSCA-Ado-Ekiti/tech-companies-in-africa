@@ -81,3 +81,8 @@
   
   - Industry: Communication Tech
 
+- Company: [Founders Factory Africa](https://www.foundersfactory.africa/)
+
+  - Founder: [Roo Rogers](https://www.linkedin.com/in/roorogers/)
+
+  - Industry: VC

@@ -71,5 +71,12 @@ export default {
       industry: "EdTech",
       website: "https://edufyre.com",
     },
+    {
+      companyName: "ExpandCart",
+      companyTwitterHandle: "expandcart",
+      foundersLinkedInHandle: ["Amr Shawqy, Sameh Nabil, Yasser Seleem"],
+      industry: "e-commerce",
+      website: "https://expandcart.com/en/",
+    },
   ],
 };

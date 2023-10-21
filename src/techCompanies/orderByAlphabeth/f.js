@@ -126,6 +126,13 @@ export default {
       foundersTwitterHandle: [""],
       industry: "Communication Tech",
       website: " https://www.fonenode.com",
+     },
+     {
+      companyName: "Founders Factory Africa",
+      companyTwitterHandle: "https://twitter.com/foundersffa",
+      founderLinkedInHandle: ["https://www.linkedin.com/in/roorogers/"],
+      industry: "VC",
+      website: "https://www.foundersfactory.africa/"
     },
   ],
 };
