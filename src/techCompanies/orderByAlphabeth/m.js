@@ -68,5 +68,12 @@ export default {
       industry: "Fintech",
       website: "monibac.com",
     },
+    {
+      companyName: "Moniepoint",
+      companyTwitterHandle: "moniepointng",
+      foundersTwitterHandle: ["Eniolorunda"],
+      industry: "Fintech",
+      website: "https://moniepoint.com/ng",
+    },
   ],
 };

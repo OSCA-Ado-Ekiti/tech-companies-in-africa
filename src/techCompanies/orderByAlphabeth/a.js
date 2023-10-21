@@ -99,8 +99,13 @@ export default {
       industry: "FinTech",
       website: "https://www.aeropay.com",
     },
-
-
+    {
+      companyName: "Akowe",
+      companyTwitterHandle: "Akoweapp",
+      foundersLinkedInHandle: ["https://www.linkedin.com/in/ayodejiaa/"],
+      industry: "Blockchain",
+      website: "https://akowe.app/",
+    },
   ],
 };
 

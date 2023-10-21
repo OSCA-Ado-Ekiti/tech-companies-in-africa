@@ -134,5 +134,12 @@ export default {
       industry: "VC",
       website: "https://www.foundersfactory.africa/"
     },
+    {
+      companyName: "Fixit45",
+      companyLinkedInHandle: "https://www.linkedin.com/company/fixit45hq/",
+      founderLinkedInHandle: ["https://www.linkedin.com/in/pankaj-bohhra-94087943/"],
+      industry: "autotech",
+      website: "https://fixit45.com/"
+    },
   ],
 };
