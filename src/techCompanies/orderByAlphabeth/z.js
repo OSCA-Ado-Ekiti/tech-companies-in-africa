@@ -43,5 +43,12 @@ export default {
       industry: "e-commerce",
       website: "https://www.zumi.co.ke/",
     },
+    {
+      companyName: "Zanifu",
+      companyTwitterHandle: "ZanifuLtd",
+      foundersLinkedInHandle: ["Steve Biko", "Sebastian Mithika"],
+      industry: "fintech",
+      website: "https://www.zanifu.com/",
+    },
   ],
 };
