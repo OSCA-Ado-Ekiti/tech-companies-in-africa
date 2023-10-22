@@ -79,3 +79,9 @@
   - Founder: [@Daniel Muller](https://twitter.com/danielmuller)
 
   - Industry: FinTech
+
+- Company: [Akowe](https://akowe.app/)
+
+  - Founder: [Ayodeji Agboola](https://www.linkedin.com/in/ayodejiaa/)
+
+  - Industry: Blockchain technology

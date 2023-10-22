@@ -86,3 +86,9 @@
   - Founder: [Roo Rogers](https://www.linkedin.com/in/roorogers/)
 
   - Industry: VC
+
+- Company: [Fixit45](https://fixit45.com/)
+
+  - Founders: [Pankaj Bohhra](https://www.linkedin.com/in/pankaj-bohhra-94087943/) + Chioma Ahueze Okochukwu
+
+  - Industry: Autotech
