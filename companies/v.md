@@ -25,3 +25,8 @@
    - Founders: [@ibromomo](https://twitter.com/ibromomo)
     
    - Industry: Fintech
+    
+- Company: [Velvot]
+  (https://velvot.com)
+- Founders: [@AliyuGarba] (https://twitter.com/velvotng)
+- Imdustry: IT consulting, cloud security, data management 
