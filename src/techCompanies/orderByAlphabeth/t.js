@@ -125,5 +125,12 @@ export default {
       industry: "Food Technology",
       website: "https://www.twiga.com",
     },
+    {
+      companyName: "Telkom",
+      companyTwitterHandle: "TelkomCare_ke",
+      foundersTwitterHandle: ["The_Squire23"],
+      industry: "Communication and IT services",
+      website: "https://www.telkom.co.za",
+    },
   ],
 };
