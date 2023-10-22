@@ -78,5 +78,11 @@ export default {
       industry: "Website development and Maintenance",
       website: "https://vsasftechng.com",
     },
+    {
+      companyName: "Velvot",
+      companyTwitterHandle: "velvotng",
+      foundersTwitterHandle: ["itsaliyugarba"],
+      industry: "IT consulting, cloud security, data management",
+      website: "https://www.velvot.com",
   ],
 };
