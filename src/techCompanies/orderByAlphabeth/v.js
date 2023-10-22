@@ -84,5 +84,6 @@ export default {
       foundersTwitterHandle: ["itsaliyugarba"],
       industry: "IT consulting, cloud security, data management",
       website: "https://www.velvot.com",
+    }
   ],
 };
