@@ -80,3 +80,8 @@
   - Founder: Peter Njojo
 
   - Industry: Food Technology
+
+- Company: [Tala]
+  (https://tala.co)
+- Founder: [@ShivaniSiroya] (https://twitter.com/shivsiroya)
+- Imdustry: Fintech
