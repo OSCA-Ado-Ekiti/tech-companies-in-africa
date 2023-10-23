@@ -67,3 +67,10 @@
   - Founders: [@Kennedy Nyabwala](https://twitter.com/kennedynyabwala)
 
   - Industry: Logisics
+
+- Company: [Best Value Providers ](https://bestvalueproviders.com/)
+
+  - Founders: Ogugua Belonwu
+
+  - Industry: Customer service software & Customer experience software
+

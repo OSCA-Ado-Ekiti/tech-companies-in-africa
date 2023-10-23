@@ -36,5 +36,12 @@ export default {
       industry: "IT Solution for Sme & SmBs",
       website: "https://reconnaissancetechnologies.com",
     },
+    {
+      companyName: "Revent Technologies",
+      companyTwitterHandle: "ReventTech",
+      foundersTwitterHandle: {},
+      industry: "Software Development",
+      website: "https://reventtechnologies.com",
+    },
   ],
 };

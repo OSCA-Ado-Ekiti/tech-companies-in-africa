@@ -63,19 +63,26 @@ export default {
       industry: "Fintech",
       website: "https://investbamboo.com",
     },
-     {
+    {
       companyName: "Beam",
       companyTwitterHandle: "",
       foundersTwitterHandle: ["Akinfals"],
       industry: "Peopletech",
       website: "https://www.peoplebeam.co/",
     }
-     {
+    {
       companyName: "Bwala Africa",
       companyTwitterHandle: "bwalaofficial",
       foundersTwitterHandle: [""],
       industry: "Logistics",
       website: "https://bwala.africa",
+    }
+    {
+      companyName: "Best Value Providers",
+      companyTwitterHandle: "BvProviders",
+      foundersTwitterHandle: ["ogzille"] ,
+      industry: "Customer service software & Customer experience software",
+      website: "https://bestvalueproviders.com",
     }
   ],
 };

@@ -32,7 +32,8 @@
 
   - Industry: IT Solution for Sme & SmBs
 
-Mr. Timmy Iwoni(@CodeMaverick69) 
+ - Company: [Revent Technologies](https://reventtechnologies.com/)
 
+  - Founders: Babatola Awe and Akintayo Okekunle
 
-Website 
+  - Industry: Software Development
