@@ -62,6 +62,13 @@ export default {
       website: "https://www.max.ng/",
     },
     {
+      companyName: "Medsaf",
+      companyTwitterHandle: "Medsaf.com",
+      foundersTwitterHandle: [],
+      industry: "HealthTech",
+      website: "https://www.medsaf.com",
+    },
+    {
       companyName: "Monibac",
       companyTwitterHandle: "monibac_",
       foundersTwitterHandle: ["makuamissions"],

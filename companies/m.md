@@ -32,6 +32,13 @@
 
   - Industry: Transportation / Logistics
  
+  
+- Company: [MedSaf](https://www.medsaf.com/)
+
+  - Founder: [Vivian Obiagheli Nwakah](https://www.viviannwakah.com)
+
+  - Industry: HealthTech
+ 
 - Company: [Monibac](https://www.monibac.com/)
 
   - Founder: [@makuamissions](https://twitter.com/makuamissions)
