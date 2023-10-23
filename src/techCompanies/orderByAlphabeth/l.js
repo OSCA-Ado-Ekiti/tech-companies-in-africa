@@ -20,7 +20,7 @@ export default {
       companyTwitterHandle: "lakex_io",
       foundersTwitterHandle: ["o_o_lekan"],
       industry: "Tech Agency",
-      website: "",
+      website: "[] ",
     },
     {
       companyName: "Lori Systems",
@@ -35,6 +35,13 @@ export default {
       foundersTwitterHandle: [],
       industry: "Credit Infrastructure(Fintech)",
       website: "https://www.lidya.info/",
+    },
+    {
+      companyName: "Lightech-I.T Firm",
+      companyTwitterHandle: "Lightech_ITFirm",
+      foundersLinkedin: "https://www.linkedin.com/in/noble-amaechi-63b13986" ,
+      industry: "Ul/Ux & Product Design ",
+      website: "https://www.lightech.com.ng/",
     },
   ],
 };

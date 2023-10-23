@@ -23,5 +23,19 @@ export default {
       industry: "Fintech",
       website: "https://www.nownow.ng",
     },
+    {
+      companyName: "Neo Cloud Technologies",
+      companyTwitterHandle: "neocloudtech",
+      foundersTwitterHandle: [ ],
+      industry: "IT service and IT Consulting",
+      website: "https://www.techneo.ng",
+    },
+    {
+      companyName: "Nsisong Labs",
+      companyTwitterHandle: "nsisonglabs",
+      foundersTwitterHandle: [ ],
+      industry: "Web(Blockchain) & Cyber security ",
+      website: "https://www.techneo.ng",
+    },
   ],
 };

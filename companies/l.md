@@ -19,3 +19,9 @@
   - Founders: Tunde Kehinde
 
   - Industry: Credit infrastructure (Fintech)
+
+- Company: [Lightech - I.T Firm](https://www.lightech.com.ng/)
+
+  - Founders: Noble Amaechi
+
+  - Industry: Ul/Ux & Product Design
