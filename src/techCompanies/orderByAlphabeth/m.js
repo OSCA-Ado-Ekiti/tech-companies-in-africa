@@ -2,6 +2,13 @@ export default {
   startsWith: "m",
   companies: [
     {
+      companyName: "M-Kopa solar",
+      companyTwitterHandle: "mkopasolar",
+      foundersTwitterHandle: ["jessemoore"],
+      industry: "Pay-as-you-go solar energy provider",
+      website: "https://m-kopa.com",
+    },
+    {
       companyName: "myclassroomng",
       companyTwitterHandle: "myclassroomng",
       foundersTwitterHandle: ["isholabaryor"],
