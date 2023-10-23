@@ -20,6 +20,12 @@
 
    - Industry: Fintech
 
+- Company: [Credbevy](https://www.credbevy.com)
+
+  - Founder: Ayomitide Odunyemi
+
+  - Industry: Fintech
+  
 - Company: [Casvo](https://www.casvodigital.com/)
 
   - Founder: Kingsley sunday
