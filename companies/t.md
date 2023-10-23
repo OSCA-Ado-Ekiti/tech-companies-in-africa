@@ -80,3 +80,9 @@
   - Founder: Peter Njojo
 
   - Industry: Food Technology
+ 
+- Company: [Telkom](https://www.telkom.co.za)
+  
+ - Founder: [@SerameTaukobong] (https://www.twitter.com/Telkomcare_ke)
+  
+ - Industry: Communication and IT services 
