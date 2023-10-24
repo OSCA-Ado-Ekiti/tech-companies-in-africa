@@ -38,7 +38,7 @@
 
   - Industry: Promotional Product Management
 
-  - Company: [spatialnodehq](https://spatialnode.net/home)
+- Company: [spatialnodehq](https://spatialnode.net/home)
 
   - Founder: [@jeafreezy](https://twitter.com/jeafreezy)
 

@@ -26,7 +26,7 @@
 
   - Industry: Fintech
 
-  - Company: [Reconnaissance Technologies](https://www.riskflow.com/)
+- Company: [Reconnaissance Technologies](https://www.riskflow.com/)
 
   - Founders: [@CodeMaverick69](https://twitter.com/CodeMaverick69)
 

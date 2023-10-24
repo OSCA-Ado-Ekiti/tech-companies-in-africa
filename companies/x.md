@@ -14,7 +14,7 @@
 
   - Industry: Application Management & Support 
 
-  - Company: [Xown Solution Ltd.](https://xownsolutions.com/)
+- Company: [Xown Solution Ltd.](https://xownsolutions.com/)
 
   - Founder: [@tonyakande](https://twitter.com/tonyakande)
 
