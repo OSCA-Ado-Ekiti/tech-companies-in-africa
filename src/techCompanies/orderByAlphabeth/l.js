@@ -40,8 +40,15 @@ export default {
       companyName: "Lightech-I.T Firm",
       companyTwitterHandle: "Lightech_ITFirm",
       foundersLinkedin: "https://www.linkedin.com/in/noble-amaechi-63b13986" ,
-      industry: "Ul/Ux & Product Design ",
+      industry: "UI/Ux & Product Design ",
       website: "https://www.lightech.com.ng/",
+    },
+    {
+      companyName: "Lihon Energy",
+      companyLinkedinHandle: "Lihon Energy",
+      foundersLinkedin: "Hakeem Disu" ,
+      industry: "Energy Tech",
+      website: "https://lihonenergy.com",
     },
   ],
 };

@@ -25,3 +25,9 @@
   - Founders: Noble Amaechi
 
   - Industry: Ul/Ux & Product Design
+
+- Company: [Lihon Energy](https://lihonenergy.com)
+
+  - Founders: Hakeem Disu
+
+  - Industry: EnergyTech
