@@ -79,6 +79,13 @@ export default {
       website: "https://chippercash.com",
     },
     {
+      companyName: "Credbevy",
+      companyTwitterHandle: " ",
+      foundersTwitterHandle: [ ] ,
+      industry: "Fintech",
+      website: "https://credbevy.com",
+    }
+    {
       companyName: "CokoSofts",
       companyTwitterHandle: "cokosofts",
       foundersTwitterHandle: ["oby"],
