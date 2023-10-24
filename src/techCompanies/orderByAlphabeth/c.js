@@ -84,13 +84,20 @@ export default {
       foundersTwitterHandle: [ ] ,
       industry: "Fintech",
       website: "https://credbevy.com",
-    }
+    },
     {
       companyName: "CokoSofts",
       companyTwitterHandle: "cokosofts",
       foundersTwitterHandle: ["oby"],
       industry: "Software Development",
       website: "https://cokosofts.com/",
+    },
+    {
+      companyName: "Cue",
+      companyTwitterHandle: "https://linkedin.com/company/cue-technologies-ltd/",
+      foundersTwitterHandle: [],
+      industry: "AI Customer service",
+      website: "https://cuedesk.com/",
     },
   ],
 };

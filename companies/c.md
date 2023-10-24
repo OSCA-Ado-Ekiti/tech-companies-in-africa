@@ -73,3 +73,9 @@
   - Founder: [@oby](https://twitter.com/)
 
   - Industry: Software Development
+
+- Company: [Cue](https://cuedesk.com/)
+
+  - Founder: Richard Nischk + Rhett Trickett + Ryan Egnos
+  
+  - Industry: AI Customer service
