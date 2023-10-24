@@ -8,13 +8,13 @@
 
   - Industry : FinTech
 
-  - Company: [Gokada](https://gokada.ng)
+- Company: [Gokada](https://gokada.ng)
 
   - Founders : [@fahad792](https://twitter.com/fahad792)
 
   - Industry : Transportation
 
-  - Company: [Gebeya](https://gebeya.com)
+- Company: [Gebeya](https://gebeya.com)
 
   - Founders : [@amahinduka](https://twitter.com/amahinduka)
 

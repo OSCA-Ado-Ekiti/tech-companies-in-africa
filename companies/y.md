@@ -8,7 +8,7 @@
 
   - Industry: FunTech
 
-  - Company : [Yoco](https://www.yoco.com/za/)
+- Company : [Yoco](https://www.yoco.com/za/)
 
   - Founder: [@katlegomaphai](http://twitter.com/katlegomaphai) 
   
