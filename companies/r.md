@@ -37,3 +37,9 @@
   - Founders: Babatola Awe and Akintayo Okekunle
 
   - Industry: Software Development
+
+- Company: [Renda](https://renda.co/)
+
+  - Founders: Ope Onaboye and Bimbo Onaboye
+  
+  - Industry: Software Development
