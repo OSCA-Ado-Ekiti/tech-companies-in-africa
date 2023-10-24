@@ -91,5 +91,11 @@ export default {
       industry: "Fin-Tech",
       website: "http://www.palmpay.com",
     },
+    {
+      companyName: "PAL",
+      companyTwitterHandle: [],
+      industry: "Fin-Tech",
+      website: "https://www.pals.africa/",
+    },
   ],
 };
