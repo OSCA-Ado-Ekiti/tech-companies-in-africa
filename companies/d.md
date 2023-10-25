@@ -2,29 +2,35 @@
 
 [Return to README](../README.md)
 
+- Company: [DarumNg](https://darum.ng/)
+
+  - Founders: They are not on Twitter (@OlaideOlaniyi_M)
+
+  - Industry: Logistics
+ 
+- Company: [Datalore](https://datalorelabs/)
+
+  - Founders :  JetBrains
+
+  - Industry : Data Analysis
+
 - Company: [DecagonIns](https://decagonhq.com/)
 
   - Founder: [@ChikaNwobi](https://twitter.com/ChikaNwobi)
 
   - Industry: Tech learning & outsourcing
 
-- Company: [DarumNg](https://darum.ng/)
+- Company: [Deint Web](https://dientweb.net/)
 
-  - Founders: They are not on Twitter (@OlaideOlaniyi_M)
+  - Founders : [@_aabiodun](https://twitter.com/_aabiodun)
 
-  - Industry: Logistics
+  - Industry : Web Design Agency
 
 - Company: [devdex_software](https://devdexsoftware.com/)
 
   - Founders : [@NanaOBosompem](https://twitter.com/NanaBosompem)
 
   - Industry : Health
-
-- Company: [Deint Web](https://dientweb.net/)
-
-  - Founders : [@_aabiodun](https://twitter.com/_aabiodun)
-
-  - Industry : Web Design Agency
   
 - Company: [DPX Digital Network](https://dpx.com.ng/)
 
@@ -38,8 +44,3 @@
 
   - Industry : AgriTech
  
-- Company: [Datalore](https://datalorelabs/)
-
-  - Founders :  JetBrains
-
-  - Industry : Data Analysis 
