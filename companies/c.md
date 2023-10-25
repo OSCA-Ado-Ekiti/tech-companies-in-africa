@@ -67,10 +67,15 @@
   - Founder: [@oby](https://twitter.com/)
 
   - Industry: Software Development
- 
+
 - Company: [Cowrywise](https://cowrywise.com/)
 
   - Founders: Razaq Ahmed x Edward Popoola
 
   - Industry: Digital Wealth (Fintech)
- 
+  
+- Company: [Cue](https://cuedesk.com/)
+
+  - Founder: Richard Nischk + Rhett Trickett + Ryan Egnos
+  
+  - Industry: AI Customer service

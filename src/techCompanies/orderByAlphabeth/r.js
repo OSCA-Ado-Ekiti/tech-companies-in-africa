@@ -43,5 +43,12 @@ export default {
       industry: "Software Development",
       website: "https://reventtechnologies.com",
     },
+    {
+      companyName: "Renda",
+      companyTwitterHandle: "rendaafrica",
+      foundersTwitterHandle: [],
+      industry: "Software Development",
+      website: "https://renda.co/",
+    },
   ],
 };

@@ -55,3 +55,9 @@
   - Founder: Chika Nwosu [MD/CEO]
   
   - Industry: FinTech
+
+- Company : [PAL](https://www.pals.africa/)
+
+  - Founder: Dady Mael + Kader Saka
+  
+  - Industry: FinTech
