@@ -94,7 +94,7 @@ export default {
     },
     {
       companyName: "Cue",
-      companyTwitterHandle: "https://linkedin.com/company/cue-technologies-ltd/",
+      companyTwitterHandle: "",
       foundersTwitterHandle: [],
       industry: "AI Customer service",
       website: "https://cuedesk.com/",

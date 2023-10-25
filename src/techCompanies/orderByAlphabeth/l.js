@@ -45,8 +45,8 @@ export default {
     },
     {
       companyName: "Lihon Energy",
-      companyLinkedinHandle: "Lihon Energy",
-      foundersLinkedin: "Hakeem Disu" ,
+      companyTwitterHandle: "",
+      foundersTwitterHandle: "" ,
       industry: "Energy Tech",
       website: "https://lihonenergy.com",
     },
