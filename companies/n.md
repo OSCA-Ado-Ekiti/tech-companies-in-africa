@@ -20,13 +20,13 @@
 
   - Industry: Ecommerce
 
-  - Company : [Neo Cloud Technologies](https://techneo.ng/)
+- Company : [Neo Cloud Technologies](https://techneo.ng/)
 
   - Founder: Edwin N.O
 
   - Industry: IT service and IT Consulting
 
-  - Company : [Nsisong Labs](https://nsisonglabs.xyz/)
+- Company : [Nsisong Labs](https://nsisonglabs.xyz/)
 
   - Founder: Isaac Emmanuel 
 

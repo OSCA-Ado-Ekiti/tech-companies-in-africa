@@ -13,7 +13,7 @@
   - Founder: [Jesse Moore](https://twitter.com/jessemoore)
 
   - Industry: Pay-as-you-go solar energy provider
-  - 
+  
 - Company: [myclassroomng]()
 
   - Founder: [@isholabaryor](https://twitter.com/isholabaryor)

@@ -16,7 +16,7 @@
 
 - company: [VSASF NIG LTD ](https://vsasftechng.com/)
 
-  - Founder: Mr Thankgod.Okenna (https://www.linkedin.com/in/thankgod-okenna-5879a7183)
+  - Founder: [Mr Thankgod.Okenn](https://www.linkedin.com/in/thankgod-okenna-5879a7183)
 
   -Industry: Website development and maintenance
   
@@ -26,7 +26,6 @@
     
    - Industry: Fintech
     
-- Company: [Velvot]
-  (https://velvot.com)
-- Founders: [@AliyuGarba] (https://twitter.com/velvotng)
-- Imdustry: IT consulting, cloud security, data management 
+- Company: [Velvot](https://velvot.com)
+  - Founders: [@AliyuGarba](https://twitter.com/velvotng)
+  - Imdustry: IT consulting, cloud security, data management 

@@ -37,3 +37,10 @@
   - Founders: [Constance Oshafi](https://www.linkedin.com/in/hon-constance-oshafi-07a5153b/), [Stephen Onwe](https://www.twitter.com/onwe_stephen), and [Paul Showemimo](https://www.linkedin.com/in/paulshowemimo)
 
   - Industry: Tech insurance
+ 
+
+* Company: [Helium Health](https://heliumhealth.com/)
+
+  - Founders: [Adegoke Olubisi](https://www.linkedin.com/in/adegokeolubusi), [Dimeji Sofowora](https://ng.linkedin.com/in/dimeji-sofowora-65a20a3b), and [Tito Ovia](https://www.linkedin.com/in/tito-ovia-51aa0413a)
+
+  - Industry: Health Tech
