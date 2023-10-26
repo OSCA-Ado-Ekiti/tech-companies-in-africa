@@ -106,5 +106,12 @@ export default {
       industry: "Edtech",
       website: "http://crafty-workshop.com/",
     },
+    {
+      companyName: "Curacel",
+      companyTwitterHandle: "curacelai",
+      foundersTwitterHandle: ["iamHenryMascot"],
+      industry: "Insurtech",
+      website: "https://www.curacel.co/",
+    },
   ],
 };
