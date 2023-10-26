@@ -14,8 +14,8 @@
 
   - Industry: CleanTech
 
-- Company: [iiDENTIFii](https://iidentifii.com/)
+- Company: [iiDENTIFii](https//iidentifii.com/)
 
-  - Founders: [@JeremiahShal](https://twitter.com/iiDENTIFii)
+  - Founders: Robert Sussman + Gur Geva + Lance Fanaroff
 
   - Industry: IdentityTech

@@ -49,6 +49,13 @@ export default {
 			foundersTwitterHandle: [ 'JeremiahShal' ],
 			industry: 'CleanTech',
 			website: 'https://instantenergy.com.ng/'
-		}
+		},
+		{
+			companyName: 'iiDENTIFii',
+			companyTwitterHandle: 'iiDENTIFii',
+			foundersTwitterHandle: [''],
+			industry: 'IdentityTech',
+			website: 'https//iidentifii.com/'
+		},
 	]
 };
