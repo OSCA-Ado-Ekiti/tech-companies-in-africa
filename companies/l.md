@@ -31,3 +31,9 @@
   - Founders: Hakeem Disu
 
   - Industry: EnergyTech
+
+- Company: [Lipa Later](https://lipalater.com/)
+
+  - Founders: [Eric Muli]("CaptainMuli")
+
+  - Industry: FinTech
