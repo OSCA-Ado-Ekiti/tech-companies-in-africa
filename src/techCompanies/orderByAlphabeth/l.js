@@ -50,5 +50,12 @@ export default {
       industry: "Energy Tech",
       website: "https://lihonenergy.com",
     },
+    {
+      companyName: "Lipa Later",
+      companyTwitterHandle: "lipalaterke",
+      foundersTwitterHandle: "CaptainMuli",
+      industry: "FinTech",
+      website: "https://lipalater.com/",
+    },
   ],
 };
