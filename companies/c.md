@@ -79,3 +79,9 @@
   - Founder: Richard Nischk + Rhett Trickett + Ryan Egnos
   
   - Industry: AI Customer service
+
+- Company: [Crafty Workshop](http://crafty-workshop.com/)
+
+  - Founder: Hadeer Shalaby + Amgad Moustafa
+  
+  - Industry: Edtech
