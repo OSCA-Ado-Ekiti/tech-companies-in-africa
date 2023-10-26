@@ -85,3 +85,9 @@
   - Founder: Hadeer Shalaby + Amgad Moustafa
   
   - Industry: Edtech
+
+- Company: [Curacel](https://www.curacel.co/)
+
+  - Founder: [Henry Mascot](https://twitter.com/iamHenryMascot) + John Dada
+  
+  - Industry: Insurtech
