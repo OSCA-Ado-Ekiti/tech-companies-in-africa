@@ -99,5 +99,12 @@ export default {
       industry: "AI Customer service",
       website: "https://cuedesk.com/",
     },
+    {
+      companyName: "Crafty Workshop",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: [],
+      industry: "Edtech",
+      website: "http://crafty-workshop.com/",
+    },
   ],
 };
