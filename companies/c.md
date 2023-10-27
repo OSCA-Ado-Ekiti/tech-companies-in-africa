@@ -79,3 +79,15 @@
   - Founder: Richard Nischk + Rhett Trickett + Ryan Egnos
   
   - Industry: AI Customer service
+
+- Company: [Crafty Workshop](http://crafty-workshop.com/)
+
+  - Founder: Hadeer Shalaby + Amgad Moustafa
+  
+  - Industry: Edtech
+
+- Company: [Curacel](https://www.curacel.co/)
+
+  - Founder: [Henry Mascot](https://twitter.com/iamHenryMascot) + John Dada
+  
+  - Industry: Insurtech

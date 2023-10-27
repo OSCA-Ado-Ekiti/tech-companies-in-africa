@@ -71,5 +71,12 @@ export default {
       industry: "Fintech",
       website: "https://koree.africa/en/"
     },
+    {
+      companyName: "Kua Ventures",
+      companyTwitterHandle: "KuaVentures",
+      foundersTwitterHandle: [""],
+      industry: "VC",
+      website: "https://kuaventures.org/"
+    },
   ],
 };

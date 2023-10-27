@@ -8,8 +8,14 @@
 
   - Industry:Online Entertainment
  
-- Company: [instantenergy](https://instantenergy.com.ng/))
+- Company: [instantenergy](https://instantenergy.com.ng/)
 
   - Founders: [@JeremiahShal](https://twitter.com/JeremiahShal)
 
   - Industry: CleanTech
+
+- Company: [iiDENTIFii](https//iidentifii.com/)
+
+  - Founders: Robert Sussman + Gur Geva + Lance Fanaroff
+
+  - Industry: IdentityTech
