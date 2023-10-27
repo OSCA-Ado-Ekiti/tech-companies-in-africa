@@ -19,6 +19,12 @@
   - Founders: Fredrick Adams x Tomilola Adriana
 
   - Industry: Digital Wealth (Fintech)
+
+- Company: [Barnaamaj](https://www.barnaamaj.com/)
+
+  - Founders: Ibrahim Salami x Abdulraheem Abdulsobur
+
+  - Industry: Travel Agency (Hajj and Umrah)
  
 - Company: [Beam](https://www.peoplebeam.co/)
 
