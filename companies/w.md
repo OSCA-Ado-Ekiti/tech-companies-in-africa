@@ -2,6 +2,12 @@
 
 [Return to README](../README.md)
 
+- Company: [Wasoko](https://www.wasoko.com/)
+
+  - Founders: [@Daniel Yu](https://www.linkedin.com/in/dcyu526))
+
+  - Industry: E-commerce
+
 - Company: [WellaHealth](https://www.wellahealth.com/)
 
   - Founders: [@docneto](https://twitter.com/docneto)
