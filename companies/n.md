@@ -30,4 +30,10 @@
 
   - Founder: Isaac Emmanuel 
 
-  - Industry: Web(Blockchain) & Cyber security 
+  - Industry: Web(Blockchain) & Cyber security
+
+- Company : [Niche Integrated Solutions](https://nicheintegrated.com/)
+
+  - Founder:  Nisha Maharaj 
+
+  - Industry: IT solutions and services   
