@@ -43,3 +43,9 @@
   - Founders: Ope Onaboye and Bimbo Onaboye
   
   - Industry: Software Development
+  
+- Company: [Renmoney](https://renmoney.com/)
+
+  - Founders: Stephen Jennings 
+  
+  - Industry: Fintech  
