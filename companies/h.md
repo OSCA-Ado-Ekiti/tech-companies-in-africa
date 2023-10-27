@@ -2,6 +2,12 @@
 
 [Return to README](../README.md)
 
+- Company: [Haut Institute of Technology](https://haut.framer.website/)
+
+  - Founders: [Ibrahim Salami](https://twitter.com/AbooHameedah)
+
+  - Industry: Tech Education
+    
 - Company: [HydroIQ](https://www.hydroiq.co.ke)
 
   - Founders: [@brianbosire](https://twitter.com/brianbosire)
