@@ -15,6 +15,13 @@ export default {
       industry: "Digital Wealth (FinTech)",
       website: "https://www.bankly.ng",
     },
+    {
+      companyName: "Barnaamaj",
+      companyTwitterHandle: "BarnaamajHQ",
+      foundersTwitterHandle: ["AbooHameedah"],
+      industry: "Travel Agency",
+      website: "https://www.barnaamaj.com",
+    },
     { 
       companyName: "Branch", 
       companyTwitterHandle: "branch", 
