@@ -16,13 +16,6 @@ export default {
       website: "http://www.hanypalng.com",
     },
     {
-      companyName: "Haut institute",
-      companyTwitterHandle: "hautinstitute",
-      foundersTwitterHandle: ["AbooHameedah"],
-      industry: "Tech Education",
-      website: "http://www.haut.framer.website",
-    },
-    {
       companyName: "Herconomy",
       companyTwitterHandle: "HerconomybyAGS",
       foundersTwitterHandle: ["ifedurosinmiE"],
