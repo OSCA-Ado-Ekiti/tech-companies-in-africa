@@ -1,7 +1,7 @@
 # Companies starting with the letter "H"
 
 [Return to README](../README.md)
-
+    
 - Company: [HydroIQ](https://www.hydroiq.co.ke)
 
   - Founders: [@brianbosire](https://twitter.com/brianbosire)
