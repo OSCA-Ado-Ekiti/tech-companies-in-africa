@@ -55,3 +55,9 @@
   - Founders: [@femicodes](https://twitter.com/femicodes) & [@kingidee](https://twitter.com/kingidee)
 
   - Industry: FinTech
+  
+- Company: [Gata](https://gatatransport.com.ng/)
+
+  - Founders: [@gataharrison](https://twitter.com/gataharrison)
+
+  - Industry: Transportation
