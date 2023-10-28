@@ -78,5 +78,12 @@ export default {
       industry: "VC",
       website: "https://kuaventures.org/"
     },
+    {
+      companyName: "KweekTransfer",
+      companyTwitterHandle: "KweekTransfer",
+      foundersTwitterHandle: ["ArnoldAgureDan"],
+      industry: "FinTech",
+      website: "https://kweektransfer.com/"
+    },
   ],
 };
