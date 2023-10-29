@@ -37,3 +37,9 @@
   - Founders: [Eric Muli]("CaptainMuli")
 
   - Industry: FinTech
+
+- Company: [Lorapay](https://lorapayments.com/)
+
+  - Founders: [Ogaraku Ben](https://twitter.com/OgarakuBunke) [Chimobi Ogudu](https://twitter.com/Oguduchima)
+
+  - Industry: FinTech
