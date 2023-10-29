@@ -57,5 +57,12 @@ export default {
       industry: "FinTech",
       website: "https://lipalater.com/",
     },
+    {
+      companyName: "Lorapay",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: ["Oguduchima", "OgarakuBunke"],
+      industry: "FinTech",
+      website: "https://lorapayments.com/",
+    },
   ],
 };
