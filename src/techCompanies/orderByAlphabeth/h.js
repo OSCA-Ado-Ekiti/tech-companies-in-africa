@@ -57,5 +57,12 @@ export default {
       industry: "InsureTech",
       website: "https://haba.insure/",
     },
+    {
+      companyName: "Health Tracka",
+      companyTwitterHandle: "haelthtracka",
+      foundersTwitterHandle: ["ife_adeyemi"],
+      industry: "HealthTech",
+      website: "https://healthtracka.com/"
+    },
   ],
 };
