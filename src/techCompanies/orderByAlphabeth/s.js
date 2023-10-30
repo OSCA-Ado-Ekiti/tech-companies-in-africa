@@ -86,5 +86,12 @@ export default {
       industry: "Promotional Product Management",
       website: "https://stickerkeen.com",
     },
+    {
+      companyName: "safaricom",
+      companyTwitterHandle: "safaricomPLC",
+      foundersTwitterHandle: [""],
+      industry: "Telecommunication",
+      website: "https://safaricom.co.ke",
+    },
   ],
 };
