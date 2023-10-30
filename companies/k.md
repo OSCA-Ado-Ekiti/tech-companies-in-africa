@@ -61,3 +61,9 @@
   - Founder: Peter Fry
 
   - Industry: VC
+ 
+- Company: [KweekTransfer](https://kweektransfer.com/)
+
+  - Founder: Arnold Terna Agure-DamArnold Terna Agure-Dam
+
+  - Industry: FinTech

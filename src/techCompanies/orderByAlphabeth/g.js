@@ -50,5 +50,12 @@ export default {
       industry: "FinTech",
       website: "https://grey.co",
     },
+    {
+      companyName: "Gata",
+      companyTwitterHandle: "gatatransport",
+      foundersTwitterHandle: ["GataHarrison"],
+      industry: "Transportation",
+      website: "https://gatatransport.com.ng",
+    },
   ],
 };
