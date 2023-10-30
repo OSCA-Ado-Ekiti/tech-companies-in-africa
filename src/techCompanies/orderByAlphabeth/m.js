@@ -89,5 +89,12 @@ export default {
       industry: "Fintech",
       website: "https://moniepoint.com/ng",
     },
+    {
+      companyName: "MallForAfrica",
+      companyTwitterHandle: "MallforAfrica",
+      foundersTwitterHandle: ["chrisfolayan"],
+      industry: "E-commerce",
+      website: "https://mallforafrica.com",
+    },
   ],
 };
