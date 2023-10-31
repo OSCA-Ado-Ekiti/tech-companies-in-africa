@@ -97,5 +97,12 @@ export default {
       industry: "Fin-Tech",
       website: "https://www.pals.africa/",
     },
+    {
+      companyName: "Prunedge",
+      companyTwitterHandle: "Prunedge",
+      foundersTwitterHandle: ["JoelOgunsola"],
+      industry: "Tech agency",
+      website: "https://prunedge.com",
+    },
   ],
 };
