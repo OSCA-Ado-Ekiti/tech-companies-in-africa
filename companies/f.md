@@ -92,3 +92,9 @@
   - Founders: [Pankaj Bohhra](https://www.linkedin.com/in/pankaj-bohhra-94087943/) + Chioma Ahueze Okochukwu
 
   - Industry: Autotech
+ 
+- Company: [Farmcrowdy](http://www.farmcrowdy.com/)
+
+  - Founder: [@onyekaakumah](https://twitter.com/onyekaakumah)
+
+  - Industry: Global Agtech
