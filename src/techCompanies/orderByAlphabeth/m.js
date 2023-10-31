@@ -96,5 +96,12 @@ export default {
       industry: "Fintech Education",
       website: "https://themoneyafrica.com/",
     },
+    {
+      companyName: "Moringa School",
+      companyTwitterHandle: "moringaschool",
+      foundersTwitterHandle: [""],
+      industry: "Tech Education",
+      website: "https://moringaschool.com",
+    },
   ],
 };
