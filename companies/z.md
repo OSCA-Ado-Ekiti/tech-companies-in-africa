@@ -43,3 +43,9 @@
   - Founder: [Steve Biko](https://www.linkedin.com/in/stevebikoke) + Sebastian Mithika
 
   - Industry: Fintech
+
+- Company : [Zuri Health](https://nigeria.zuri.health/)
+
+  - Founder: [Ikechukwu Anoke](https://www.linkedin.com/in/ikechukwu-anoke)
+
+  - Industry: HealthTech, Telemedicine
