@@ -89,5 +89,12 @@ export default {
       industry: "Fintech",
       website: "https://moniepoint.com/ng",
     },
+    {
+      companyName: "Moringa School",
+      companyTwitterHandle: "moringaschool",
+      foundersTwitterHandle: [""],
+      industry: "Tech Education",
+      website: "https://moringaschool.com",
+    },
   ],
 };
