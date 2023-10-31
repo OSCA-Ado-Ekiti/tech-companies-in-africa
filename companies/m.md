@@ -20,6 +20,13 @@
 
   - Industry: Tech Education
 
+- Company: [Moringa School](https://www.moringaschool.com/)
+
+  - Founder: [Audrey Cheng](https://www.linkedin.com/in/audrey-cheng1)
+
+  - Industry: Tech Education
+ 
+    
 - Company: [MytruQ](https://mytruq.com/)
 
   - Founder: [@WilliamsFatayo](https://twitter.com/WilliamsFatayo)
