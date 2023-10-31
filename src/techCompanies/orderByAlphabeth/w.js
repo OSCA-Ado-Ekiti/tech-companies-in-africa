@@ -29,5 +29,12 @@ export default {
       industry: "Fintech",
       website: "https://app.wallets.africa",
     },
+    {
+      companyName: "Wakanow",
+      companyTwitterHandle: "Wakanowdotcom",
+      foundersTwitterHandle: ["ObinnaEkezie"],
+      industry: "Travel Tech Company",
+      website: "https://www.wakanow.com/",
+    },
   ],
 };

@@ -43,3 +43,9 @@
   - Founder: [thejohnoke](https://https.twitter.com/thejohnoke)
  
   - Industry: Fintech
+ 
+- Company: [Wakanow](https://www.wakanow.com/)
+
+  - Founder: [@ObinnaEkezie](https://twitter.com/ObinnaEkezie)
+
+  - Industry: Travel Tech Company
