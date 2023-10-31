@@ -90,11 +90,11 @@ export default {
       website: "https://moniepoint.com/ng",
     },
     {
-      companyName: "MallForAfrica",
-      companyTwitterHandle: "MallforAfrica",
-      foundersTwitterHandle: ["chrisfolayan"],
-      industry: "E-commerce",
-      website: "https://mallforafrica.com",
+      companyName: "Money Africa",
+      companyTwitterhandle: "themoneyafrica",
+      foundersTwitterHandle: ["tosinolaseinde"],
+      industry: "Fintech Education",
+      website: "https://themoneyafrica.com/",
     },
   ],
 };
