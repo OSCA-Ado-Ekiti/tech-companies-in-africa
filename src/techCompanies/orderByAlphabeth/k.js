@@ -85,5 +85,12 @@ export default {
       industry: "FinTech",
       website: "https://kweektransfer.com/"
     },
+    {
+      companyName: "Katwin & Dale",
+      companyTwitterHandle: "KatwignDale",
+      foundersTwitterHandle: ["Karen_Amarii"],
+      industry: "Legal Tech",
+      website: "https://www.katwiganddale.com/"
+    },
   ],
 };
