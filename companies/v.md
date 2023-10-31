@@ -16,7 +16,7 @@
 
 - company: [VSASF NIG LTD ](https://vsasftechng.com/)
 
-  - Founder: [Mr Thankgod.Okenn](https://www.linkedin.com/in/thankgod-okenna-5879a7183)
+  - Founder: Mr Thankgod.Okenn
 
   -Industry: Website development and maintenance
   
