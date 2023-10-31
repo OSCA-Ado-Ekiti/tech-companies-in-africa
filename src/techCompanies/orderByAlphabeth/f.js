@@ -141,5 +141,12 @@ export default {
       industry: "autotech",
       website: "https://fixit45.com/"
     },
+    {
+      companyName: "Farmcrowdy",
+      companyTwitterHandle: "farmcrowdy",
+      foundersTwitterHandle: ["onyekaakumah"],
+      industry: "Global Agtech",
+      website: "http://www.farmcrowdy.com/",
+    },
   ],
 };
