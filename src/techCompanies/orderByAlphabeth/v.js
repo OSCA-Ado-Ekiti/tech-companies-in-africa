@@ -73,8 +73,8 @@ export default {
     },
     {
       companyName: "VSASF NIG LTD",
-      companyLinkedinHandle: "https://www.linkedin.com/company/90369277/",
-      foundersTwitterHandle: [""],
+      companyTwitterHandle: "NSAVTech",
+      foundersTwitterHandle: [ ],
       industry: "Website development and Maintenance",
       website: "https://vsasftechng.com",
     },
