@@ -4,9 +4,9 @@
 
 - Company: [Haut Institute of Technology](https://haut.framer.website/)
 
-    - Founders: [Ibrahim Salami](https://twitter.com/AbooHameedah)
-    
-    - Industry: Tech Education
+  - Founders: [Ibrahim Salami](https://twitter.com/AbooHameedah)
+
+  - Industry: Tech Education
 
 - Company: [HydroIQ](https://www.hydroiq.co.ke)
 
@@ -43,10 +43,15 @@
   - Founders: [Constance Oshafi](https://www.linkedin.com/in/hon-constance-oshafi-07a5153b/), [Stephen Onwe](https://www.twitter.com/onwe_stephen), and [Paul Showemimo](https://www.linkedin.com/in/paulshowemimo)
 
   - Industry: Tech insurance
- 
 
 * Company: [Helium Health](https://heliumhealth.com/)
 
   - Founders: [Adegoke Olubisi](https://www.linkedin.com/in/adegokeolubusi), [Dimeji Sofowora](https://ng.linkedin.com/in/dimeji-sofowora-65a20a3b), and [Tito Ovia](https://www.linkedin.com/in/tito-ovia-51aa0413a)
+
+  - Industry: Health Tech
+
+* Company: [HealthTracka](https://healthtracka.com/)
+
+  - Founder: [Ifeoluwa Dare-Johnson](https://www.linkedin.com/in/ifeoluwadarejohnson/)
 
   - Industry: Health Tech
