@@ -15,6 +15,13 @@ export default {
       industry: "Real Estate",
       website: "https://www.buysafehouse.com",
     },
+     {
+      companyName: "Seamfix",
+      companyTwitterHandle: "@seamfixltd",
+      foundersTwitterHandle: [ ],
+      industry: "Software Engineering",
+      website: "https://seamfix.com/",
+    },
     {
       companyName: "Sembuse",
       companyTwitterHandle: "@sembuse.com",

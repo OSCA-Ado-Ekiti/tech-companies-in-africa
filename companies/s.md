@@ -26,6 +26,12 @@
 
   - Industry: Transportation
 
+- Company: [saemfix](https://seamfix.com/)
+
+  - Founder: Chimezie Emewulu
+  
+  - Industry: Sofware Engineering
+
 - Company: [Shecluded](https://shecluded.com/)
 
   - Founder: [@ifyhopee](https://twitter.com/ifyhopee)
