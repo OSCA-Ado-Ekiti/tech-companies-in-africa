@@ -54,8 +54,15 @@ export default {
       companyName: "Flex",
       companyTwitterHandle: "yourflexapp",
       foundersTwitterHandle: ["realsisititi", "ekojournalist"],
-      industry: "FunTech",
+      industry: "FinTech",
       website: "https://flex.com.ng",
+    },
+    {
+      companyName: "FlexFin Tx",
+      companyTwitterHandle: FlexFinTx",
+      foundersTwitterHandle: ["victor_mapunga"],
+      industry: "FinTech",
+      website: "https://flexfintx.com",
     },
     {
       companyName: "FairMoney",
