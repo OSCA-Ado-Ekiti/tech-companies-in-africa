@@ -56,6 +56,12 @@
 
   - Industry: Developer Tools
 
+- Company: [FlexFin Tx](https://flexfintx.com/)
+
+  - Founder: [@Victor Mapunga](https://twitter.com/victor_mapunga)
+
+  - Industry: FinTech
+   
 - Company: [FluxTechAfrica](https://fluxtechafrica.com/)
 
   - Founder: [@isokowalter](https://twitter.com/isokowalter)

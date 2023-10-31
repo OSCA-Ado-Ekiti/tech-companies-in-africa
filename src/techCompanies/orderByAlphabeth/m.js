@@ -90,6 +90,13 @@ export default {
       website: "https://moniepoint.com/ng",
     },
     {
+      companyName: "Money Africa",
+      companyTwitterhandle: "themoneyafrica",
+      foundersTwitterHandle: ["tosinolaseinde"],
+      industry: "Fintech Education",
+      website: "https://themoneyafrica.com/",
+    },
+    {
       companyName: "Moringa School",
       companyTwitterHandle: "moringaschool",
       foundersTwitterHandle: [""],

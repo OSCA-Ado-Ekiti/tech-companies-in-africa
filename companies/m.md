@@ -63,3 +63,9 @@
   - Founders: [@Eniolorunda](https://twitter.com/Eniolorunda) + [Felix Ike](https://www.linkedin.com/in/felix-ike-b9747158/)
 
   - Industry: Fintech
+
+- Company: [Money Africa](https://themoneyafrica.com/)
+
+  - Founders: [@Oluwatosin Olaseinde](https://www.linkedin.com/in/tosinmoneyafrica)
+
+  - Industry: Fintech Education 

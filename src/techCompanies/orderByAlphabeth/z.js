@@ -50,5 +50,12 @@ export default {
       industry: "fintech",
       website: "https://www.zanifu.com/",
     },
+    {
+      companyName: "Zuri Health",
+      companyTwitterHandle: "ZuriHealth",
+      foundersLinkedInHandle: ["IkechukwuAnoke"],
+      industry: "healthtech",
+      website: "https://nigeria.zuri.health/",
+    },
   ],
 };
