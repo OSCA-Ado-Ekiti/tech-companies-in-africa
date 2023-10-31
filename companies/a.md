@@ -58,7 +58,7 @@
 
 - Company: [Akowe](https://akowe.app/)
 
-  - Founder: [Ayodeji Agboola](https://www.linkedin.com/in/ayodejiaa/)
+  - Founder: [Ayodeji Agboola](https://www.twitter.com/mededot)
 
   - Industry: Blockchain technology
 

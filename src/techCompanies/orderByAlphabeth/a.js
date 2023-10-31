@@ -102,7 +102,7 @@ export default {
     {
       companyName: "Akowe",
       companyTwitterHandle: "Akoweapp",
-      foundersLinkedInHandle: ["https://www.linkedin.com/in/ayodejiaa/"],
+      foundersTwitterHandle: ["mededot"],
       industry: "Blockchain",
       website: "https://akowe.app/",
     },
