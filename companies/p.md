@@ -61,3 +61,9 @@
   - Founder: Dady Mael + Kader Saka
   
   - Industry: FinTech
+ 
+- Company : [Prunedge](https://prunedge.com)
+
+  - Founder : [@JoelOgunsola](https://twitter.com/JoelOgunsola)
+  
+  - Industry: Tech Agency
