@@ -67,3 +67,9 @@
   - Founder: Arnold Terna Agure-DamArnold Terna Agure-Dam
 
   - Industry: FinTech
+    
+- Company: [Katwin & Dale](https://www.katwiganddale.com/)
+
+  - Founder: [Karen Chukwu](https://twitter.com/Karen_Amarii)
+
+  - Industry: Legal Tech
