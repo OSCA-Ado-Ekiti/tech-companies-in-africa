@@ -8,6 +8,12 @@
 
   - Industry : Retail & commerce
 
+- Company: [Medsaf](https://medsaf.com)
+
+  - Founder: [Vivian Nwakah](https://www.linkedin.com/in/viviannwakah/)
+
+  - Industry: HealthCare
+  
 - Company: [M-KOPA SOLAR]()
 
   - Founder: [Jesse Moore](https://twitter.com/jessemoore)
