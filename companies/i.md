@@ -14,6 +14,12 @@
 
   - Industry: CleanTech
 
+- Company: [interswitch Groups](https://interswitchgroup.com/)
+
+  - Founders: [@Mitchell Elegbe](https://twitter.com/MitchellElegbe)
+
+  - Industry: FinTech
+  
 - Company: [iiDENTIFii](https//iidentifii.com/)
 
   - Founders: Robert Sussman + Gur Geva + Lance Fanaroff
