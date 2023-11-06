@@ -26,6 +26,12 @@
 
   - Industry: Logistics
 
+- Company: [Addicnet](https://www.addicnet.ng/)
+
+  - Founders: [@Freeman Addico](https://pl.linkedin.com/in/freeman-addico)
+
+  - Industry: Cloud Computing
+
 - Company: [Aella Credit](https://aellacredit.com/)
 
   - Founder: [@akinJones](https://twitter.com/akinj110)
