@@ -38,6 +38,12 @@
 
   - Industry: Customer service software & Customer experience software
 
+- Company: [BitPesa](https://bitpesa.co/)
+
+  - Founders: Elizabeth Rossiello
+
+  - Industry: FinTech
+
 - Company: [Branch](https://branch.com.ng/) 
   
    - Founders: [@djungian](https://twitter.com/djungian) + [@mattflannery](https://twitter.com/mattflannery) 
