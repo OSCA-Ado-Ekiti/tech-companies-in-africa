@@ -17,9 +17,9 @@ export default {
     },
     {
       companyName: "Opay",
-      companyTwitterHandle: "opay",
+      companyTwitterHandle: "OPay_NG",
       foundersTwitterHandle: ["Favourori_"],
-      industry: "Financial technology infrastructure",
+      industry: "FinTech",
       website: "https://opayweb.com/",
     },
     {
@@ -37,11 +37,11 @@ export default {
       website: "https://www.ourpass.co",
     },
     {
-      companyName: "OPay",
-      companyTwitterHandle: "OPay_NG",
-      foundersTwitterHandle: ["OPay_NG"],
-      industry: "Fintech",
-      website: "https://www.opayweb.com",
+      companyName: "Oze",
+      companyTwitterHandle: "oze",
+      foundersTwitterHandle: ["muhzle"],
+      industry: "Business App",
+      website: "https://www.getoze.com",
     },
   ],
 };
