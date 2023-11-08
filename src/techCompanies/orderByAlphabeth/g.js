@@ -30,6 +30,13 @@ export default {
       website: "https://www.getequity.io",
     },
     {
+      companyName: "GoFree",
+      companyTwitterHandle: "joingofree",
+      foundersTwitterHandle: ["johnoseni4"],
+      industry: "FinTech",
+      website: "https://joingofree.com",
+    },
+    {
       companyName: "Gona",
       companyTwitterHandle: "GonaJudy",
       foundersTwitterHandle: ["gona_judy"],
