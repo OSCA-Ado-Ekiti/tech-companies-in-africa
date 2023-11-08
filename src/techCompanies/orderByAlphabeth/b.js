@@ -22,6 +22,13 @@ export default {
       industry: "Travel Agency",
       website: "https://www.barnaamaj.com",
     },
+    {
+      companyName: "BitPesa",
+      companyTwitterHandle: "BitPesa",
+      foundersTwitterHandle: ["e_rossiello"],
+      industry: "FinTech",
+      website: "https://bitpesa.co",
+    },
     { 
       companyName: "Branch", 
       companyTwitterHandle: "branch", 
