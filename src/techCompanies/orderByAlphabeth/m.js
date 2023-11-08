@@ -2,6 +2,13 @@ export default {
   startsWith: "m",
   companies: [
     {
+      companyName: "Medsaf",
+      companyTwitterHandle: "MedsafCom",
+      foundersTwitterHandle: [""],
+      industry: "HealthTech",
+      website: "https://medsaf.com",
+    },
+    {
       companyName: "M-Kopa solar",
       companyTwitterHandle: "mkopasolar",
       foundersTwitterHandle: ["jessemoore"],
