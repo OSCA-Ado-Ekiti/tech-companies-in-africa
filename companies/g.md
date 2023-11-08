@@ -61,3 +61,9 @@
   - Founders: [@gataharrison](https://twitter.com/gataharrison)
 
   - Industry: Transportation
+
+- Company: [GoFree](https://joingofree.com)
+
+  - Founders: [@Lekan Adejumo](https://twitter.com/TheKingEls) & [@John Oseni](https://twitter.com/johnoseni4)
+
+  - Industry: FinTech
