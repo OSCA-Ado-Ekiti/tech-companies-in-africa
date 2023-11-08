@@ -30,6 +30,13 @@ export default {
       website: "https://www.globalaccelerex.com/",
     },
     {
+      companyName: "Addicnet",
+      companyTwitterHandle: "",
+      foundersTwitterHandle: [ ],
+      industry: "Cloud computing",
+      website: "https://www.addicnet.com/",
+    },
+    {
       companyName: "Aerobotics",
       companyTwitterHandle: "Aerobotics_Intl",
       foundersTwitterHandle: ["benjimeltzer"],
