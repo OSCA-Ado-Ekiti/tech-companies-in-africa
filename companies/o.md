@@ -31,3 +31,9 @@
   - Founders: [@yhui_zhou](https://twitter.com/OPay_NG)
 
   - Industry: Fintech
+
+- Company: [Oze](https://www.getoze.com)
+
+  - Founders: [@Meghan McCormick](https://twitter.com/muhzle)
+
+  - Industry: Business App
