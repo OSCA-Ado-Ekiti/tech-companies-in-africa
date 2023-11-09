@@ -113,6 +113,13 @@ export default {
       industry: "Blockchain",
       website: "https://akowe.app/",
     },
+    {
+      companyName: "Autochek",
+      companyTwitterHandle: "AutochekAfrica",
+      foundersTwitterHandle: ["etopty"],
+      industry: "Auto-tech",
+      website: "https://autochek.africa/",
+    },
   ],
 };
 
