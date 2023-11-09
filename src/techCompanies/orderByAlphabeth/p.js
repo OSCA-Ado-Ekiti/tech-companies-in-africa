@@ -16,6 +16,13 @@ export default {
       website: "https://www.mypaga.com/",
     },
     {
+      companyName: "Pawame",
+      companyTwitterHandle: "PawameAfrica",
+      foundersTwitterHandle: ["MajdChaaya"],
+      industry: "Energy Transformation",
+      website: "https://pawame.com",
+    },
+    {
       companyName: "Pocket by Piggyvest",
       companyTwitterHandle: "@getpocketapp",
       foundersTwitterHandle: ["@OdunEweniyi"],
