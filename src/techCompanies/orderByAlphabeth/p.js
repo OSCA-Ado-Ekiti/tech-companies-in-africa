@@ -2,6 +2,13 @@ export default {
   startsWith: "p",
   companies: [
     {
+      companyName: "Paperless",
+      companyTwitterHandle: "paperlessenv_",
+      foundersTwitterHandle: ["david_stont"],
+      industry: "Tech Services",
+      website: "https://paperlessenv.app",
+    },
+    {
       companyName: "Paystack",
       companyTwitterHandle: "paystack",
       foundersTwitterHandle: ["shollsman", "0x"],
