@@ -73,3 +73,9 @@
   - Founder : [@JoelOgunsola](https://twitter.com/JoelOgunsola)
   
   - Industry: Tech Agency
+
+- Company : [Pawame](https://pawame.com)
+
+  - Founder : [@Majd Chaaya](https://twitter.com/Majdchaaya)
+  
+  - Industry: Energy company
