@@ -16,13 +16,6 @@ export default {
       website: "https://onlinehubng.com",
     },
     {
-      companyName: "Opay",
-      companyTwitterHandle: "OPay_NG",
-      foundersTwitterHandle: ["Favourori_"],
-      industry: "FinTech",
-      website: "https://opayweb.com/",
-    },
-    {
       companyName: "Payday",
       companyTwitterHandle: "ourpaydayHQ",
       foundersTwitterHandle: ["Favourori_"],
