@@ -269,6 +269,19 @@ footer {
   font-weight: normal;
 }
 
+#contributor-container{
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.contributors img{
+    width: 30px;
+    border-radius: 50%;
+}
+
 .input-search {
   padding: 0.6rem 0.5rem;
   border-radius: 0.2rem;

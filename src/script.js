@@ -162,6 +162,29 @@ const fetchGitHubContributors = () => {
 };
 
 // Call the function to fetch GitHub contributors
+
+function getContributors() {
+    fetch('https://api.github.com/repos/ariyoaresa/ai-list/contributors')
+        .then(response => response.json())
+        .then(values => {
+            contributorsDiv = document.getElementById('contributor-container');
+            if (values.length === 0) {
+                contributorsDiv.innerHTML = "<h3>No contributors found</h3>";
+            } else {
+                let contributorsHTML = "";
+                values.forEach(value => {
+                    contributorsHTML += `
+                    <div class="contributors">
+                        <img src="${value.avatar_url}" alt="User's Avatar" class="userImage">
+                    </div>
+                    `;
+                });     
+                contributorsDiv.innerHTML = contributorsHTML;
+            }
+        });
+}
+
+getContributors();
 fetchGitHubContributors();
 
 // Update copyright date
