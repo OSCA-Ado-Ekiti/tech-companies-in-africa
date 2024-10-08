@@ -2,11 +2,6 @@
 
 [Return to README](../README.md)
 
-- Company: [abeg_app](https://abeg.app/profile/abegstore)
-
-  - Founder: [@dare\_\_\_a](https://twitter.com/dare___a)
-
-  - Industry: FinTech
 
 - Company : [Acadar](https://acadar.com/)
 
