@@ -8,12 +8,6 @@
 
   - Industries: SME Banking
 
-- Company: [SpireAfrica](https://www.spire.africa/)
-
-  - Founders: [@madebycharles](https://twitter.com/madebycharles)
-
-  - Industry: Customer Experience (feedback)
-
 - Company: [SoochNigeria](https://m.facebook.com/soochnigeria)
 
   - Founder: [@jay_can_do](https://twitter.com/jay_can_do)

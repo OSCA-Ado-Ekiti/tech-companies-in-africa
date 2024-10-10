@@ -66,13 +66,6 @@ export default {
       website: "https://spatialnode.net/home",
     },
     {
-      companyName: "Spire Africa",
-      companyTwitterHandle: "SpireAfrica",
-      foundersTwitterHandle: ["madebycharles"],
-      industry: "Customer Experience (feedback)",
-      website: "https://www.getspire.io/",
-    },
-    {
       companyName: "SunFi",
       companyTwitterHandle: "sunfi_hq",
       foundersTwitterHandle: ["thomas_rotimi"],

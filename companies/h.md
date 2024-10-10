@@ -14,12 +14,6 @@
 
   - Industry: WaterTech
 
-* Company: [hytchafrica](https://linktr.ee/hytchafrica)
-
-  - Founder: [@thislaolu](https://twitter.com/thislaolu)
-
-  - Industry: Shared commuting.
-
 * Company: [handypal_ng](http://www.hanypalng.com/)
 
   - Founder: [@alajabrownedola](https://twitter.com/alajabrownedola)

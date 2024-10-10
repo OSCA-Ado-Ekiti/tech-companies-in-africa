@@ -30,13 +30,6 @@ export default {
       website: "https://linktr.ee/Herconomy",
     },
     {
-      companyName: "Hytch",
-      companyTwitterHandle: "hytchafrica",
-      foundersTwitterHandle: ["thislaolu"],
-      industry: "Shared commuting.",
-      website: "https://linktr.ee/hytchafrica",
-    },
-    {
       companyName: "Helium Health",
       companyTwitterHandle: "HeliumHealth",
       foundersTwitterHandle: ["ThisGokeBoySef"],
