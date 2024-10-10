@@ -37,13 +37,6 @@ export default {
       website: "https://https://www.zeddpay.com",
     },
     {
-      companyName: "Zumi",
-      companyTwitterHandle: "-",
-      foundersTwitterHandle: ["Sabrina Dorman", "William McCarren"],
-      industry: "e-commerce",
-      website: "https://www.zumi.co.ke/",
-    },
-    {
       companyName: "Zanifu",
       companyTwitterHandle: "ZanifuLtd",
       foundersLinkedInHandle: ["Steve Biko", "Sebastian Mithika"],
