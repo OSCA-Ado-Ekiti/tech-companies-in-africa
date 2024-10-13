@@ -57,5 +57,12 @@ export default {
       industry: "HealthTech",
       website: "https://healthtracka.com/"
     },
+    {
+      companyName: "HeyFood",
+      companyTwitterHandle: "heyfood",
+      foundersTwitterHandle: ["https://x.com/DemiOdetara"],
+      industry: "Delivery Service",
+      website: "https://www.heyfood.africa/"
+    },
   ],
 };

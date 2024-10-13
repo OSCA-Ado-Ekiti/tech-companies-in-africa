@@ -49,3 +49,9 @@
   - Founder: [Ifeoluwa Dare-Johnson](https://www.linkedin.com/in/ifeoluwadarejohnson/)
 
   - Industry: Health Tech
+
+* Company: [HeyFood](https://heyfood.africa/)
+
+  - Founder: [Akinropo Taiwo](https://www.linkedin.com/in/akinropo-taiwo/), [@DemiOdetara](https://twitter.com/DemiOdetara/)
+
+  - Industry: Delivery Service

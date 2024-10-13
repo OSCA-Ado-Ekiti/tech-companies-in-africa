@@ -50,5 +50,12 @@ export default {
       industry: "Software Development",
       website: "https://renda.co/",
     },
+    {
+      companyName: "Regfyl",
+      companyTwitterHandle: "regfyl",
+      foundersTwitterHandle: ["tomiwa12000"],
+      industry: "Software Development",
+      website: "https://www.regfyl.com/",
+    },
   ],
 };
