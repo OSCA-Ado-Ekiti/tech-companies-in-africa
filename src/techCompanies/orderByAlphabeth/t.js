@@ -125,5 +125,12 @@ export default {
       industry: "Food Technology",
       website: "https://www.twiga.com",
     },
+    {
+      companyName: "Tespire",
+      companyTwitterHandle: "JoinTespire",
+      foundersTwitterHandle: ["Abdulkabir Suleiman Lapai", "Umar Madugu"],
+      industry: "Edtech",
+      website: "https://tespire.tech",
+    },
   ],
 };

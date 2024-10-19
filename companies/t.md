@@ -86,3 +86,9 @@
  - Founder: [@SerameTaukobong](https://www.twitter.com/Telkomcare_ke)
   
  - Industry: Communication and IT services 
+
+- Company: [Tespire](https://tespire.tech)
+  
+ - Founder: ["Abdulkabir Suleiman Lapai"](https://www.twitter.com/MalmeeMohammed) + ["Umar Madugu"](https://www.twitter.com/iemyu_)
+  
+ - Industry: Edtech 
