@@ -59,7 +59,7 @@ export default {
     },
     {
       companyName: "FlexFin Tx",
-      companyTwitterHandle: FlexFinTx",
+      companyTwitterHandle: "FlexFinTx",
       foundersTwitterHandle: ["victor_mapunga"],
       industry: "FinTech",
       website: "https://flexfintx.com",
@@ -147,6 +147,13 @@ export default {
       founderLinkedInHandle: ["https://www.linkedin.com/in/pankaj-bohhra-94087943/"],
       industry: "autotech",
       website: "https://fixit45.com/"
+    },
+    {
+      companyName: "FoodpreneursHub",
+      companyLinkedInHandle: "https://www.linkedin.com/company/foodpreneurs-hub/",
+      founderLinkedInHandle: ["https://www.linkedin.com/in/adeyosolake/"],
+      industry: "foodtech",
+      website: "https://foodpreneurshub.com/"
     },
   ],
 };

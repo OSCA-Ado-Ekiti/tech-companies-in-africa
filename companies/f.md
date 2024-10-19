@@ -98,3 +98,9 @@
   - Founders: [Pankaj Bohhra](https://www.linkedin.com/in/pankaj-bohhra-94087943/) + Chioma Ahueze Okochukwu
 
   - Industry: Autotech
+
+- Company: [Foodpreneurs Hub](https://foodpreneurshub.com/)
+
+  - Founders: [Olushola Oladejo](https://www.twitter.com/OladejoOlushola) + [Yosola Oke](https://www.linkedin.com/in/adeyosolake/)
+
+  - Industry: Foodtech
