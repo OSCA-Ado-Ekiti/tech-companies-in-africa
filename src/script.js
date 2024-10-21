@@ -1,100 +1,120 @@
+
 import techCompanies from "./techCompanies/index.js";
 
-//constants
+// Constants
+const searchBar = document.getElementById("search-input");
+const searchBtn = document.getElementById("search-btn");
 const mainSection = document.querySelector(".main-wrapper");
-const searchBar = document.querySelector(".input-search");
 const updateDate = document.querySelector(".copyright-date");
+const alphabetLinks = document.querySelectorAll('#nav-links a');
 
-// Searchbar
-let companyResult = techCompanies;
-
-searchBar.addEventListener("keyup", (e) => {
-  const searchResult = e.target.value.toLowerCase();
-
+// Search function that will be triggered on button click
+const searchCompanies = () => {
+  const searchTerm = searchBar.value.toLowerCase();
   let results = [];
 
-  companyResult.forEach(({ startsWith, companies }) => {
-    const result = companies.filter((company) =>
-      company.companyName.toLowerCase().includes(searchResult)
+  // Loop through each letter's companies
+  techCompanies.forEach(({ startsWith, companies }) => {
+    // Filter companies based on the search term
+    const filteredCompanies = companies.filter(company =>
+      company.companyName.toLowerCase().includes(searchTerm)
     );
 
-    results = [...results, { startsWith, companies: result }];
+    // If any matching companies are found, add them to the results
+    if (filteredCompanies.length > 0) {
+      results.push({ startsWith, companies: filteredCompanies });
+    }
   });
 
-  showCompanies(results);
+  // Update the UI to display search results
+  displayCompanies(results);
+};
+
+// Attach the search function to the button click event
+searchBtn.addEventListener("click", searchCompanies);
+searchBar.addEventListener("keypress", (event) => {
+  if (event.key === "Enter") {
+    searchCompanies();
+  }
 });
 
-const showCompanies = (companyGroups) => {
-  const techCompaniesHTML = companyGroups
-    .map((companyGroup) => {
+// Function to display the companies in the main section
+const displayCompanies = (companyGroups) => {
+  // Clear previous results
+  mainSection.innerHTML = '';
+
+  // Loop through each alphabet group and display the filtered companies
+  const htmlOutput = companyGroups
+    .map((group) => {
       return `
-    <h2 class="section-id">${companyGroup.startsWith}</h2>
-
-    <ul class="companies-list">
-    ${companyGroup.companies
-      .map((company) => {
-        return `
-        <section id=${companyGroup.startsWith}>
-              <li class="company-card">
-                <h3 class="company-card_name">${company.companyName}</h3>
-
-                <a
-                  class="company-card_website"
-                  href="${company.website}"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img
-                    src="./assets/external-link.png"
-                    alt="external link icon"
-                /></a>
-
-                <p class="company-card_industry">Industry: ${
-                  company.industry
-                }</p>
-
-                <p class="company-card_founders">
-                 Founders:
-                  ${company.foundersTwitterHandle
-                    .map(
-                      (founder) =>
-                        `<a
-                    href="http://twitter.com/${founder}"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >@${founder}</a
-                  >`
-                    )
-                    .join(", ")}
-                </p>
-
-                <p class="company-card_twitter-handle">
-                  Twitter Handle:
+        <h2 class="section-id">${group.startsWith.toUpperCase()}</h2>
+        <ul class="companies-list">
+          ${group.companies
+            .map((company) => {
+              return `
+                <li class="company-card">
+                  <h3 class="company-card_name">${company.companyName}</h3>
                   <a
-                    href="http://twitter.com/${company.companyTwitterHandle}"
+                    class="company-card_website"
+                    href="${company.website}"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >@${company.companyTwitterHandle}</a
                   >
-                </p>
-              </li>
-    </section>
-
+                    <img src="./assets/external-link.png" alt="external link icon"/>
+                  </a>
+                  <p class="company-card_industry">Industry: ${company.industry}</p>
+                  <p class="company-card_founders">
+                    Founders:
+                    ${company.foundersTwitterHandle
+                      .map(
+                        (founder) =>
+                          `<a href="http://twitter.com/${founder}" target="_blank" rel="noopener noreferrer">@${founder}</a>`
+                      )
+                      .join(", ")}
+                  </p>
+                  <p class="company-card_twitter-handle">
+                    Twitter Handle:
+                    <a href="http://twitter.com/${company.companyTwitterHandle}" target="_blank" rel="noopener noreferrer">
+                      @${company.companyTwitterHandle}
+                    </a>
+                  </p>
+                </li>
+              `;
+            })
+            .join('')}
+        </ul>
       `;
-      })
-      .join("")}
-      
-    </ul>
-
-    `;
     })
-    .join("");
-  mainSection.innerHTML = techCompaniesHTML;
+    .join('');
+
+  // Insert the new HTML into the DOM
+  mainSection.innerHTML = htmlOutput;
+
+  // Handle the case where no results are found
+  if (companyGroups.length === 0) {
+    mainSection.innerHTML = "<p>No companies found matching your search.</p>";
+  }
 };
-showCompanies(techCompanies);
+
+// Implementing the alphabet links functionality
+alphabetLinks.forEach(link => {
+  link.addEventListener('click', (event) => {
+    event.preventDefault(); // Prevent default anchor behavior
+    const letter = link.textContent.toLowerCase();
+
+    // Find the company group starting with the clicked letter
+    const filteredCompanies = techCompanies.find(group => group.startsWith.toLowerCase() === letter);
+    
+    // Display filtered results if found
+    if (filteredCompanies) {
+      displayCompanies([filteredCompanies]); // Display filtered results
+    } else {
+      mainSection.innerHTML = "<p>No companies found starting with this letter.</p>";
+    }
+  });
+});
 
 // Function to create contributor profiles
-
 const createContributorProfiles = (contributors) => {
   const contributorContainer = document.querySelector(".contributor-container");
 
@@ -162,29 +182,6 @@ const fetchGitHubContributors = () => {
 };
 
 // Call the function to fetch GitHub contributors
-
-function getContributors() {
-    fetch('https://api.github.com/repos/ariyoaresa/ai-list/contributors')
-        .then(response => response.json())
-        .then(values => {
-            contributorsDiv = document.getElementById('contributor-container');
-            if (values.length === 0) {
-                contributorsDiv.innerHTML = "<h3>No contributors found</h3>";
-            } else {
-                let contributorsHTML = "";
-                values.forEach(value => {
-                    contributorsHTML += `
-                    <div class="contributors">
-                        <img src="${value.avatar_url}" alt="User's Avatar" class="userImage">
-                    </div>
-                    `;
-                });     
-                contributorsDiv.innerHTML = contributorsHTML;
-            }
-        });
-}
-
-getContributors();
 fetchGitHubContributors();
 
 // Update copyright date
