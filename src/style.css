@@ -83,49 +83,77 @@ footer {
 /** header */
 header {
   text-align: center;
-  background-color: #006d5b;
-  color: #eee;
+  background-color: #006d5b; /* Header background color */
+  color: #eee;                /* Header text color */
   position: relative;
 }
 
-a.contribute-link {
-  position: absolute;
-  right: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 1rem;
-  padding: 0 10px;
-  background-color: hsl(0, 0%, 96%);
-  color: hsl(0, 0%, 26%);
-  border-radius: 0 0 5px 5px;
-}
-
-.contribute-link > img {
-  width: 1em;
-  height: 1em;
-  margin-right: 5px;
-}
-
 .header-wrapper {
-  padding: 60px 0;
+  padding: 60px 20px; /* Adjusted padding for smaller screens */
 }
 
 .header-title {
   font-family: "Poppins", sans-serif;
+  font-size: 2.5rem; /* Adjust size as needed */
 }
+
 .header-subtitle {
   margin-top: 30px;
+  font-size: 1.2rem; /* Adjust size as needed */
 }
 
 .company-nav-links {
-  margin-top: 60px;
-  padding-left: 40px;
-  padding-right: 40px;
+  margin-top: 40px;
+  padding: 0 20px; /* Adjust padding for smaller screens */
+}
+
+.company-nav-links > a {
+  color: #eee; /* Link color */
+  text-decoration: none; /* Remove underline */
 }
 
 .company-nav-links > a:hover {
-  text-decoration: underline;
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Search Wrapper */
+.search-wrapper {
+  display: flex;
+  justify-content: center; /* Center the search input and button */
+  margin-top: 30px; /* Space above search bar */
+}
+
+/* Input Styles */
+.input-search {
+  padding: 10px;
+  border: 2px solid #eee; /* Border color */
+  border-radius: 5px 0 0 5px; /* Rounded corners */
+  outline: none; /* Remove outline */
+  width: 250px; /* Width of input */
+}
+
+/* Search Button Styles */
+.search-container {
+  display: flex; /* Align input and button */
+}
+
+.search-btn {
+  background-color: #007BFF; /* Button background color */
+  color: white; /* Button text color */
+  border: none; /* Remove border */
+  border-radius: 0 5px 5px 0; /* Rounded corners */
+  padding: 10px; /* Add padding */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Transition for hover effect */
+}
+
+.search-btn:hover {
+  background-color: #0056b3; /* Darken background on hover */
+}
+
+.search-btn svg {
+  width: 16px; /* SVG width */
+  height: 16px; /* SVG height */
 }
 
 /** companies  */
@@ -133,6 +161,7 @@ main {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
 
 .company-sections {
   margin-bottom: 20px;
