@@ -83,14 +83,14 @@ export default {
       foundersTwitterHandle: ["Akinfals"],
       industry: "Peopletech",
       website: "https://www.peoplebeam.co/",
-    }
+    },
     {
       companyName: "Bwala Africa",
       companyTwitterHandle: "bwalaofficial",
-      foundersTwitterHandle: [""],
+      foundersTwitterHandle: ["ss"],
       industry: "Logistics",
       website: "https://bwala.africa",
-    }
+    },
     {
       companyName: "Best Value Providers",
       companyTwitterHandle: "BvProviders",

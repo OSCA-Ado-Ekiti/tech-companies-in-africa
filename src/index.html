@@ -4,19 +4,17 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" href="company.png">
-    <!--* The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="icon" type="image/png" href="../src/company.png" />
 
-    <!--* Title -->
     <title>List Of Tech Companies In Africa</title>
 
-    <!-- * SEO Meta Tags -->
-    <!-- Primary Meta Tags -->
+    <!-- SEO Meta Tags -->
     <meta name="title" content="List Of Tech Companies In Africa" />
     <meta
       name="description"
       content="A List of Tech companies in Africa, Their Founder(s) and The Industry they are into."
     />
+    
     <!-- Open Graph / Facebook Meta Tags -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="" />
@@ -36,71 +34,75 @@
     />
     <meta property="twitter:image" content="" />
 
-    <!--* Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Domine&family=Poppins&display=swap"
       rel="stylesheet"
     />
-
-    <!--* CSS -->
     <link rel="stylesheet" type="text/css" href="./style.css" />
   </head>
 
   <body>
-    <!--* container/body wrapper for every content in the body -->
     <div class="flex">
-      <a href="#nav-links" class="back-to-top">
-        <img src="./assets/arrow-up.png" alt="" />
-      </a>
-
-      <!-- * Banner -->
       <header>
-        <a
-          href="https://github.com/OSCA-Ado-Ekiti/tech-companies-in-africa"
-          target="_blank"
-          class="contribute-link"
-          ><img src="./assets/github.png" alt="github icon" />GitHub</a
-        >
-
         <div class="header-wrapper">
-          <h1 class="header-title">List Of Tech Companies In Africa.</h1>
-          <p class="header-subtitle"></p>
+          <h1 class="header-title">List Of Tech Companies In Africa</h1>
+          <p class="header-subtitle">
             A List of Tech companies in Africa, their founder(s), the industry
             they are into, and their twitter handles.
           </p>
+      
+          <!-- Alphabet Links for routing to specific sections -->
           <p class="company-nav-links" id="nav-links">
             <a href="#a">A</a> | <a href="#b">B</a> | <a href="#c">C</a> |
-            <a href="#e">D</a> | <a href="#e">E</a> | <a href="#f">F</a> |
+            <a href="#d">D</a> | <a href="#e">E</a> | <a href="#f">F</a> |
             <a href="#g">G</a> | <a href="#h">H</a> | <a href="#i">I</a> |
             <a href="#j">J</a> | <a href="#k">K</a> | <a href="#l">L</a> |
             <a href="#m">M</a> | <a href="#n">N</a> | <a href="#o">O</a> |
             <a href="#p">P</a> | <a href="#q">Q</a> | <a href="#r">R</a> |
             <a href="#s">S</a> | <a href="#t">T</a> | <a href="#u">U</a> |
             <a href="#v">V</a> | <a href="#w">W</a> | <a href="#x">X</a> |
-            <a href="#y">Y</a> | <a href="#z">Z</a> | <a href="#*">*</a>
+            <a href="#y">Y</a> | <a href="#z">Z</a> |
           </p>
-
-          <input type="text" class="input-search" placeholder="Search for companies..." />
+      
+          <div class="search-wrapper">
+            <input
+              type="text"
+              id="search-input"
+              class="input-search"
+              placeholder="Search for companies..."
+            />
+            <div class="search-container">
+              <button id="search-btn" class="search-btn" aria-label="Search">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="feather feather-search"
+                >
+                  <circle cx="11" cy="11" r="8" />
+                  <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                </svg>
+              </button>
+            </div>
+          </div>
         </div>
       </header>
+      
 
       <main>
-        <div class="main-wrapper">
-        </div>
+        <div class="main-wrapper"></div>
       </main>
 
       <footer>
-        <div class="contributors">
-          <h3>Contributors</h3>
-          <div id="contributor-container">
-          </div>
-        </div>
-
         <div class="footer-wrapper">
           <p class="copyright">
-            <img src="./assets/copyright.png" alt="copyright icon" />
+            <img src="./copyright.png" alt="copyright icon" />
             <span class="copyright-date"></span>
           </p>
 
@@ -117,7 +119,6 @@
       </footer>
     </div>
 
-    <!--* JavaScripts -->
     <script type="module" src="./script.js"></script>
   </body>
 </html>
